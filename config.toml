@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/idaho"
+languageCode = "en-US"
+title = "Idaho"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "idaho"
