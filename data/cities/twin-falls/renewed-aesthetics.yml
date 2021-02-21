@@ -1,6 +1,5 @@
 id: 8217861520
 type: node
-shop: beauty
 latitude: 42.5693472
 longitude: -114.45940540000001
 postcode: "83301"
@@ -8,5 +7,5 @@ city: Twin Falls
 street: "Blue Lakes Boulevard North"
 housenumber: 430
 phone: "1 (208) 595-8074"
-opening_hours: "Mon- 9am-4pm; Tues- 9am-4pm; Fri- 9am-4pm; Sat- 9am-4pm"
+opening_hours: "Mo,Tu,Fr,Sa 09:00-16:00"
 website: "https://square.site/book/0TWYZFH8RV683/renewed-aethetics-twin-falls-id"

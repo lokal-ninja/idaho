@@ -1,6 +1,6 @@
 ---
-title: wallace
+title: Wallace
 url: /wallace/
-latitude: 
-longitude: 
+latitude: 47.471634300000005
+longitude: -115.9237221
 ---

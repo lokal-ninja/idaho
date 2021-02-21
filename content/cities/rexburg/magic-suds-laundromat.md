@@ -1,4 +1,5 @@
 ---
 title: "Magic Suds Laundromat"
 url: /rexburg/magic-suds-laundromat/
+shop: laundry
 ---
