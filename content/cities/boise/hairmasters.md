@@ -1,5 +1,5 @@
 ---
-title: "HairMasters"
+title: "Hairmasters"
 url: /boise/hairmasters/
 shop: hairdresser
 ---

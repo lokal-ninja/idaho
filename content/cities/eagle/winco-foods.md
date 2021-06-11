@@ -1,5 +1,5 @@
 ---
-title: "WinCo Foods"
+title: "Winco Foods"
 url: /eagle/winco-foods/
 shop: supermarket
 ---

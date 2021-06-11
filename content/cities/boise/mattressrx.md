@@ -1,5 +1,5 @@
 ---
-title: "MattressRx"
+title: "Mattressrx"
 url: /boise/mattressrx/
 shop: bed
 ---

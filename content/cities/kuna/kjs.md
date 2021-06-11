@@ -1,5 +1,5 @@
 ---
-title: "KJ's"
+title: "Kj's"
 url: /kuna/kjs/
 shop: convenience
 ---
