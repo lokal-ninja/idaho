@@ -1,6 +1,6 @@
 ---
 title: Stanley
 url: /stanley/
-latitude: 44.213697
-longitude: -114.938844
+latitude: 44.216141400000005
+longitude: -114.9378523
 ---

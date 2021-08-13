@@ -1,6 +1,6 @@
 ---
 title: Pocatello
 url: /pocatello/
-latitude: 42.868861300000006
-longitude: -112.4401098
+latitude: 42.8620287
+longitude: -112.45062700000001
 ---
