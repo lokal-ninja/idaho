@@ -1,5 +1,5 @@
 ---
-title: "Extramile"
+title: "ExtraMile"
 url: /meridian/extramile/
 shop: convenience
 ---
