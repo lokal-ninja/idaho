@@ -1,0 +1,5 @@
+---
+title: "Albertsons"
+url: /meridian/albertsons-2/
+shop: Supermarkt
+---
