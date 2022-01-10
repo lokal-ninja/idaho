@@ -1,5 +1,5 @@
 ---
 title: "Ambush Tactical"
 url: /garden-city/ambush-tactical/
-shop: Allgemein
+shop: shop
 ---

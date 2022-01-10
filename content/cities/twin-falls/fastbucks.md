@@ -1,5 +1,5 @@
 ---
 title: "FastBucks"
 url: /twin-falls/fastbucks/
-shop: Leiher
+shop: pawnbroker
 ---

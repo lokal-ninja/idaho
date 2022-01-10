@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /meridian/stinker-2/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nest"
 url: /eagle/nest/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /pocatello/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

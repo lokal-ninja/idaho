@@ -1,5 +1,5 @@
 ---
 title: "Loft"
 url: /meridian/loft/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "State Liquor Store"
 url: /twin-falls/state-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

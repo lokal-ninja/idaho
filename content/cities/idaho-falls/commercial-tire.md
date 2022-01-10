@@ -1,5 +1,5 @@
 ---
 title: "Commercial Tire"
 url: /idaho-falls/commercial-tire/
-shop: Reifen
+shop: tyres
 ---

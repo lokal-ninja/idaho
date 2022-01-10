@@ -1,5 +1,5 @@
 ---
 title: "Nutrishop"
 url: /meridian/nutrishop/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

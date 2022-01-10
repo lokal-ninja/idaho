@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /meridian/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

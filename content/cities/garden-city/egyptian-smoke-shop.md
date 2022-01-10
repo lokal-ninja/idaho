@@ -1,5 +1,5 @@
 ---
 title: "Egyptian Smoke Shop"
 url: /garden-city/egyptian-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

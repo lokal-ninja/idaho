@@ -1,5 +1,5 @@
 ---
 title: "Shadow's Paw Wash"
 url: /meridian/shadows-paw-wash/
-shop: Tiersalon
+shop: pet grooming
 ---

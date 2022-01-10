@@ -1,5 +1,5 @@
 ---
 title: "GoWireless"
 url: /meridian/gowireless/
-shop: Handy
+shop: mobile phone
 ---

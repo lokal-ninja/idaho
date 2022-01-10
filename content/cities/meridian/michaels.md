@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /meridian/michaels/
-shop: Basteln
+shop: craft
 ---

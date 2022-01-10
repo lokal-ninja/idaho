@@ -1,5 +1,5 @@
 ---
 title: "East Fork Bikes"
 url: /pocatello/east-fork-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

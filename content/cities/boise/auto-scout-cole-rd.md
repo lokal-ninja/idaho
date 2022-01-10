@@ -1,5 +1,5 @@
 ---
 title: "Auto Scout - Cole Rd"
 url: /boise/auto-scout-cole-rd/
-shop: Autohaus
+shop: car
 ---

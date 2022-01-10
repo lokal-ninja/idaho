@@ -1,5 +1,5 @@
 ---
 title: "The Nest"
 url: /meridian/the-nest/
-shop: Raumausstattung
+shop: interior decoration
 ---

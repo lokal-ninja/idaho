@@ -1,5 +1,5 @@
 ---
 title: "Northwest Knives"
 url: /meridian/northwest-knives/
-shop: Waffen
+shop: weapons
 ---

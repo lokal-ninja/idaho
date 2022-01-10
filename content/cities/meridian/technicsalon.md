@@ -1,5 +1,5 @@
 ---
 title: "Technicsalon"
 url: /meridian/technicsalon/
-shop: Friseur
+shop: hairdresser
 ---

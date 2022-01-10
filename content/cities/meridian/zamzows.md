@@ -1,5 +1,5 @@
 ---
 title: "Zamzows"
 url: /meridian/zamzows/
-shop: Garten-Center
+shop: garden centre
 ---

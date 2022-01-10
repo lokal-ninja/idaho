@@ -1,5 +1,5 @@
 ---
 title: "Winco"
 url: /idaho-falls/winco/
-shop: Supermarkt
+shop: supermarket
 ---

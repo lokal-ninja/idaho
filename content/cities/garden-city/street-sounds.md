@@ -1,5 +1,5 @@
 ---
 title: "Street Sounds"
 url: /garden-city/street-sounds/
-shop: Allgemein
+shop: shop
 ---

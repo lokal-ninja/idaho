@@ -1,5 +1,5 @@
 ---
 title: "Dillard's"
 url: /boise/dillards/
-shop: Warenhaus
+shop: department store
 ---

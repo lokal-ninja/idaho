@@ -1,5 +1,5 @@
 ---
 title: "Norco"
 url: /twin-falls/norco/
-shop: Sanitätshaus
+shop: medical supply
 ---

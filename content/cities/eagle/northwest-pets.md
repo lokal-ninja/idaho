@@ -1,5 +1,5 @@
 ---
 title: "Northwest Pets"
 url: /eagle/northwest-pets/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /nampa/shopko/
-shop: Warenhaus
+shop: department store
 ---

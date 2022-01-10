@@ -1,5 +1,5 @@
 ---
 title: "Western Transmission"
 url: /idaho/western-transmission/
-shop: Autowerkstatt
+shop: car repair
 ---

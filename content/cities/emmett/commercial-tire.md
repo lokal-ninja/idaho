@@ -1,5 +1,5 @@
 ---
 title: "Commercial Tire"
 url: /emmett/commercial-tire/
-shop: Reifen
+shop: tyres
 ---

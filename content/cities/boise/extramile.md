@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /boise/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

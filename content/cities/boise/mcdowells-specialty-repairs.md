@@ -1,5 +1,5 @@
 ---
 title: "McDowells Specialty Repairs"
 url: /boise/mcdowells-specialty-repairs/
-shop: Allgemein
+shop: shop
 ---

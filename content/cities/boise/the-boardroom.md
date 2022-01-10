@@ -1,5 +1,5 @@
 ---
 title: "The Boardroom"
 url: /boise/the-boardroom/
-shop: Kleidung
+shop: clothes
 ---

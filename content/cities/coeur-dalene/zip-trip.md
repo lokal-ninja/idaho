@@ -1,5 +1,5 @@
 ---
 title: "Zip Trip"
 url: /coeur-dalene/zip-trip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /pocatello/maverik/
-shop: Lebensmittel
+shop: convenience
 ---
