@@ -1,5 +1,5 @@
 ---
 title: "Lashed"
 url: /meridian/lashed/
-shop: shop
+shop: beauty
 ---
