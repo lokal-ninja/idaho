@@ -1,6 +1,6 @@
 ---
 title: Meridian
 url: /meridian/
-latitude: 43.592
-longitude: -116.366
+latitude: 43.604
+longitude: -116.415
 ---
