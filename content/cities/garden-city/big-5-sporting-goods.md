@@ -1,5 +1,5 @@
 ---
 title: "Big 5 Sporting Goods"
-url: /boise/big-5-sporting-goods-2/
+url: /garden-city/big-5-sporting-goods/
 shop: sports
 ---
