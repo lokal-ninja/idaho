@@ -1,5 +1,5 @@
 ---
 title: "The UPS Store"
-url: /boise/the-ups-store-2/
+url: /kuna/the-ups-store/
 shop: copyshop
 ---
