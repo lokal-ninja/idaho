@@ -1,6 +1,6 @@
 ---
 title: Coeur d'Alene
 url: /coeur-dalene/
-latitude: 47.721
-longitude: -116.791
+latitude: 47.701
+longitude: -116.767
 ---
