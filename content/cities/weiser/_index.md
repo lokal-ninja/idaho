@@ -1,6 +1,6 @@
 ---
 title: Weiser
 url: /weiser/
-latitude: 44.255
-longitude: -116.962
+latitude: 44.244
+longitude: -116.966
 ---
