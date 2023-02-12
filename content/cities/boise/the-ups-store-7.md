@@ -1,5 +1,0 @@
----
-title: "The UPS Store"
-url: /boise/the-ups-store-7/
-shop: copyshop
----
