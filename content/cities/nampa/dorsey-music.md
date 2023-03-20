@@ -1,5 +1,5 @@
 ---
 title: "Dorsey Music"
 url: /nampa/dorsey-music/
-shop: music
+shop: musical instrument
 ---
