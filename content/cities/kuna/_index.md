@@ -1,6 +1,6 @@
 ---
 title: Kuna
 url: /kuna/
-latitude: 43.491
-longitude: -116.418
+latitude: 43.501
+longitude: -116.396
 ---
