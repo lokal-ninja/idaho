@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /boise/staples/
+url: /boise/staples-west-preece-drive/
 shop: office supplies
 ---

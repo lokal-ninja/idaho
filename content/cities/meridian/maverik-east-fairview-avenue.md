@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /meridian/maverik/
+url: /meridian/maverik-east-fairview-avenue/
 shop: convenience
 ---

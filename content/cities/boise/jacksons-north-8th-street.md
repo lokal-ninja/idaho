@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /boise/jacksons/
+url: /boise/jacksons-north-8th-street/
 shop: convenience
 ---

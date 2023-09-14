@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /boise/albertsons/
+url: /boise/albertsons-west-state-street-2/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
-url: /meridian/stinker/
+url: /meridian/stinker-west-mcmillan-road/
 shop: convenience
 ---

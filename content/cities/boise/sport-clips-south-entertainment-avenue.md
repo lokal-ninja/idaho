@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
-url: /boise/sport-clips/
+url: /boise/sport-clips-south-entertainment-avenue/
 shop: hairdresser
 ---

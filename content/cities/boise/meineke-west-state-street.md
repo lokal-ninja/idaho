@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
-url: /boise/meineke/
+url: /boise/meineke-west-state-street/
 shop: car repair
 ---

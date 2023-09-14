@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /meridian/jacksons/
+url: /meridian/jacksons-east-pine-avenue/
 shop: convenience
 ---

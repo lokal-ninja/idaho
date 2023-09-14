@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
-url: /boise/cash-store/
+url: /boise/cash-store-west-state-street/
 shop: pawnbroker
 ---

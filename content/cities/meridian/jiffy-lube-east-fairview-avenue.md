@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
-url: /meridian/jiffy-lube/
+url: /meridian/jiffy-lube-east-fairview-avenue/
 shop: car repair
 ---

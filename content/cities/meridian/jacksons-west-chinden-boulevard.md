@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /meridian/jacksons/
+url: /meridian/jacksons-west-chinden-boulevard/
 shop: convenience
 ---

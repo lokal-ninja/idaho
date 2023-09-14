@@ -1,5 +1,5 @@
 ---
 title: "Zamzows"
-url: /meridian/zamzows/
+url: /meridian/zamzows-east-overland-road/
 shop: agrarian
 ---

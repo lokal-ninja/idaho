@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /boise/autozone/
+url: /boise/autozone-west-state-street/
 shop: car parts
 ---

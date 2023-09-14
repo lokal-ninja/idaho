@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
-url: /boise/maverik/
+url: /boise/maverik-west-franklin-road/
 shop: convenience
 ---

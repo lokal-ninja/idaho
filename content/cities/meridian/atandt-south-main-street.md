@@ -1,5 +1,5 @@
 ---
 title: "AT&T"
-url: /meridian/atandt/
+url: /meridian/atandt-south-main-street/
 shop: mobile phone
 ---

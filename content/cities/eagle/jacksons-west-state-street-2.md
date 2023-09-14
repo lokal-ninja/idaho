@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
-url: /eagle/jacksons/
+url: /eagle/jacksons-west-state-street-2/
 shop: convenience
 ---

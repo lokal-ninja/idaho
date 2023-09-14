@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /meridian/verizon/
+url: /meridian/verizon-north-ten-mile-road/
 shop: mobile phone
 ---

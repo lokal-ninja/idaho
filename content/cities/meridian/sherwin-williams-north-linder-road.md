@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /meridian/sherwin-williams/
+url: /meridian/sherwin-williams-north-linder-road/
 shop: paint
 ---

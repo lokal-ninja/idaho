@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /boise/great-clips/
+url: /boise/great-clips-west-overland-road/
 shop: hairdresser
 ---

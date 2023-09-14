@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
-url: /boise/extramile/
+url: /boise/extramile-south-broadway-avenue/
 shop: convenience
 ---

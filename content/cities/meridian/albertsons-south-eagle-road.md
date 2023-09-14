@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /meridian/albertsons/
+url: /meridian/albertsons-south-eagle-road/
 shop: supermarket
 ---

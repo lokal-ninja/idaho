@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
-url: /boise/chevron/
+url: /boise/chevron-north-horseshoe-bend-road/
 shop: convenience
 ---

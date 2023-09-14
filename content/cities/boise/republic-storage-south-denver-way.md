@@ -1,5 +1,5 @@
 ---
 title: "Republic Storage"
-url: /boise/republic-storage/
+url: /boise/republic-storage-south-denver-way/
 shop: storage rental
 ---
