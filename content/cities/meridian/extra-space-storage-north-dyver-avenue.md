@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
-url: /meridian/extra-space-storage-east-amity-road/
+url: /meridian/extra-space-storage-north-dyver-avenue/
 shop: storage rental
 ---
