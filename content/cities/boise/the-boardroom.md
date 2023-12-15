@@ -1,5 +1,5 @@
 ---
-title: "The Boardroom"
+title: "The BoardRoom"
 url: /boise/the-boardroom/
-shop: clothes
+shop: outdoor
 ---
