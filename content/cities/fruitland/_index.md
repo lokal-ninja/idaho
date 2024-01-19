@@ -1,6 +1,6 @@
 ---
 title: Fruitland
 url: /fruitland/
-latitude: 44.025
-longitude: -116.925
+latitude: 44.007
+longitude: -116.92
 ---
