@@ -1,6 +1,6 @@
 ---
 title: McCall
 url: /mccall/
-latitude: 44.907
-longitude: -116.098
+latitude: 44.91
+longitude: -116.103
 ---
