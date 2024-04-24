@@ -1,5 +1,5 @@
 ---
 title: "The Country Porch"
-url: /coeur-d-alene/the-country-porch/
+url: /coeur-dalene/the-country-porch/
 shop: interior decoration
 ---
