@@ -1,5 +1,5 @@
 ---
 title: "Staples"
-url: /boise/staples-west-preece-drive/
+url: /boise/staples-west-chinden-boulevard/
 shop: office supplies
 ---
