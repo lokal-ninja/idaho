@@ -1,6 +1,6 @@
 ---
-title: Coeur D' Alene
+title: Coeur D Alene
 url: /coeur-d-alene/
-latitude: 47.71
-longitude: -116.783
+latitude: 47.702
+longitude: -116.785
 ---
