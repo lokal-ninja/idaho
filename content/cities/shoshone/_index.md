@@ -1,6 +1,6 @@
 ---
 title: Shoshone
 url: /shoshone/
-latitude: 42.928
-longitude: -114.412
+latitude: 42.935
+longitude: -114.407
 ---

@@ -1,6 +1,6 @@
 ---
 title: Buhl
 url: /buhl/
-latitude: 42.596
-longitude: -114.757
+latitude: 42.593
+longitude: -114.749
 ---
