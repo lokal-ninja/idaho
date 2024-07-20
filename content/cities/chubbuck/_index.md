@@ -1,6 +1,6 @@
 ---
 title: Chubbuck
 url: /chubbuck/
-latitude: 42.909
-longitude: -112.47
+latitude: 42.911
+longitude: -112.468
 ---
