@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /boise/verizon-south-broadway-avenue/
+url: /boise/verizon-west-overland-road/
 shop: mobile phone
 ---
