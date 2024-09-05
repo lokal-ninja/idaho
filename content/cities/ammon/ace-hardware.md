@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /ammon/ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

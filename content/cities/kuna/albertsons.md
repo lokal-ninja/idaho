@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /kuna/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

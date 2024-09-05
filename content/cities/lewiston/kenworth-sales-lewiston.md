@@ -1,5 +1,5 @@
 ---
 title: "Kenworth Sales Lewiston"
 url: /lewiston/kenworth-sales-lewiston/
-shop: shop
+shop: Allgemein
 ---

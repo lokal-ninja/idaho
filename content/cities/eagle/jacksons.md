@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /eagle/jacksons/
-shop: convenience
+shop: Lebensmittel
 ---

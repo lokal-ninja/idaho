@@ -1,5 +1,5 @@
 ---
 title: "Sun Spa Massage"
 url: /boise/sun-spa-massage/
-shop: massage
+shop: Massage
 ---

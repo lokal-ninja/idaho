@@ -1,5 +1,5 @@
 ---
 title: "Second Avenue"
 url: /eagle/second-avenue/
-shop: charity
+shop: Gebrauchtwaren
 ---

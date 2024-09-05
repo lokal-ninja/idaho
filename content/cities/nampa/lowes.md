@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /nampa/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

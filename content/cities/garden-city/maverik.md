@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /garden-city/maverik/
-shop: convenience
+shop: Lebensmittel
 ---

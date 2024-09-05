@@ -1,5 +1,5 @@
 ---
 title: "Miller Paint"
 url: /meridian/miller-paint/
-shop: paint
+shop: Farben
 ---

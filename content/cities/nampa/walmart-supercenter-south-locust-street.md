@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /nampa/walmart-supercenter-south-locust-street/
-shop: supermarket
+shop: Supermarkt
 ---

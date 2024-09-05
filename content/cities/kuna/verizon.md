@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kuna/verizon/
-shop: mobile phone
+shop: Handy
 ---

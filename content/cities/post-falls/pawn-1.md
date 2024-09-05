@@ -1,5 +1,5 @@
 ---
 title: "Pawn 1"
 url: /post-falls/pawn-1/
-shop: pawnbroker
+shop: Leiher
 ---

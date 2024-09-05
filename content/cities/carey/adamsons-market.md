@@ -1,5 +1,5 @@
 ---
 title: "Adamson's Market"
 url: /carey/adamsons-market/
-shop: convenience
+shop: Lebensmittel
 ---

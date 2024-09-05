@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /meridian/lush/
-shop: beauty
+shop: Kosmetik
 ---

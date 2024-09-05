@@ -1,5 +1,5 @@
 ---
 title: "HydroGrind Inc."
 url: /rigby/hydrogrind-inc/
-shop: flooring
+shop: Fußböden
 ---

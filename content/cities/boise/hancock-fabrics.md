@@ -1,5 +1,5 @@
 ---
 title: "Hancock Fabrics"
 url: /boise/hancock-fabrics/
-shop: fabric
+shop: Textil
 ---

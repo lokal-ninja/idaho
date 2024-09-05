@@ -1,5 +1,5 @@
 ---
 title: "Black Cat Tattoo"
 url: /boise/black-cat-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

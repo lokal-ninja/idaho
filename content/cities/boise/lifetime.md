@@ -1,5 +1,5 @@
 ---
 title: "Lifetime"
 url: /boise/lifetime/
-shop: furniture
+shop: Möbel
 ---

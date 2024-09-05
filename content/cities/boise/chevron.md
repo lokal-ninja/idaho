@@ -1,5 +1,5 @@
 ---
 title: "Chevron"
 url: /boise/chevron/
-shop: convenience
+shop: Lebensmittel
 ---

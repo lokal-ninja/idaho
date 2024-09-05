@@ -1,5 +1,5 @@
 ---
 title: "Fairly Reliable Bob's"
 url: /boise/fairly-reliable-bobs/
-shop: car
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Natural Grocers"
 url: /mccall/natural-grocers/
-shop: supermarket
+shop: Supermarkt
 ---

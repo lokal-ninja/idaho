@@ -1,5 +1,5 @@
 ---
 title: "Chip Cookies"
 url: /meridian/chip-cookies/
-shop: bakery
+shop: Bäckerei
 ---

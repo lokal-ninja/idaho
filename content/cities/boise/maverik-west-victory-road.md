@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /boise/maverik-west-victory-road/
-shop: convenience
+shop: Lebensmittel
 ---

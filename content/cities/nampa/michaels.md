@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /nampa/michaels/
-shop: craft
+shop: Basteln
 ---

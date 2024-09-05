@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /boise/albertsons-south-broadway-avenue/
-shop: supermarket
+shop: Supermarkt
 ---

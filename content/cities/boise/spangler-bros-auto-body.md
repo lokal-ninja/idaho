@@ -1,5 +1,5 @@
 ---
 title: "Spangler Bros Auto Body"
 url: /boise/spangler-bros-auto-body/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NomNom"
 url: /coeur-dalene/nomnom/
-shop: convenience
+shop: Lebensmittel
 ---

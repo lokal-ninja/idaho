@@ -1,5 +1,5 @@
 ---
 title: "Maverik"
 url: /meridian/maverik-south-innovation-lane/
-shop: convenience
+shop: Lebensmittel
 ---

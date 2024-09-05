@@ -1,5 +1,5 @@
 ---
 title: "Twin Falls Subaru"
 url: /twin-falls/twin-falls-subaru/
-shop: car
+shop: Autohaus
 ---

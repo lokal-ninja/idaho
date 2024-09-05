@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /meridian/soma/
-shop: clothes
+shop: Kleidung
 ---

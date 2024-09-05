@@ -1,5 +1,5 @@
 ---
 title: "Yoder's Market"
 url: /bonners-ferry/yoders-market/
-shop: supermarket
+shop: Supermarkt
 ---

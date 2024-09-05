@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /eagle/walgreens/
-shop: chemist
+shop: Drogerie
 ---

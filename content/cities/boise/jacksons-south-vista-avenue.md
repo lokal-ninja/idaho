@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-south-vista-avenue/
-shop: convenience
+shop: Lebensmittel
 ---

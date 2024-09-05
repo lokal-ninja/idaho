@@ -1,5 +1,5 @@
 ---
 title: "Zamzows"
 url: /boise/zamzows/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

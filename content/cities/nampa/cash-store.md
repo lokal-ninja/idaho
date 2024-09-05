@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /nampa/cash-store/
-shop: pawnbroker
+shop: Leiher
 ---

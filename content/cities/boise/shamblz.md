@@ -1,5 +1,5 @@
 ---
 title: "Shamblz"
 url: /boise/shamblz/
-shop: furniture
+shop: Möbel
 ---

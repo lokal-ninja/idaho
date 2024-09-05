@@ -1,5 +1,5 @@
 ---
 title: "Ava Rae Boutique"
 url: /boise/ava-rae-boutique/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
 url: /meridian/the-home-depot/
-shop: doityourself
+shop: Baumarkt
 ---

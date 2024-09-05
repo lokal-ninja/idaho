@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /coeur-dalene/safeway-north-4th-street/
-shop: supermarket
+shop: Supermarkt
 ---

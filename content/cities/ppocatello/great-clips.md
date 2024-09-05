@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /ppocatello/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

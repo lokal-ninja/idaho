@@ -1,5 +1,5 @@
 ---
 title: "Super 'C' Store"
 url: /kuna/super-c-store/
-shop: convenience
+shop: Lebensmittel
 ---

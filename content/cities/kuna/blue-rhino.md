@@ -1,5 +1,5 @@
 ---
 title: "Blue Rhino"
 url: /kuna/blue-rhino/
-shop: gas
+shop: Gasflaschen
 ---

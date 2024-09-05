@@ -1,5 +1,5 @@
 ---
 title: "McPaws Thrift Store"
 url: /mccall/mcpaws-thrift-store/
-shop: charity
+shop: Gebrauchtwaren
 ---

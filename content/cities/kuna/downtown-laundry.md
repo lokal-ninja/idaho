@@ -1,5 +1,5 @@
 ---
 title: "Downtown Laundry"
 url: /kuna/downtown-laundry/
-shop: laundry
+shop: Wäscherei
 ---

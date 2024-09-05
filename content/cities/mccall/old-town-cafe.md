@@ -1,5 +1,5 @@
 ---
 title: "Old Town Cafe"
 url: /mccall/old-town-cafe/
-shop: convenience
+shop: Lebensmittel
 ---

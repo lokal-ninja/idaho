@@ -1,5 +1,5 @@
 ---
 title: "Madewell"
 url: /meridian/madewell/
-shop: clothes
+shop: Kleidung
 ---

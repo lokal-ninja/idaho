@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /meridian/extramile/
-shop: convenience
+shop: Lebensmittel
 ---

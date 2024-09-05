@@ -1,5 +1,5 @@
 ---
 title: "Beverage Barn"
 url: /post-falls/beverage-barn/
-shop: beverages
+shop: Getränke
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /montpelier/expressions/
-shop: hairdresser
+shop: Friseur
 ---

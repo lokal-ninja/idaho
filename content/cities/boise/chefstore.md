@@ -1,5 +1,5 @@
 ---
 title: "CHEF'STORE"
 url: /boise/chefstore/
-shop: wholesale
+shop: Großhandel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /star/albertsons/
-shop: supermarket
+shop: Supermarkt
 ---

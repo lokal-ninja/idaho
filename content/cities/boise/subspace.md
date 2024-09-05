@@ -1,5 +1,5 @@
 ---
 title: "Subspace"
 url: /boise/subspace/
-shop: clothes
+shop: Kleidung
 ---

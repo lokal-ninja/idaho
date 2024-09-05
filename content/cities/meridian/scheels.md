@@ -1,5 +1,5 @@
 ---
 title: "Scheels"
 url: /meridian/scheels/
-shop: sports
+shop: Sport
 ---

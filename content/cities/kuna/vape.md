@@ -1,5 +1,5 @@
 ---
 title: "Vape"
 url: /kuna/vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

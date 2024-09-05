@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /nampa/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

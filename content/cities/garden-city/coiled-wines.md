@@ -1,5 +1,5 @@
 ---
 title: "Coiled Wines"
 url: /garden-city/coiled-wines/
-shop: wine
+shop: Wein
 ---

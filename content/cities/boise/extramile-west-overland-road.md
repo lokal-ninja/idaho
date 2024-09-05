@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /boise/extramile-west-overland-road/
-shop: convenience
+shop: Lebensmittel
 ---

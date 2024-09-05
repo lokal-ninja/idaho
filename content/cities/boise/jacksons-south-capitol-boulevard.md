@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-south-capitol-boulevard/
-shop: convenience
+shop: Lebensmittel
 ---

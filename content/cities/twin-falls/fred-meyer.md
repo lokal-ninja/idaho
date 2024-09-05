@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /twin-falls/fred-meyer/
-shop: supermarket
+shop: Supermarkt
 ---

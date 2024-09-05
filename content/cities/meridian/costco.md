@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /meridian/costco/
-shop: wholesale
+shop: Großhandel
 ---

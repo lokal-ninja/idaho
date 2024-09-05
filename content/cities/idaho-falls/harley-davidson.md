@@ -1,5 +1,5 @@
 ---
 title: "Harley-Davidson"
 url: /idaho-falls/harley-davidson/
-shop: motorcycle
+shop: Motorrad
 ---

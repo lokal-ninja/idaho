@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /nampa/petsmart/
-shop: pet
+shop: Tiere
 ---

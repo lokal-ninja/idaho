@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /boise/aarons/
-shop: furniture
+shop: Möbel
 ---

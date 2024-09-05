@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-west-franklin-road/
-shop: convenience
+shop: Lebensmittel
 ---

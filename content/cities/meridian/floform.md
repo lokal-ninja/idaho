@@ -1,5 +1,5 @@
 ---
 title: "Floform"
 url: /meridian/floform/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /fruitland/stinker/
-shop: convenience
+shop: Lebensmittel
 ---

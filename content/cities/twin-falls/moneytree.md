@@ -1,5 +1,5 @@
 ---
 title: "Moneytree"
 url: /twin-falls/moneytree/
-shop: pawnbroker
+shop: Leiher
 ---

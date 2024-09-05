@@ -1,5 +1,5 @@
 ---
 title: "Reed Cycle"
 url: /boise/reed-cycle/
-shop: bicycle
+shop: Fahrrad
 ---

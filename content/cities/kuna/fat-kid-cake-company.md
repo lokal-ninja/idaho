@@ -1,5 +1,5 @@
 ---
 title: "Fat Kid Cake Company"
 url: /kuna/fat-kid-cake-company/
-shop: bakery
+shop: Bäckerei
 ---

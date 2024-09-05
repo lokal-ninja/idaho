@@ -1,5 +1,5 @@
 ---
 title: "Re-Bath Meridian"
 url: /meridian/re-bath-meridian/
-shop: bathroom
+shop: Badezimmer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vista Pawn"
 url: /boise/vista-pawn/
-shop: pawnbroker
+shop: Leiher
 ---

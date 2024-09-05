@@ -1,5 +1,5 @@
 ---
 title: "Action Motor Sports"
 url: /idaho-falls/action-motor-sports/
-shop: motorcycle
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ulta"
 url: /moscow/ulta/
-shop: beauty
+shop: Kosmetik
 ---

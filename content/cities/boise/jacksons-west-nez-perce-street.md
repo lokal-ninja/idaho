@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-west-nez-perce-street/
-shop: convenience
+shop: Lebensmittel
 ---
