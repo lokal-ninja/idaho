@@ -1,5 +1,5 @@
 ---
 title: "Cwalla"
 url: /boise/cwalla/
-shop: Raumausstattung
+shop: interior decoration
 ---

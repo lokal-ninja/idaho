@@ -1,5 +1,5 @@
 ---
 title: "Rolling H Cycles"
 url: /nampa/rolling-h-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

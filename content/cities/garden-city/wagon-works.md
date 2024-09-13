@@ -1,5 +1,5 @@
 ---
 title: "Wagon Works"
 url: /garden-city/wagon-works/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harold's Auto Body"
 url: /boise/harolds-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

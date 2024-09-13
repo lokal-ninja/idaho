@@ -1,5 +1,5 @@
 ---
 title: "Dapper Dan's Barbershop"
 url: /kuna/dapper-dans-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark Motors"
 url: /boise/hallmark-motors/
-shop: Autohaus
+shop: car
 ---

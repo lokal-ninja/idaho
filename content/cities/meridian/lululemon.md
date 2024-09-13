@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /meridian/lululemon/
-shop: Kleidung
+shop: clothes
 ---

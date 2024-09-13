@@ -1,5 +1,5 @@
 ---
 title: "American Eagle Outfitters"
 url: /meridian/american-eagle-outfitters/
-shop: Kleidung
+shop: clothes
 ---

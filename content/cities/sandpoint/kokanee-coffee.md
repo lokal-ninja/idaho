@@ -1,5 +1,5 @@
 ---
 title: "Kokanee Coffee"
 url: /sandpoint/kokanee-coffee/
-shop: Kaffee
+shop: coffee
 ---

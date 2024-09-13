@@ -1,5 +1,5 @@
 ---
 title: "Fina Beauty"
 url: /meridian/fina-beauty/
-shop: Kosmetik
+shop: beauty
 ---

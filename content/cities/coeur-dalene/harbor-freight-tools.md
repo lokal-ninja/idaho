@@ -1,5 +1,5 @@
 ---
 title: "Harbor Freight Tools"
 url: /coeur-dalene/harbor-freight-tools/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ruby Nails"
 url: /meridian/ruby-nails/
-shop: Kosmetik
+shop: beauty
 ---

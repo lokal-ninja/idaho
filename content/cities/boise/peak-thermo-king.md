@@ -1,5 +1,5 @@
 ---
 title: "Peak Thermo King"
 url: /boise/peak-thermo-king/
-shop: Haushaltsgeräte
+shop: appliance
 ---

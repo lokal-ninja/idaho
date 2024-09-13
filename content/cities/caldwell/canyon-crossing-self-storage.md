@@ -1,5 +1,5 @@
 ---
 title: "Canyon Crossing Self Storage"
 url: /caldwell/canyon-crossing-self-storage/
-shop: Mieten
+shop: storage rental
 ---

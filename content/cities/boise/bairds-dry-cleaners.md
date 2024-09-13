@@ -1,5 +1,5 @@
 ---
 title: "Baird's Dry Cleaners"
 url: /boise/bairds-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /emmett/stinker/
-shop: Lebensmittel
+shop: convenience
 ---

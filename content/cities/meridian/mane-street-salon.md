@@ -1,5 +1,5 @@
 ---
 title: "Mane Street Salon"
 url: /meridian/mane-street-salon/
-shop: Friseur
+shop: hairdresser
 ---

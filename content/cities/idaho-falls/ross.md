@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /idaho-falls/ross/
-shop: Warenhaus
+shop: department store
 ---

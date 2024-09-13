@@ -1,5 +1,5 @@
 ---
 title: "Hyde Park Mercantile"
 url: /boise/hyde-park-mercantile/
-shop: Dorfladen
+shop: general
 ---

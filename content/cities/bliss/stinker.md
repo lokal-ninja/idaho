@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /bliss/stinker/
-shop: Lebensmittel
+shop: convenience
 ---

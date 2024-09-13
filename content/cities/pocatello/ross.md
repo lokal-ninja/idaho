@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /pocatello/ross/
-shop: Warenhaus
+shop: department store
 ---

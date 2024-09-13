@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /rexburg/sherwin-williams/
-shop: Farben
+shop: paint
 ---

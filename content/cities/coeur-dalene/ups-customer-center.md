@@ -1,5 +1,5 @@
 ---
 title: "UPS Customer Center"
 url: /coeur-dalene/ups-customer-center/
-shop: Kopieren
+shop: copyshop
 ---

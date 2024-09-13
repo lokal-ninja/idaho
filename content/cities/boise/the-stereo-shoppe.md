@@ -1,5 +1,5 @@
 ---
 title: "The Stereo Shoppe"
 url: /boise/the-stereo-shoppe/
-shop: Hifi
+shop: hifi
 ---

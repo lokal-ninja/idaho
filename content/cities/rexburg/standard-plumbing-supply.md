@@ -1,5 +1,5 @@
 ---
 title: "Standard Plumbing Supply"
 url: /rexburg/standard-plumbing-supply/
-shop: Eisenwaren
+shop: hardware
 ---

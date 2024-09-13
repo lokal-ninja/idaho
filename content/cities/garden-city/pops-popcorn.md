@@ -1,5 +1,5 @@
 ---
 title: "Pop's Popcorn"
 url: /garden-city/pops-popcorn/
-shop: Allgemein
+shop: shop
 ---

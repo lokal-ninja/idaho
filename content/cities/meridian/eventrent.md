@@ -1,5 +1,5 @@
 ---
 title: "EventRent"
 url: /meridian/eventrent/
-shop: Mieten
+shop: storage rental
 ---

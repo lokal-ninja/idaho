@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /filer/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

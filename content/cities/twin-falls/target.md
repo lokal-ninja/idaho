@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /twin-falls/target/
-shop: Warenhaus
+shop: department store
 ---

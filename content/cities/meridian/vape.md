@@ -1,5 +1,5 @@
 ---
 title: "VAPE"
 url: /meridian/vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

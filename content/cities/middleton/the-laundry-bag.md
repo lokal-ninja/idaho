@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Bag"
 url: /middleton/the-laundry-bag/
-shop: Wäscherei
+shop: laundry
 ---

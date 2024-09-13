@@ -1,5 +1,5 @@
 ---
 title: "Lendmark"
 url: /nampa/lendmark/
-shop: Leiher
+shop: pawnbroker
 ---

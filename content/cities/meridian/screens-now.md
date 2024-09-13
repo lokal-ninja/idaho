@@ -1,5 +1,5 @@
 ---
 title: "Screens Now!"
 url: /meridian/screens-now/
-shop: Allgemein
+shop: shop
 ---

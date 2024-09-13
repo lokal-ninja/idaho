@@ -1,5 +1,5 @@
 ---
 title: "All Dimes Beauty"
 url: /boise/all-dimes-beauty/
-shop: Kosmetik
+shop: beauty
 ---

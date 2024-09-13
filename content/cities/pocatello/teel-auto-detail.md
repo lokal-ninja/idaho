@@ -1,5 +1,5 @@
 ---
 title: "Teel Auto Detail"
 url: /pocatello/teel-auto-detail/
-shop: Autowerkstatt
+shop: car repair
 ---

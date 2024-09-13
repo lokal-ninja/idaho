@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /idaho-falls/petco/
-shop: Tiere
+shop: pet
 ---

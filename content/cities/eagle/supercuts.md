@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /eagle/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

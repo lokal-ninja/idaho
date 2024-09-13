@@ -1,5 +1,5 @@
 ---
 title: "Rent-A-Center"
 url: /boise/rent-a-center/
-shop: Möbel
+shop: furniture
 ---

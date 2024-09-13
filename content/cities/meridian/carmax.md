@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /meridian/carmax/
-shop: Autohaus
+shop: car
 ---

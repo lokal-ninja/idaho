@@ -1,5 +1,5 @@
 ---
 title: "Commercial Tire"
 url: /meridian/commercial-tire-east-commercial-street/
-shop: Reifen
+shop: tyres
 ---

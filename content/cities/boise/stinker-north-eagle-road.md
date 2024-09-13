@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /boise/stinker-north-eagle-road/
-shop: Lebensmittel
+shop: convenience
 ---

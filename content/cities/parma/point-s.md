@@ -1,5 +1,5 @@
 ---
 title: "Point S"
 url: /parma/point-s/
-shop: Autowerkstatt
+shop: car repair
 ---

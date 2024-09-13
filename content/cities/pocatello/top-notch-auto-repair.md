@@ -1,5 +1,5 @@
 ---
 title: "Top Notch Auto Repair"
 url: /pocatello/top-notch-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

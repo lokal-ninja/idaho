@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /meridian/walmart-supercenter-west-overland-road/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zamzows"
 url: /kuna/zamzows/
-shop: Garten-Center
+shop: garden centre
 ---

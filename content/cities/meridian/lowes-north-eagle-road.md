@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /meridian/lowes-north-eagle-road/
-shop: Baumarkt
+shop: doityourself
 ---

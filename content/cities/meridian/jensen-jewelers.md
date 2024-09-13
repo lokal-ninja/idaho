@@ -1,5 +1,5 @@
 ---
 title: "Jensen Jewelers"
 url: /meridian/jensen-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

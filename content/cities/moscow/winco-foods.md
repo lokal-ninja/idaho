@@ -1,5 +1,5 @@
 ---
 title: "WinCo Foods"
 url: /moscow/winco-foods/
-shop: Supermarkt
+shop: supermarket
 ---

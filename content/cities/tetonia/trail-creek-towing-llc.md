@@ -1,5 +1,5 @@
 ---
 title: "Trail Creek Towing LLC"
 url: /tetonia/trail-creek-towing-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

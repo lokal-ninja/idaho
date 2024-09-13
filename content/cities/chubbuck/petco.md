@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /chubbuck/petco/
-shop: Tiere
+shop: pet
 ---

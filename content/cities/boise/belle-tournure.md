@@ -1,5 +1,5 @@
 ---
 title: "Belle Tournure"
 url: /boise/belle-tournure/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nel's Bi-Lo Market"
 url: /pocatello/nels-bi-lo-market/
-shop: Supermarkt
+shop: supermarket
 ---

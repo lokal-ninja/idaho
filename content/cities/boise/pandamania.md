@@ -1,5 +1,5 @@
 ---
 title: "Pandamania"
 url: /boise/pandamania/
-shop: Friseur
+shop: hairdresser
 ---

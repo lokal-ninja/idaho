@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /mountain-home/verizon/
-shop: Handy
+shop: mobile phone
 ---

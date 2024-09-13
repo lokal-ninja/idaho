@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /idaho-falls/costco/
-shop: Großhandel
+shop: wholesale
 ---

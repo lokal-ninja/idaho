@@ -1,5 +1,5 @@
 ---
 title: "Dowdy's Automotive Service"
 url: /meridian/dowdys-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

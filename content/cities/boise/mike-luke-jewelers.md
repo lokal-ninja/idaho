@@ -1,5 +1,5 @@
 ---
 title: "Mike Luke Jewelers"
 url: /boise/mike-luke-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /moscow/autozone/
-shop: Autoteile
+shop: car parts
 ---

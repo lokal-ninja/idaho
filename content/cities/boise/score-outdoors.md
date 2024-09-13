@@ -1,5 +1,5 @@
 ---
 title: "Score Outdoors"
 url: /boise/score-outdoors/
-shop: Outdoor
+shop: outdoor
 ---

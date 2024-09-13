@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /nampa/burlington/
-shop: Warenhaus
+shop: department store
 ---

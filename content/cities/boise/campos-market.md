@@ -1,5 +1,5 @@
 ---
 title: "Campos Market"
 url: /boise/campos-market/
-shop: Supermarkt
+shop: supermarket
 ---

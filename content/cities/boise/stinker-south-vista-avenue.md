@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
 url: /boise/stinker-south-vista-avenue/
-shop: Lebensmittel
+shop: convenience
 ---

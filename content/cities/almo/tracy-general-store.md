@@ -1,5 +1,5 @@
 ---
 title: "Tracy General Store"
 url: /almo/tracy-general-store/
-shop: Dorfladen
+shop: general
 ---

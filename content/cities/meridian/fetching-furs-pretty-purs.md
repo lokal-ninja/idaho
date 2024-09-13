@@ -1,5 +1,5 @@
 ---
 title: "Fetching Furs Pretty Purs"
 url: /meridian/fetching-furs-pretty-purs/
-shop: Tiersalon
+shop: pet grooming
 ---

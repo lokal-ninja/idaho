@@ -1,5 +1,5 @@
 ---
 title: "Misty Blue's"
 url: /star/misty-blues/
-shop: Antiquitäten
+shop: antiques
 ---

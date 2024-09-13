@@ -1,5 +1,5 @@
 ---
 title: "Breeze"
 url: /boise/breeze/
-shop: Wäscherei
+shop: laundry
 ---

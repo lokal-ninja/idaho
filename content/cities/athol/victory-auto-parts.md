@@ -1,5 +1,5 @@
 ---
 title: "Victory Auto Parts"
 url: /athol/victory-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

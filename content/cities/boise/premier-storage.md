@@ -1,5 +1,5 @@
 ---
 title: "Premier Storage"
 url: /boise/premier-storage/
-shop: Mieten
+shop: storage rental
 ---

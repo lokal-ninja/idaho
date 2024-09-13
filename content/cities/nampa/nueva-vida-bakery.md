@@ -1,5 +1,5 @@
 ---
 title: "Nueva Vida Bakery"
 url: /nampa/nueva-vida-bakery/
-shop: Bäckerei
+shop: bakery
 ---

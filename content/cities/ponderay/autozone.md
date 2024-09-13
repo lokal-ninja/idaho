@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ponderay/autozone/
-shop: Autoteile
+shop: car parts
 ---

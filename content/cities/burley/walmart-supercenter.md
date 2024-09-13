@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /burley/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

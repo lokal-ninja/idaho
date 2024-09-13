@@ -1,5 +1,5 @@
 ---
 title: "Big Smoke"
 url: /nampa/big-smoke/
-shop: Tabak
+shop: tobacco
 ---

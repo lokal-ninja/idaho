@@ -1,5 +1,5 @@
 ---
 title: "Perpetuity"
 url: /boise/perpetuity/
-shop: Kosmetik
+shop: beauty
 ---

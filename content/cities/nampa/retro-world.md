@@ -1,5 +1,5 @@
 ---
 title: "Retro World"
 url: /nampa/retro-world/
-shop: Videospiele
+shop: video games
 ---

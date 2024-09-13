@@ -1,5 +1,5 @@
 ---
 title: "Asqueta Glass"
 url: /nampa/asqueta-glass/
-shop: Autowerkstatt
+shop: car repair
 ---

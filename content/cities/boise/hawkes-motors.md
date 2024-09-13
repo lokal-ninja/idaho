@@ -1,5 +1,5 @@
 ---
 title: "Hawkes Motors"
 url: /boise/hawkes-motors/
-shop: Autohaus
+shop: car
 ---

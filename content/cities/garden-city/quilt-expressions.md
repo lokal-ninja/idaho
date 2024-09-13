@@ -1,5 +1,5 @@
 ---
 title: "Quilt Expressions"
 url: /garden-city/quilt-expressions/
-shop: Textil
+shop: fabric
 ---

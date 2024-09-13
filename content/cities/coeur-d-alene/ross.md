@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /coeur-d-alene/ross/
-shop: Warenhaus
+shop: department store
 ---

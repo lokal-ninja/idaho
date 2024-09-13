@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /ammon/kohls/
-shop: Warenhaus
+shop: department store
 ---

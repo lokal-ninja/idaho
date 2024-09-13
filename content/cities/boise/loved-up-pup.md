@@ -1,5 +1,5 @@
 ---
 title: "Loved Up Pup"
 url: /boise/loved-up-pup/
-shop: Tiersalon
+shop: pet grooming
 ---

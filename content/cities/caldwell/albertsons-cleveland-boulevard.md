@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /caldwell/albertsons-cleveland-boulevard/
-shop: Supermarkt
+shop: supermarket
 ---

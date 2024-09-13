@@ -1,5 +1,5 @@
 ---
 title: "Cookie Cutters"
 url: /boise/cookie-cutters/
-shop: Friseur
+shop: hairdresser
 ---

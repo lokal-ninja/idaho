@@ -1,5 +1,5 @@
 ---
 title: "Nutrition West"
 url: /meridian/nutrition-west/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trust Storage"
 url: /boise/trust-storage/
-shop: Mieten
+shop: storage rental
 ---

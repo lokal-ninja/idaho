@@ -1,5 +1,5 @@
 ---
 title: "Commercial Tire"
 url: /rexburg/commercial-tire/
-shop: Reifen
+shop: tyres
 ---

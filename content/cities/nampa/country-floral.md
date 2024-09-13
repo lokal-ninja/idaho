@@ -1,5 +1,5 @@
 ---
 title: "Country Floral"
 url: /nampa/country-floral/
-shop: Blumen
+shop: florist
 ---

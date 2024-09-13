@@ -1,5 +1,5 @@
 ---
 title: "Flamm Funeral Home"
 url: /rexburg/flamm-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

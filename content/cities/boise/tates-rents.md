@@ -1,5 +1,5 @@
 ---
 title: "Tates Rents"
 url: /boise/tates-rents/
-shop: Mieten
+shop: storage rental
 ---

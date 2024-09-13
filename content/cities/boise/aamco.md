@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /boise/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

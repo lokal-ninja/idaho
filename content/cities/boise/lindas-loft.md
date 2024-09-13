@@ -1,5 +1,5 @@
 ---
 title: "Linda's Loft"
 url: /boise/lindas-loft/
-shop: Möbel
+shop: furniture
 ---

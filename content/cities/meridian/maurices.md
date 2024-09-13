@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /meridian/maurices/
-shop: Kleidung
+shop: clothes
 ---

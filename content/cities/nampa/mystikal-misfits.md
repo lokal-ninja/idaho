@@ -1,5 +1,5 @@
 ---
 title: "Mystikal Misfits"
 url: /nampa/mystikal-misfits/
-shop: Esoterik
+shop: esoteric
 ---

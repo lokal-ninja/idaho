@@ -1,5 +1,5 @@
 ---
 title: "JAX Nutrition"
 url: /meridian/jax-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

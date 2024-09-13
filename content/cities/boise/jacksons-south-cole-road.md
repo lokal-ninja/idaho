@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-south-cole-road/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jacksons"
 url: /boise/jacksons-west-overland-road-3/
-shop: Lebensmittel
+shop: convenience
 ---

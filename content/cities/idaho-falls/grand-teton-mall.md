@@ -1,5 +1,5 @@
 ---
 title: "Grand Teton Mall"
 url: /idaho-falls/grand-teton-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

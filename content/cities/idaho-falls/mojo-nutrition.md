@@ -1,5 +1,5 @@
 ---
 title: "MoJo Nutrition"
 url: /idaho-falls/mojo-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hobby Lobby"
 url: /boise/hobby-lobby/
-shop: Basteln
+shop: craft
 ---

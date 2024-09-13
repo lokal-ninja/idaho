@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
 url: /emmett/albertsons/
-shop: Supermarkt
+shop: supermarket
 ---

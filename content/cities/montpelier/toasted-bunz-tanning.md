@@ -1,5 +1,5 @@
 ---
 title: "Toasted Bunz Tanning"
 url: /montpelier/toasted-bunz-tanning/
-shop: Kosmetik
+shop: beauty
 ---

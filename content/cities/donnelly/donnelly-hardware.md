@@ -1,5 +1,5 @@
 ---
 title: "Donnelly Hardware"
 url: /donnelly/donnelly-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

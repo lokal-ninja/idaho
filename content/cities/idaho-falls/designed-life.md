@@ -1,5 +1,5 @@
 ---
 title: "Designed Life"
 url: /idaho-falls/designed-life/
-shop: Allgemein
+shop: shop
 ---

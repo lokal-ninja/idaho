@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /star/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

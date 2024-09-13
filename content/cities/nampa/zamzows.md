@@ -1,5 +1,5 @@
 ---
 title: "Zamzows"
 url: /nampa/zamzows/
-shop: Tiere
+shop: pet
 ---

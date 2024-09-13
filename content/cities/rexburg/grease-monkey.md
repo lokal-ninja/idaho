@@ -1,5 +1,5 @@
 ---
 title: "Grease Monkey"
 url: /rexburg/grease-monkey/
-shop: Autowerkstatt
+shop: car repair
 ---

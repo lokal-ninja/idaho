@@ -1,5 +1,5 @@
 ---
 title: "Eyemart Express"
 url: /meridian/eyemart-express/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /meridian/sprint/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Margene's Bridal"
 url: /boise/margenes-bridal/
-shop: Kleidung
+shop: clothes
 ---

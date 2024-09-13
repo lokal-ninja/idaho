@@ -1,5 +1,5 @@
 ---
 title: "Unstoppable Nutrition"
 url: /idaho-falls/unstoppable-nutrition/
-shop: Bioladen
+shop: health food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ShadeWorks"
 url: /boise/shadeworks/
-shop: Jalousien
+shop: window blind
 ---

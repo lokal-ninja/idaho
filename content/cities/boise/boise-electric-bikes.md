@@ -1,5 +1,5 @@
 ---
 title: "Boise Electric Bikes"
 url: /boise/boise-electric-bikes/
-shop: Fahrrad
+shop: bicycle
 ---

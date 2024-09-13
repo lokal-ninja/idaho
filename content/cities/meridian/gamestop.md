@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /meridian/gamestop/
-shop: Videospiele
+shop: video games
 ---

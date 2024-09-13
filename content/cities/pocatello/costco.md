@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /pocatello/costco/
-shop: Großhandel
+shop: wholesale
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /moscow/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

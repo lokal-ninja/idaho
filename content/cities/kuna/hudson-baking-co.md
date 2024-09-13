@@ -1,5 +1,5 @@
 ---
 title: "Hudson Baking Co"
 url: /kuna/hudson-baking-co/
-shop: Bäckerei
+shop: bakery
 ---

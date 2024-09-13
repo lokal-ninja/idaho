@@ -1,5 +1,5 @@
 ---
 title: "ExtraMile"
 url: /garden-city/extramile/
-shop: Lebensmittel
+shop: convenience
 ---

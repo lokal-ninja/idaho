@@ -1,5 +1,5 @@
 ---
 title: "Equipment Service Professionals Inc."
 url: /kuna/equipment-service-professionals-inc/
-shop: Allgemein
+shop: shop
 ---

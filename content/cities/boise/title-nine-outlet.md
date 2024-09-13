@@ -1,5 +1,5 @@
 ---
 title: "Title Nine Outlet"
 url: /boise/title-nine-outlet/
-shop: Kleidung
+shop: clothes
 ---

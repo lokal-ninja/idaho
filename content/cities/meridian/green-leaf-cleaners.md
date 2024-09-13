@@ -1,5 +1,5 @@
 ---
 title: "Green Leaf Cleaners"
 url: /meridian/green-leaf-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

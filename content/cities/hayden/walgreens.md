@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hayden/walgreens/
-shop: Drogerie
+shop: chemist
 ---

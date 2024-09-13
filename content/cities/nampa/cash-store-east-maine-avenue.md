@@ -1,5 +1,5 @@
 ---
 title: "Cash Store"
 url: /nampa/cash-store-east-maine-avenue/
-shop: Leiher
+shop: pawnbroker
 ---

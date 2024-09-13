@@ -1,5 +1,5 @@
 ---
 title: "Fiiz Drinks"
 url: /boise/fiiz-drinks/
-shop: Getränke
+shop: beverages
 ---

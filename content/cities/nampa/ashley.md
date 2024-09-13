@@ -1,5 +1,5 @@
 ---
 title: "Ashley"
 url: /nampa/ashley/
-shop: Möbel
+shop: furniture
 ---

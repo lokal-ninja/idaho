@@ -1,5 +1,5 @@
 ---
 title: "Sierra"
 url: /meridian/sierra/
-shop: Outdoor
+shop: outdoor
 ---

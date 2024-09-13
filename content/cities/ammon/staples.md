@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ammon/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

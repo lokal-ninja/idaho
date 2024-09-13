@@ -1,5 +1,5 @@
 ---
 title: "Big Smoke"
 url: /meridian/big-smoke/
-shop: Tabak
+shop: tobacco
 ---

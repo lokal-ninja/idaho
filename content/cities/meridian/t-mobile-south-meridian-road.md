@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /meridian/t-mobile-south-meridian-road/
-shop: Handy
+shop: mobile phone
 ---

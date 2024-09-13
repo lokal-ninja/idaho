@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /jerome/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

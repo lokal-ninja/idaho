@@ -1,5 +1,5 @@
 ---
 title: "Formal Nails"
 url: /boise/formal-nails/
-shop: Kosmetik
+shop: beauty
 ---

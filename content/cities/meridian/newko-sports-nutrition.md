@@ -1,5 +1,5 @@
 ---
 title: "Newko Sports Nutrition"
 url: /meridian/newko-sports-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

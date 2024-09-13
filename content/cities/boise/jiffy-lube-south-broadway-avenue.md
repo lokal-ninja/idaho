@@ -1,5 +1,5 @@
 ---
 title: "Jiffy Lube"
 url: /boise/jiffy-lube-south-broadway-avenue/
-shop: Autowerkstatt
+shop: car repair
 ---

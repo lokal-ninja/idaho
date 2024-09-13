@@ -1,5 +1,5 @@
 ---
 title: "Summers Funeral Home"
 url: /meridian/summers-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

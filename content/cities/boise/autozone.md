@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /boise/autozone/
-shop: Autoteile
+shop: car parts
 ---

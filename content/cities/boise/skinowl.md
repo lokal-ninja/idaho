@@ -1,5 +1,5 @@
 ---
 title: "SkinOwl"
 url: /boise/skinowl/
-shop: Kosmetik
+shop: beauty
 ---

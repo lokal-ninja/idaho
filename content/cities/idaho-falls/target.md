@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /idaho-falls/target/
-shop: Warenhaus
+shop: department store
 ---
