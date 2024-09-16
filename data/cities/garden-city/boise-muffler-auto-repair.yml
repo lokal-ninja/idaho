@@ -1,11 +1,11 @@
 id: 764448993
-type: way
+type: node
 latitude: 43.62442
 longitude: -116.24011
 postcode: "83714"
 city: Garden City
-street: "East 36th Street"
-housenumber: 111
+street: East 36th Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://boisemufflerrepairs.com/"
+website: https://boisemufflerrepairs.com/

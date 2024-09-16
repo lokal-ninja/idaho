@@ -1,11 +1,11 @@
 id: 636086328
-type: way
+type: node
 latitude: 42.91003
 longitude: -112.46243
 postcode: "83202"
 city: Pocatello
-street: "Bullock Street"
-housenumber: 633
+street: Bullock Street
+housenumber: "633"
 phone: ""
 opening_hours: ""
-website: "https://www.lithiachryslerpocatello.com/"
+website: https://www.lithiachryslerpocatello.com/

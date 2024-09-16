@@ -1,11 +1,11 @@
 id: 697925867
-type: way
+type: node
 latitude: 43.61097
 longitude: -116.24295
 postcode: "83706"
 city: Boise
-street: "North Orchard Street"
-housenumber: 712
+street: North Orchard Street
+housenumber: "712"
 phone: ""
 opening_hours: ""
-website: "https://www.cronescupboard.com/"
+website: https://www.cronescupboard.com/

@@ -4,8 +4,8 @@ latitude: 43.47637
 longitude: -111.98711
 postcode: "83404"
 city: Idaho Falls
-street: "South 25th East"
-housenumber: 2410
-phone: "+1 208-542-9636"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/id/idaho-falls-store1363.html"
+street: South 25th East
+housenumber: "2410"
+phone: +1 208-542-9636
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/id/idaho-falls-store1363.html

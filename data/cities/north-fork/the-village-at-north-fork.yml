@@ -1,11 +1,11 @@
 id: 485884309
-type: way
+type: node
 latitude: 45.40657
 longitude: -113.99506
 postcode: "83466"
 city: North Fork
-street: "Highway 93"
-housenumber: 2046
+street: Highway 93
+housenumber: "2046"
 phone: ""
 opening_hours: ""
-website: "http://thevillageatnorthfork.com/"
+website: http://thevillageatnorthfork.com/

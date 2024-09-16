@@ -1,11 +1,11 @@
 id: 289466482
-type: way
+type: node
 latitude: 43.8137
 longitude: -111.80023
 postcode: "83440"
 city: Rexburg
-street: "South Yellowstone Highway"
-housenumber: 615
+street: South Yellowstone Highway
+housenumber: "615"
 phone: ""
 opening_hours: ""
 website: ""

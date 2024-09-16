@@ -1,11 +1,11 @@
 id: 865541706
-type: way
+type: node
 latitude: 43.66354
 longitude: -116.40902
 postcode: "83646"
 city: Meridian
-street: "West Chinden Boulevard"
-housenumber: 1200
+street: West Chinden Boulevard
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/id/eagle/autoparts-6322.html"
+website: https://locations.oreillyauto.com/id/eagle/autoparts-6322.html

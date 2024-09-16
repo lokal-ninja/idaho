@@ -1,11 +1,11 @@
 id: 819625950
-type: way
+type: node
 latitude: 48.30549
 longitude: -116.54269
 postcode: "83852"
 city: Ponderay
-street: "Schweitzer Plaza Drive"
-housenumber: 600
-phone: "+1-208-263-2600"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.specialtyautoglass.repair/"
+street: Schweitzer Plaza Drive
+housenumber: "600"
+phone: +1-208-263-2600
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.specialtyautoglass.repair/

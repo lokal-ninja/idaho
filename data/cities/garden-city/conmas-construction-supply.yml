@@ -1,11 +1,11 @@
 id: 764449386
-type: way
+type: node
 latitude: 43.62817
 longitude: -116.24468
 postcode: "83714"
 city: Garden City
-street: "East 39th Street"
-housenumber: 111
+street: East 39th Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.conmassupply.com/"
+website: https://www.conmassupply.com/

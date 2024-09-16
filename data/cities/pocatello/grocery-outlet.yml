@@ -1,11 +1,11 @@
 id: 579316602
-type: way
+type: node
 latitude: 42.90687
 longitude: -112.45904
 postcode: "83202"
 city: Pocatello
-street: "Hurley Drive"
-housenumber: 1732
-phone: "+1 208-425-2870"
-opening_hours: "08:00-21:00"
-website: "https://www.groceryoutlet.com/"
+street: Hurley Drive
+housenumber: "1732"
+phone: +1 208-425-2870
+opening_hours: 08:00-21:00
+website: https://www.groceryoutlet.com/

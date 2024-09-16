@@ -1,11 +1,11 @@
 id: 558897240
-type: way
+type: node
 latitude: 43.6141
 longitude: -116.28275
 postcode: "83704"
 city: Boise
-street: "West Preece Drive"
-housenumber: 8059
+street: West Preece Drive
+housenumber: "8059"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://stores.staples.com/id/boise/8059-w-preece-drive"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://stores.staples.com/id/boise/8059-w-preece-drive

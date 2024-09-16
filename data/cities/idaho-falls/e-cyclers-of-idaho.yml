@@ -1,11 +1,11 @@
 id: 416673488
-type: way
+type: node
 latitude: 43.51429
 longitude: -112.01159
 postcode: "83401"
 city: Idaho Falls
-street: "North Yellowstone Highway"
-housenumber: 1975
+street: North Yellowstone Highway
+housenumber: "1975"
 phone: ""
-opening_hours: "09:00-18:00"
+opening_hours: 09:00-18:00
 website: ""

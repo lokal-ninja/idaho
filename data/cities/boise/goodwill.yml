@@ -1,11 +1,11 @@
 id: 666735312
-type: way
+type: node
 latitude: 43.59109
 longitude: -116.28741
 postcode: "83709"
 city: Boise
-street: "South Vinnell Way"
-housenumber: 1465
+street: South Vinnell Way
+housenumber: "1465"
 phone: ""
 opening_hours: ""
 website: ""

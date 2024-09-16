@@ -1,11 +1,11 @@
 id: 1030714972
-type: way
+type: node
 latitude: 43.61845
 longitude: -116.39305
 postcode: "83642"
 city: Meridian
-street: "North Meridian Road"
-housenumber: 1624
+street: North Meridian Road
+housenumber: "1624"
 phone: ""
 opening_hours: ""
-website: "https://www.blackandgraystudio.com/"
+website: https://www.blackandgraystudio.com/

@@ -1,11 +1,11 @@
 id: 1095655192
-type: way
+type: node
 latitude: 44.45274
 longitude: -111.36058
 postcode: "83429"
 city: Island Park
-street: "US Hwy 20"
-housenumber: 3974
-phone: "+1-208-558-7448"
+street: US Hwy 20
+housenumber: "3974"
+phone: +1-208-558-7448
 opening_hours: ""
 website: ""

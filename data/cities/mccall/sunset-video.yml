@@ -1,11 +1,11 @@
 id: 319417671
-type: way
+type: node
 latitude: 44.9067
 longitude: -116.09811
 postcode: "83638"
 city: McCall
-street: "North 3rd Street"
-housenumber: 502
+street: North 3rd Street
+housenumber: "502"
 phone: ""
 opening_hours: ""
 website: ""

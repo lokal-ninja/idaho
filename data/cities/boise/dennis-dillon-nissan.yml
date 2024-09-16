@@ -1,11 +1,11 @@
 id: 361056058
-type: way
+type: node
 latitude: 43.61916
 longitude: -116.29105
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 8727
-phone: "(931) 526-7125"
+street: West Fairview Avenue
+housenumber: "8727"
+phone: (931) 526-7125
 opening_hours: ""
-website: "https://www.dennisdillonnissan.com/"
+website: https://www.dennisdillonnissan.com/

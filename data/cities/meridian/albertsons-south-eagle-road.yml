@@ -1,11 +1,11 @@
 id: 1062645805
-type: way
+type: node
 latitude: 43.56202
 longitude: -116.35623
 postcode: "83642"
 city: Meridian
-street: "South Eagle Road"
-housenumber: 4657
-phone: "+1 208-272-9727"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.albertsons.com/id/meridian/4657-s-eagle-rd.html"
+street: South Eagle Road
+housenumber: "4657"
+phone: +1 208-272-9727
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.albertsons.com/id/meridian/4657-s-eagle-rd.html

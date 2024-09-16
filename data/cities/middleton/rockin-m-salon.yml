@@ -4,8 +4,8 @@ latitude: 43.70635
 longitude: -116.62206
 postcode: "83644"
 city: Middleton
-street: "East Main Street"
-housenumber: 18
-phone: "+1 208 550 4454"
-opening_hours: "Mo By Appintment, Th-Sa By Appointment"
+street: East Main Street
+housenumber: "18"
+phone: +1 208 550 4454
+opening_hours: Mo "By Appintment", Th-Sa "By Appointment"
 website: ""

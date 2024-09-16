@@ -1,11 +1,11 @@
 id: 362783209
-type: way
+type: node
 latitude: 43.60014
 longitude: -116.35592
 postcode: "83642"
 city: Meridian
-street: "East Magic View Drive"
-housenumber: 3100
+street: East Magic View Drive
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

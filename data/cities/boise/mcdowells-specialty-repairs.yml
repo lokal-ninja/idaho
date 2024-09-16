@@ -1,11 +1,11 @@
 id: 880360627
-type: way
+type: node
 latitude: 43.61924
 longitude: -116.31094
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 10443
-phone: "+1 208 378 1530"
+street: West Fairview Avenue
+housenumber: "10443"
+phone: +1 208 378 1530
 opening_hours: ""
-website: "https://mcdowellsrepair.com/"
+website: https://mcdowellsrepair.com/

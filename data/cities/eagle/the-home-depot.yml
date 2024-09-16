@@ -1,11 +1,11 @@
 id: 462608980
-type: way
+type: node
 latitude: 43.68737
 longitude: -116.31813
 postcode: "83616"
 city: Eagle
-street: "East State Street"
-housenumber: 2808
-phone: "+1 208-939-7648"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/eagle/id/eagle/83616/1809"
+street: East State Street
+housenumber: "2808"
+phone: +1 208-939-7648
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/eagle/id/eagle/83616/1809

@@ -1,11 +1,11 @@
 id: 663000302
-type: way
+type: node
 latitude: 43.61065
 longitude: -116.19936
 postcode: "83702"
 city: Boise
-street: "South 3rd Street"
-housenumber: 312
+street: South 3rd Street
+housenumber: "312"
 phone: "2083433782"
 opening_hours: ""
-website: "https://www.georgescycles.com/"
+website: https://www.georgescycles.com/

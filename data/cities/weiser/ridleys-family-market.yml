@@ -1,11 +1,11 @@
 id: 1031013097
-type: way
+type: node
 latitude: 44.25513
 longitude: -116.96182
 postcode: "83672"
 city: Weiser
-street: "East 6th Street"
-housenumber: 1401
+street: East 6th Street
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

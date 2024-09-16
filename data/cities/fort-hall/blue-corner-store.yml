@@ -1,11 +1,11 @@
 id: 1105419343
-type: way
+type: node
 latitude: 43.0296
 longitude: -112.43762
 postcode: "83202"
 city: Fort Hall
-street: "North Treaty Highway"
-housenumber: 51
+street: North Treaty Highway
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 969966331
-type: way
+type: node
 latitude: 42.31788
 longitude: -111.31075
 postcode: "83254"
 city: Montpelier
-street: "Washington Street"
-housenumber: 104
+street: Washington Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

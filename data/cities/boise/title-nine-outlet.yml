@@ -1,11 +1,11 @@
 id: 1193887260
-type: way
+type: node
 latitude: 43.61611
 longitude: -116.20291
 postcode: "83702"
 city: Boise
-street: "North 8th Street"
-housenumber: 170
+street: North 8th Street
+housenumber: "170"
 phone: ""
 opening_hours: ""
-website: "https://www.titlenine.com"
+website: https://www.titlenine.com

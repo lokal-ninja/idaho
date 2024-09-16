@@ -1,11 +1,11 @@
 id: 672622663
-type: way
+type: node
 latitude: 43.60843
 longitude: -116.21236
 postcode: "83706"
 city: Boise
-street: "South Lusk Street"
-housenumber: 1017
+street: South Lusk Street
+housenumber: "1017"
 phone: ""
 opening_hours: ""
 website: ""

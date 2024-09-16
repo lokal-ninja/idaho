@@ -1,11 +1,11 @@
 id: 698838025
-type: way
+type: node
 latitude: 43.61799
 longitude: -116.21525
 postcode: "83702"
 city: Boise
-street: "South Americana Boulevard"
-housenumber: 516
+street: South Americana Boulevard
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

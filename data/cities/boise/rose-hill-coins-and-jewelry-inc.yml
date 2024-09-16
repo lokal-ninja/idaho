@@ -1,11 +1,11 @@
 id: 892847835
-type: way
+type: node
 latitude: 43.60088
 longitude: -116.22528
 postcode: "83705"
 city: Boise
-street: "West Rose Hill Street"
-housenumber: 3506
+street: West Rose Hill Street
+housenumber: "3506"
 phone: ""
 opening_hours: ""
 website: ""

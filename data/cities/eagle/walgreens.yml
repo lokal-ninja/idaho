@@ -1,11 +1,11 @@
 id: 674552720
-type: way
+type: node
 latitude: 43.69266
 longitude: -116.35522
 postcode: "83616"
 city: Eagle
-street: "South Eagle Road"
-housenumber: 265
+street: South Eagle Road
+housenumber: "265"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-265+s+eagle+rd-eagle-id-83616/id=12124"
+website: https://www.walgreens.com/locator/walgreens-265+s+eagle+rd-eagle-id-83616/id=12124

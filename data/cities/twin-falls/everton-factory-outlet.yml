@@ -1,11 +1,11 @@
 id: 170558776
-type: way
+type: node
 latitude: 42.59232
 longitude: -114.47417
 postcode: "83301"
 city: Twin Falls
-street: "Pole Line Road West"
-housenumber: 163
+street: Pole Line Road West
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

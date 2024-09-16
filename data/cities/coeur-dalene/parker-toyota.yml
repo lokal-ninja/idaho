@@ -1,11 +1,11 @@
 id: 965396666
-type: way
+type: node
 latitude: 47.71531
 longitude: -116.79232
 postcode: "83815"
 city: Coeur d'Alene
-street: "West Kathleen Avenue"
-housenumber: 470
+street: West Kathleen Avenue
+housenumber: "470"
 phone: ""
 opening_hours: ""
 website: ""

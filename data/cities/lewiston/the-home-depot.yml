@@ -1,11 +1,11 @@
 id: 243707958
-type: way
-latitude: 46.39862
-longitude: -116.99479
+type: node
+latitude: 46.39863
+longitude: -116.9948
 postcode: "83501"
 city: Lewiston
-street: "Thain Grade"
-housenumber: 2425
-phone: "+1 208-743-5097"
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-20:00"
-website: "https://www.homedepot.com/l/lewiston/id/lewiston/83501/1808"
+street: Thain Grade
+housenumber: "2425"
+phone: +1 208-743-5097
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-20:00
+website: https://www.homedepot.com/l/lewiston/id/lewiston/83501/1808

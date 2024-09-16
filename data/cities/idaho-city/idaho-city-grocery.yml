@@ -1,11 +1,11 @@
 id: 372368405
-type: way
+type: node
 latitude: 43.82472
 longitude: -115.83756
 postcode: "83631"
 city: Idaho City
-street: "Highway 21"
-housenumber: 3868
-phone: "+1-208-392-4426"
+street: Highway 21
+housenumber: "3868"
+phone: +1-208-392-4426
 opening_hours: ""
-website: "https://idahocitygrocery.com/"
+website: https://idahocitygrocery.com/

@@ -1,11 +1,11 @@
 id: 681179688
-type: way
+type: node
 latitude: 43.62084
 longitude: -116.34353
 postcode: "83646"
 city: Meridian
-street: "East Elden Gray Street"
-housenumber: 4043
+street: East Elden Gray Street
+housenumber: "4043"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/6039"
+website: https://www.carmax.com/stores/6039

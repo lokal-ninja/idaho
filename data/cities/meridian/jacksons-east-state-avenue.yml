@@ -1,11 +1,11 @@
 id: 782233355
-type: way
+type: node
 latitude: 43.6133
 longitude: -116.39176
 postcode: "83642"
 city: Meridian
-street: "East State Avenue"
-housenumber: 66
+street: East State Avenue
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

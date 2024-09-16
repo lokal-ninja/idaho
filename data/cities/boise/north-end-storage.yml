@@ -1,11 +1,11 @@
 id: 1262840050
-type: way
+type: node
 latitude: 43.64539
 longitude: -116.20569
 postcode: "83702"
 city: Boise
-street: "North Bogus Basin Road"
-housenumber: 2811
+street: North Bogus Basin Road
+housenumber: "2811"
 phone: ""
 opening_hours: ""
-website: "https://www.northend-storage.com/"
+website: https://www.northend-storage.com/

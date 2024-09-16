@@ -1,11 +1,11 @@
 id: 1091039707
-type: way
+type: node
 latitude: 42.8748
 longitude: -112.43566
 postcode: "83201"
 city: Pocatello
-street: "North 15th Avenue"
-housenumber: 333
-phone: "(208) 232-5739"
-opening_hours: "Tu-Sa 07:00-21:00"
-website: "https://nelsbilo.com/"
+street: North 15th Avenue
+housenumber: "333"
+phone: (208) 232-5739
+opening_hours: Tu-Sa 07:00-21:00
+website: https://nelsbilo.com/

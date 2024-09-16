@@ -1,11 +1,11 @@
 id: 545117964
-type: way
+type: node
 latitude: 42.86786
 longitude: -112.45868
 postcode: "83204"
 city: Pocatello
-street: "North Main Street"
-housenumber: 911
-phone: "+1-208-232-3156"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://shopridleys.com/"
+street: North Main Street
+housenumber: "911"
+phone: +1-208-232-3156
+opening_hours: Mo-Su 07:00-23:00
+website: https://shopridleys.com/

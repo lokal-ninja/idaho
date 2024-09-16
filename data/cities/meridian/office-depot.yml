@@ -1,11 +1,11 @@
 id: 311154486
-type: way
+type: node
 latitude: 43.61807
 longitude: -116.35036
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 3545
-phone: "+1 208-887-9628"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00"
-website: "https://www.officedepot.com/storelocator/id/meridian/office-depot-2087"
+street: East Fairview Avenue
+housenumber: "3545"
+phone: +1 208-887-9628
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-18:00
+website: https://www.officedepot.com/storelocator/id/meridian/office-depot-2087

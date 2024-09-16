@@ -1,11 +1,11 @@
 id: 1154904725
-type: way
+type: node
 latitude: 43.60955
 longitude: -116.60752
 postcode: "83644"
 city: Nampa
-street: "Caldwell Boulevard"
-housenumber: 2204
-phone: "+1-208-466-4611"
-opening_hours: "Mo-Fr 8:00-17:00; Sa 8:00-12:00"
+street: Caldwell Boulevard
+housenumber: "2204"
+phone: +1-208-466-4611
+opening_hours: Mo-Fr 8:00-17:00; Sa 8:00-12:00
 website: ""

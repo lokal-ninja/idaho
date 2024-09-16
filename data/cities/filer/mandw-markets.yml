@@ -1,11 +1,11 @@
 id: 1171457468
-type: way
+type: node
 latitude: 42.56506
 longitude: -114.60522
 postcode: "83328"
 city: Filer
-street: "US-30"
-housenumber: 130
-phone: "+1 208-326-4328"
-opening_hours: "Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00"
-website: "https://stores.truevalue.com/id/filer/22192/"
+street: US-30
+housenumber: "130"
+phone: +1 208-326-4328
+opening_hours: Mo-Fr 07:30-20:00; Sa-Su 08:00-20:00
+website: https://stores.truevalue.com/id/filer/22192/

@@ -1,11 +1,11 @@
 id: 462655645
-type: way
+type: node
 latitude: 43.58963
 longitude: -116.39489
 postcode: "83642"
 city: Meridian
-street: "South Meridian Road"
-housenumber: 1625
+street: South Meridian Road
+housenumber: "1625"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1625+s+meridian+rd-meridian-id-83642/id=10604"
+website: https://www.walgreens.com/locator/walgreens-1625+s+meridian+rd-meridian-id-83642/id=10604

@@ -1,11 +1,11 @@
 id: 680463501
-type: way
+type: node
 latitude: 43.60263
 longitude: -116.27791
 postcode: "83709"
 city: Boise
-street: "West Gratz Drive"
-housenumber: 7710
-phone: "(208) 488-4499"
+street: West Gratz Drive
+housenumber: "7710"
+phone: (208) 488-4499
 opening_hours: ""
-website: "https://www.larrymillerhondaboise.com/"
+website: https://www.larrymillerhondaboise.com/

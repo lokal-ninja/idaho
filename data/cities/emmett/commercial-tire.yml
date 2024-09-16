@@ -1,11 +1,11 @@
 id: 773046533
-type: way
+type: node
 latitude: 43.87788
 longitude: -116.50036
 postcode: "83617"
 city: Emmett
-street: "North Washington Avenue"
-housenumber: 309
-phone: "+1 208-365-5066"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://commercialtire.com/"
+street: North Washington Avenue
+housenumber: "309"
+phone: +1 208-365-5066
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://commercialtire.com/

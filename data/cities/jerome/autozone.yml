@@ -1,11 +1,11 @@
 id: 545939401
-type: way
+type: node
 latitude: 42.69431
 longitude: -114.51789
 postcode: "83338"
 city: Jerome
-street: "South Lincoln Avenue"
-housenumber: 2645
+street: South Lincoln Avenue
+housenumber: "2645"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/id/jerome/2654-s-lincoln-ave.html"
+website: https://www.autozone.com/locations/id/jerome/2654-s-lincoln-ave.html

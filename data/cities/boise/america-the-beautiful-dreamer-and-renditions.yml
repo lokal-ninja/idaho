@@ -1,11 +1,11 @@
 id: 665721735
-type: way
+type: node
 latitude: 43.60802
 longitude: -116.27466
 postcode: "83704"
 city: Boise
-street: "North Cole Road"
-housenumber: 333
+street: North Cole Road
+housenumber: "333"
 phone: ""
 opening_hours: ""
 website: ""

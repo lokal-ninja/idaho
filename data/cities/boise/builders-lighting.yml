@@ -1,11 +1,11 @@
 id: 391319715
-type: way
+type: node
 latitude: 43.61329
 longitude: -116.28342
 postcode: "83704"
 city: Boise
-street: "West Rifleman Street"
-housenumber: 8174
+street: West Rifleman Street
+housenumber: "8174"
 phone: ""
 opening_hours: ""
-website: "https://www.builderslightingboise.com/"
+website: https://www.builderslightingboise.com/

@@ -1,11 +1,11 @@
 id: 311154483
-type: way
+type: node
 latitude: 43.61809
 longitude: -116.3482
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 3701
+street: East Fairview Avenue
+housenumber: "3701"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/id/meridian/2667/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/id/meridian/2667/

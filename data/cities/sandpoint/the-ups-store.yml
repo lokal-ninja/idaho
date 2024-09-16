@@ -1,11 +1,11 @@
 id: 573314511
-type: way
+type: node
 latitude: 48.27584
 longitude: -116.54976
 postcode: "83864"
 city: Sandpoint
-street: "Cedar Street"
-housenumber: 217
-phone: "+1-208-263-0261"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 12:00-17:00"
-website: "https://locations.theupsstore.com/id/sandpoint/217-cedar-st"
+street: Cedar Street
+housenumber: "217"
+phone: +1-208-263-0261
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-17:00; Su 12:00-17:00
+website: https://locations.theupsstore.com/id/sandpoint/217-cedar-st

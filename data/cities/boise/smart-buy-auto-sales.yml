@@ -1,11 +1,11 @@
 id: 666577487
-type: way
+type: node
 latitude: 43.61196
 longitude: -116.24317
 postcode: "83706"
 city: Boise
-street: "North Orchard Street"
-housenumber: 804
+street: North Orchard Street
+housenumber: "804"
 phone: ""
 opening_hours: ""
-website: "https://www.smartbuyidaho.com/"
+website: https://www.smartbuyidaho.com/

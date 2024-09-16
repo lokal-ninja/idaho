@@ -1,11 +1,11 @@
 id: 547289178
-type: way
+type: node
 latitude: 43.66976
 longitude: -111.91464
-postcode: "83442-1425"
+postcode: 83442-1425
 city: Rigby
-street: "South State Street"
-housenumber: 201
-phone: "+1 208-745-6498"
-opening_hours: "Mo-Sa 07:30-19:00"
+street: South State Street
+housenumber: "201"
+phone: +1 208-745-6498
+opening_hours: Mo-Sa 07:30-19:00
 website: ""

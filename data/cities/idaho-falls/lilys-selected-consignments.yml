@@ -4,8 +4,8 @@ latitude: 43.49214
 longitude: -112.03918
 postcode: "83402"
 city: Idaho Falls
-street: "A Street"
-housenumber: 260
-phone: "+1-208-524-8014"
-opening_hours: "Mo-Fr 11:00-17:30; Sa 10:00-16:00; Su off"
+street: A Street
+housenumber: "260"
+phone: +1-208-524-8014
+opening_hours: Mo-Fr 11:00-17:30; Sa 10:00-16:00; Su off
 website: ""

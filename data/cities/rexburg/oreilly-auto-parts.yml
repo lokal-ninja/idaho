@@ -1,11 +1,11 @@
 id: 289655264
-type: way
+type: node
 latitude: 43.82749
 longitude: -111.77883
 postcode: "83440"
 city: Rexburg
-street: "North 2nd East"
-housenumber: 55
+street: North 2nd East
+housenumber: "55"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/id/rexburg/autoparts-3134.html"
+website: https://locations.oreillyauto.com/id/rexburg/autoparts-3134.html

@@ -1,11 +1,11 @@
 id: 160442116
-type: way
+type: node
 latitude: 43.59561
 longitude: -116.38992
 postcode: "83642"
 city: Meridian
-street: "South Progress Avenue"
-housenumber: 1100
-phone: "+1 208-887-9699"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/meridian/id/meridian/83642/1804"
+street: South Progress Avenue
+housenumber: "1100"
+phone: +1 208-887-9699
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/meridian/id/meridian/83642/1804

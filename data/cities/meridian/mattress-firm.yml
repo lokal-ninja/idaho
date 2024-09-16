@@ -1,11 +1,11 @@
 id: 1003552753
-type: way
+type: node
 latitude: 43.60733
 longitude: -116.35518
 postcode: "83642"
 city: Meridian
-street: "East Lanark Street"
-housenumber: 3148
-phone: "+1 208-887-9612"
+street: East Lanark Street
+housenumber: "3148"
+phone: +1 208-887-9612
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/id/meridian/082006/"
+website: https://www.mattressfirm.com/en-us/stores/id/meridian/082006/

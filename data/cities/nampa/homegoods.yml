@@ -1,11 +1,11 @@
 id: 492904021
-type: way
+type: node
 latitude: 43.61121
 longitude: -116.58911
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16412
-phone: "+1 208-466-0601"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: North Marketplace Boulevard
+housenumber: "16412"
+phone: +1 208-466-0601
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

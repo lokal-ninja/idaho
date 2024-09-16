@@ -1,11 +1,11 @@
 id: 668999913
-type: way
+type: node
 latitude: 43.61804
 longitude: -116.43485
 postcode: "83642"
 city: Meridian
-street: "West Cherry Lane"
-housenumber: 3301
-phone: "+1 208-884-5471"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/id/meridian/3301-w-cherry-ln.html"
+street: West Cherry Lane
+housenumber: "3301"
+phone: +1 208-884-5471
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/id/meridian/3301-w-cherry-ln.html

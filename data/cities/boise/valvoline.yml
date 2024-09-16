@@ -1,11 +1,11 @@
 id: 666735321
-type: way
+type: node
 latitude: 43.59063
 longitude: -116.28775
 postcode: "83709"
 city: Boise
-street: "West Overland Road"
-housenumber: 8488
+street: West Overland Road
+housenumber: "8488"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/id/boise/oil-change-090132.html"
+website: https://store.vioc.com/id/boise/oil-change-090132.html

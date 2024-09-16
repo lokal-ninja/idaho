@@ -1,11 +1,11 @@
 id: 1003542287
-type: way
+type: node
 latitude: 43.62874
 longitude: -116.33425
 postcode: "83713"
 city: Boise
-street: "North Cloverdale Road"
-housenumber: 2528
+street: North Cloverdale Road
+housenumber: "2528"
 phone: ""
 opening_hours: ""
 website: ""

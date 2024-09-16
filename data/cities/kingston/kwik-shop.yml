@@ -1,11 +1,11 @@
 id: 502468237
-type: way
+type: node
 latitude: 47.54895
 longitude: -116.27212
 postcode: "83839"
 city: Kingston
-street: "Silver Valley Road"
-housenumber: 42985
+street: Silver Valley Road
+housenumber: "42985"
 phone: ""
 opening_hours: ""
 website: ""

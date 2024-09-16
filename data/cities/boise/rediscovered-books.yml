@@ -1,11 +1,11 @@
 id: 1193887262
-type: way
+type: node
 latitude: 43.61596
 longitude: -116.20262
 postcode: "83702"
 city: Boise
-street: "North 8th Street"
-housenumber: 180
-phone: "+1-208-376-4229"
+street: North 8th Street
+housenumber: "180"
+phone: +1-208-376-4229
 opening_hours: ""
-website: "https://www.rdbooks.org"
+website: https://www.rdbooks.org

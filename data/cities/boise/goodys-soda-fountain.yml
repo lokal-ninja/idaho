@@ -1,11 +1,11 @@
 id: 759744202
-type: way
+type: node
 latitude: 43.62947
 longitude: -116.20296
 postcode: "83702"
 city: Boise
-street: "North 13th Street"
-housenumber: 1502
+street: North 13th Street
+housenumber: "1502"
 phone: ""
 opening_hours: ""
 website: ""

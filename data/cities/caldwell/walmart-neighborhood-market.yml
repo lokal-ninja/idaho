@@ -1,11 +1,11 @@
 id: 582973848
-type: way
+type: node
 latitude: 43.63237
 longitude: -116.69137
 postcode: "83605"
 city: Caldwell
-street: "East Ustick Road"
-housenumber: 622
-phone: "+1 208-454-5640"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/4494/caldwell-id/whats-new"
+street: East Ustick Road
+housenumber: "622"
+phone: +1 208-454-5640
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/4494/caldwell-id/whats-new

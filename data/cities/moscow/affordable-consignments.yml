@@ -1,11 +1,11 @@
 id: 138493323
-type: way
+type: node
 latitude: 46.72367
 longitude: -116.99587
 postcode: "83843"
 city: Moscow
-street: "Troy Road"
-housenumber: 427
+street: Troy Road
+housenumber: "427"
 phone: ""
 opening_hours: ""
 website: ""

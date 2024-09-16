@@ -1,11 +1,11 @@
 id: 762712016
-type: way
+type: node
 latitude: 43.57784
 longitude: -116.55817
 postcode: "83651"
 city: Nampa
-street: "1st Street South"
-housenumber: 1314
-phone: "+1 208 466 7655"
-opening_hours: "Mo-Sa 09:30-18:00"
-website: "https://rollinghcycles.com/"
+street: 1st Street South
+housenumber: "1314"
+phone: +1 208 466 7655
+opening_hours: Mo-Sa 09:30-18:00
+website: https://rollinghcycles.com/

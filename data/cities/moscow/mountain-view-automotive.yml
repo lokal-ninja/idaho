@@ -1,11 +1,11 @@
 id: 765797964
-type: way
+type: node
 latitude: 46.72306
 longitude: -116.97994
 postcode: "83843"
 city: Moscow
-street: "South Mountain View Road"
-housenumber: 1220
-phone: "+1-208-882-5678"
+street: South Mountain View Road
+housenumber: "1220"
+phone: +1-208-882-5678
 opening_hours: ""
 website: ""

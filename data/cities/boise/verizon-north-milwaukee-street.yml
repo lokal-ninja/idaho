@@ -1,11 +1,11 @@
 id: 597121789
-type: way
+type: node
 latitude: 43.60739
 longitude: -116.28187
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 280
+street: North Milwaukee Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

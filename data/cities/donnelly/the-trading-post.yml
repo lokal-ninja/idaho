@@ -1,11 +1,11 @@
 id: 1160088230
-type: way
+type: node
 latitude: 44.73245
 longitude: -116.07882
 postcode: "83615"
 city: Donnelly
-street: "Main Street"
-housenumber: 235
+street: Main Street
+housenumber: "235"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1258757705
-type: way
+type: node
 latitude: 47.71114
 longitude: -116.91543
 postcode: "83854"
 city: Post Falls
-street: "East Seltice Way"
-housenumber: 2427
+street: East Seltice Way
+housenumber: "2427"
 phone: "+12087738888"
-opening_hours: "Mon - Fri: 10am - 7pm Sat: 10am - 6pm Sun: 10am - 6pm"
-website: "https://www.pawn1.com/locations/#north-idaho"
+opening_hours: 'Mon - Fri: 10am - 7pm Sat: 10am - 6pm Sun: 10am - 6pm'
+website: https://www.pawn1.com/locations/#north-idaho

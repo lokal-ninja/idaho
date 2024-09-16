@@ -1,11 +1,11 @@
 id: 287413287
-type: way
+type: node
 latitude: 47.70473
 longitude: -117.03103
 postcode: "83854"
 city: Post Falls
-street: "West Pointe Parkway"
-housenumber: 6405
-phone: "+1 208-777-4151"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4395/post-falls-id/whats-new"
+street: West Pointe Parkway
+housenumber: "6405"
+phone: +1 208-777-4151
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4395/post-falls-id/whats-new

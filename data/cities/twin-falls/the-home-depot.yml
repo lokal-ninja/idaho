@@ -1,11 +1,11 @@
 id: 170680143
-type: way
+type: node
 latitude: 42.59068
 longitude: -114.45247
 postcode: "83301"
 city: Twin Falls
-street: "Pole Line Road East"
-housenumber: 1650
-phone: "+1 208-737-0731"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/twin-falls/id/twin-falls/83301/1805"
+street: Pole Line Road East
+housenumber: "1650"
+phone: +1 208-737-0731
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/twin-falls/id/twin-falls/83301/1805

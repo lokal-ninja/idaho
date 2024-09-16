@@ -1,11 +1,11 @@
 id: 667257394
-type: way
+type: node
 latitude: 43.64181
 longitude: -116.23869
 postcode: "83703"
 city: Boise
-street: "West State Street"
-housenumber: 3977
+street: West State Street
+housenumber: "3977"
 phone: ""
 opening_hours: ""
-website: "https://hoffmanautobody.net/"
+website: https://hoffmanautobody.net/

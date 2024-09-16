@@ -1,11 +1,11 @@
 id: 492879433
-type: way
+type: node
 latitude: 43.62511
 longitude: -116.20971
 postcode: "83702"
 city: Boise
-street: "West State Street"
-housenumber: 1650
-phone: "+1-208-342-5651"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://local.albertsons.com/id/boise/1650-w-state-st.html"
+street: West State Street
+housenumber: "1650"
+phone: +1-208-342-5651
+opening_hours: Mo-Su 06:00-01:00
+website: https://local.albertsons.com/id/boise/1650-w-state-st.html

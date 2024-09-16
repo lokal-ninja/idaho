@@ -1,11 +1,11 @@
 id: 749860423
-type: way
+type: node
 latitude: 43.59779
 longitude: -116.3923
 postcode: "83642"
 city: Meridian
-street: "East Central Drive"
-housenumber: 180
+street: East Central Drive
+housenumber: "180"
 phone: ""
 opening_hours: ""
 website: ""

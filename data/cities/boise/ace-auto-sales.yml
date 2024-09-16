@@ -1,11 +1,11 @@
 id: 772608633
-type: way
+type: node
 latitude: 43.63435
 longitude: -116.22624
 postcode: "83703"
 city: Boise
-street: "West State Street"
-housenumber: 3000
+street: West State Street
+housenumber: "3000"
 phone: ""
 opening_hours: ""
-website: "https://www.aceautoboise.com/"
+website: https://www.aceautoboise.com/

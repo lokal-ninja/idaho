@@ -1,11 +1,11 @@
 id: 1003784656
-type: way
+type: node
 latitude: 43.50173
 longitude: -116.39169
 postcode: "83634"
 city: Kuna
-street: "East Deer Flat Road"
-housenumber: 1845
+street: East Deer Flat Road
+housenumber: "1845"
 phone: ""
 opening_hours: ""
 website: ""

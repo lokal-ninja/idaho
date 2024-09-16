@@ -1,11 +1,11 @@
 id: 762712817
-type: way
+type: node
 latitude: 43.57204
 longitude: -116.56805
 postcode: "83651"
 city: Nampa
-street: "12th Avenue South"
-housenumber: 920
+street: 12th Avenue South
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

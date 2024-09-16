@@ -1,11 +1,11 @@
 id: 1150700635
-type: way
+type: node
 latitude: 43.65634
 longitude: -116.30116
 postcode: "83714"
 city: Garden City
-street: "West Chinden Boulevard"
-housenumber: 9661
+street: West Chinden Boulevard
+housenumber: "9661"
 phone: ""
 opening_hours: ""
-website: "https://www.bellavidafuneral.com/"
+website: https://www.bellavidafuneral.com/

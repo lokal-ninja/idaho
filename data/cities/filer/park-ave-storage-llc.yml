@@ -1,11 +1,11 @@
 id: 1171476794
-type: way
+type: node
 latitude: 42.57009
 longitude: -114.60586
 postcode: "83328"
 city: Filer
-street: "Main Street"
-housenumber: 171
+street: Main Street
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

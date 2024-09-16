@@ -4,8 +4,8 @@ latitude: 46.73077
 longitude: -117.00162
 postcode: "83843"
 city: Moscow
-street: "South Main Street"
-housenumber: 521
-phone: "+1-208-882-2669"
-opening_hours: "Mo-Sa 10:00-18:00; Su 10:00-16:00"
-website: "https://www.bookpeopleofmoscow.com/"
+street: South Main Street
+housenumber: "521"
+phone: +1-208-882-2669
+opening_hours: Mo-Sa 10:00-18:00; Su 10:00-16:00
+website: https://www.bookpeopleofmoscow.com/

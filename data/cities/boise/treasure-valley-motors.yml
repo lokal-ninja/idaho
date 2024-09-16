@@ -1,11 +1,11 @@
 id: 1034315049
-type: way
+type: node
 latitude: 43.58085
 longitude: -116.21311
 postcode: "83705"
 city: Boise
-street: "South Vista Avenue"
-housenumber: 2350
+street: South Vista Avenue
+housenumber: "2350"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 537496177
-type: way
+type: node
 latitude: 46.71527
 longitude: -116.99949
 postcode: "83843"
 city: Moscow
-street: "East Palouse River Drive"
-housenumber: 225
-phone: "+1-208-882-4498"
+street: East Palouse River Drive
+housenumber: "225"
+phone: +1-208-882-4498
 opening_hours: ""
-website: "https://palouserentals.com/"
+website: https://palouserentals.com/

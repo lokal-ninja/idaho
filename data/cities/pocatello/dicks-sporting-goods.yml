@@ -1,11 +1,11 @@
 id: 672087387
-type: way
+type: node
 latitude: 42.90876
 longitude: -112.45855
 postcode: "83201"
 city: Pocatello
-street: "Hurley Drive"
-housenumber: 1844
-phone: "+1 208-238-6002"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/id/pocatello/636/"
+street: Hurley Drive
+housenumber: "1844"
+phone: +1 208-238-6002
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/id/pocatello/636/

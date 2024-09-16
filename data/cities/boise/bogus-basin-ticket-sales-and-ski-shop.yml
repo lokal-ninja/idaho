@@ -4,8 +4,8 @@ latitude: 43.64335
 longitude: -116.20583
 postcode: "83702"
 city: Boise
-street: "North Bogus Basin Road"
-housenumber: 2600
+street: North Bogus Basin Road
+housenumber: "2600"
 phone: ""
 opening_hours: ""
-website: "https://bogusbasin.org/"
+website: https://bogusbasin.org/

@@ -1,11 +1,11 @@
 id: 1108076530
-type: way
+type: node
 latitude: 42.59055
 longitude: -114.46656
 postcode: "83301"
 city: Twin Falls
-street: "Pole Line Road East"
-housenumber: 636
-phone: "(208) 732-1655"
-opening_hours: "Mo-Su 09:00-17:00"
+street: Pole Line Road East
+housenumber: "636"
+phone: (208) 732-1655
+opening_hours: Mo-Su 09:00-17:00
 website: ""

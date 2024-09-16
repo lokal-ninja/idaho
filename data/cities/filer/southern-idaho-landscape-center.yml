@@ -1,11 +1,11 @@
 id: 1171457452
-type: way
+type: node
 latitude: 42.56485
 longitude: -114.58822
 postcode: "83328"
 city: Filer
-street: "US-30"
-housenumber: 21150
-phone: "+1-208-326-2100"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-16:00; Su 10:00-16:00"
-website: "https://www.southernidaholandscapecenter.com"
+street: US-30
+housenumber: "21150"
+phone: +1-208-326-2100
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-16:00; Su 10:00-16:00
+website: https://www.southernidaholandscapecenter.com

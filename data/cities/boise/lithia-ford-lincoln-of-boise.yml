@@ -1,11 +1,11 @@
 id: 361057880
-type: way
+type: node
 latitude: 43.61862
 longitude: -116.29293
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 8853
-phone: "(208) 342-6811"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.lithiafordboise.com/"
+street: West Fairview Avenue
+housenumber: "8853"
+phone: (208) 342-6811
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.lithiafordboise.com/

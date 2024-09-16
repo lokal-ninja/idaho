@@ -1,11 +1,11 @@
 id: 718495188
-type: way
+type: node
 latitude: 42.31864
 longitude: -111.29897
 postcode: "83254"
 city: Montpelier
-street: "Washington Street"
-housenumber: 410
-phone: "+1 208-847-0840"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
+street: Washington Street
+housenumber: "410"
+phone: +1 208-847-0840
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
 website: ""

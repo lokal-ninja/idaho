@@ -1,11 +1,11 @@
 id: 463021257
-type: way
+type: node
 latitude: 43.64898
 longitude: -116.37374
 postcode: "83646"
 city: Meridian
-street: "East McMillan Road"
-housenumber: 1630
+street: East McMillan Road
+housenumber: "1630"
 phone: ""
 opening_hours: ""
 website: ""

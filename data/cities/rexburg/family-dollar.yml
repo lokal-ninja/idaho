@@ -1,11 +1,11 @@
 id: 289655276
-type: way
+type: node
 latitude: 43.82966
 longitude: -111.77902
 postcode: "83440"
 city: Rexburg
-street: "North 2nd East"
-housenumber: 157
+street: North 2nd East
+housenumber: "157"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1037933502
-type: way
+type: node
 latitude: 43.81744
 longitude: -111.79732
 postcode: "83440"
 city: Rexburg
-street: "South 5th West"
-housenumber: 407
-phone: "(208) 356-4606"
+street: South 5th West
+housenumber: "407"
+phone: (208) 356-4606
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 822734296
-type: way
+type: node
 latitude: 48.27172
 longitude: -116.558
 postcode: ""
 city: Sandpoint
-street: "Lake Street"
-housenumber: 703
+street: Lake Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
-website: "https://www.winterridgefoods.com/"
+website: https://www.winterridgefoods.com/

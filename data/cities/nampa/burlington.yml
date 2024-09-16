@@ -1,11 +1,11 @@
 id: 1028800615
-type: way
+type: node
 latitude: 43.61581
 longitude: -116.59551
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16828
-phone: "+1 208-205-9654"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-19:00"
-website: "https://stores.burlington.com/id/nampa/569"
+street: North Marketplace Boulevard
+housenumber: "16828"
+phone: +1 208-205-9654
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-19:00
+website: https://stores.burlington.com/id/nampa/569

@@ -1,11 +1,11 @@
 id: 170678456
-type: way
+type: node
 latitude: 42.59311
 longitude: -114.46526
 postcode: "83301"
 city: Twin Falls
-street: "Pole Line Road"
-housenumber: 731
-phone: "+1 208-736-1550"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/twin-falls-id-145.html"
+street: Pole Line Road
+housenumber: "731"
+phone: +1 208-736-1550
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/twin-falls-id-145.html

@@ -1,11 +1,11 @@
 id: 764058874
-type: way
+type: node
 latitude: 43.622
 longitude: -116.22639
 postcode: "83702"
 city: Boise
-street: "West Main Street"
-housenumber: 2820
+street: West Main Street
+housenumber: "2820"
 phone: ""
 opening_hours: ""
 website: ""

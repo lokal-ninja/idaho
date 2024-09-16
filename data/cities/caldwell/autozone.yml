@@ -1,11 +1,11 @@
 id: 753640902
-type: way
+type: node
 latitude: 43.63096
 longitude: -116.64127
 postcode: "83607"
 city: Caldwell
-street: "Cleveland Boulevard"
-housenumber: 5418
-phone: "+1-208-459-0023"
-opening_hours: "Mo-Sa 07:30-21:00, Su 09:00-20:00"
-website: "https://www.autozone.com/locations/id/caldwell/5418-cleveland-blvd.html"
+street: Cleveland Boulevard
+housenumber: "5418"
+phone: +1-208-459-0023
+opening_hours: Mo-Sa 07:30-21:00, Su 09:00-20:00
+website: https://www.autozone.com/locations/id/caldwell/5418-cleveland-blvd.html

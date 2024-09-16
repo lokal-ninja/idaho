@@ -4,8 +4,8 @@ latitude: 46.72193
 longitude: -116.98793
 postcode: "83843"
 city: Moscow
-street: "Troy Road"
-housenumber: 872
-phone: "+1-208-882-5279"
-opening_hours: "Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 12:00-17:00"
-website: "https://liquor.idaho.gov/"
+street: Troy Road
+housenumber: "872"
+phone: +1-208-882-5279
+opening_hours: Mo-Th 11:00-20:00; Fr-Sa 11:00-21:00; Su 12:00-17:00
+website: https://liquor.idaho.gov/

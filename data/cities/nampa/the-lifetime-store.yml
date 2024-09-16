@@ -4,8 +4,8 @@ latitude: 43.60858
 longitude: -116.60452
 postcode: "83651"
 city: Nampa
-street: "Caldwell Boulevard"
-housenumber: 2060
-phone: "208-971-8080"
-opening_hours: "Mo-Sa 9:30-19:00; Su off"
-website: "https://www.lifetime.com"
+street: Caldwell Boulevard
+housenumber: "2060"
+phone: 208-971-8080
+opening_hours: Mo-Sa 9:30-19:00; Su off
+website: https://www.lifetime.com

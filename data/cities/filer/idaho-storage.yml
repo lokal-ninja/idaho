@@ -1,11 +1,11 @@
 id: 1169188505
-type: way
+type: node
 latitude: 42.5536
 longitude: -114.57405
 postcode: "83328"
 city: Filer
-street: "Jorden Lane"
-housenumber: 2403
+street: Jorden Lane
+housenumber: "2403"
 phone: ""
 opening_hours: ""
 website: ""

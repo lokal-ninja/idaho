@@ -1,11 +1,11 @@
 id: 886770782
-type: way
+type: node
 latitude: 43.66087
 longitude: -116.4378
 postcode: "83646"
 city: Meridian
-street: "West Chinden Boulevard"
-housenumber: 3403
-phone: "+1 986-200-4136"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/meridian-id-1343.html"
+street: West Chinden Boulevard
+housenumber: "3403"
+phone: +1 986-200-4136
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/meridian-id-1343.html

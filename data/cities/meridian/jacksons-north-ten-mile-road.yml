@@ -1,11 +1,11 @@
 id: 893467734
-type: way
+type: node
 latitude: 43.61103
 longitude: -116.43246
 postcode: "83642"
 city: Meridian
-street: "North Ten Mile Road"
-housenumber: 750
+street: North Ten Mile Road
+housenumber: "750"
 phone: ""
 opening_hours: ""
 website: ""

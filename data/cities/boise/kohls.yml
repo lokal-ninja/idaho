@@ -1,11 +1,11 @@
 id: 957999388
-type: way
+type: node
 latitude: 43.60812
 longitude: -116.27644
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 400
-phone: "+1 208-321-4506"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/id/boise-1441.shtml"
+street: North Milwaukee Street
+housenumber: "400"
+phone: +1 208-321-4506
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/id/boise-1441.shtml

@@ -1,11 +1,11 @@
 id: 170555190
-type: way
+type: node
 latitude: 42.59257
 longitude: -114.47895
 postcode: "83301"
 city: Twin Falls
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1732+washington+st+n-twin+falls-id-83301/id=12286"
+website: https://www.walgreens.com/locator/walgreens-1732+washington+st+n-twin+falls-id-83301/id=12286

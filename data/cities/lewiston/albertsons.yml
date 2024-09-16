@@ -1,11 +1,11 @@
 id: 740015913
-type: way
+type: node
 latitude: 46.41018
 longitude: -117.00406
 postcode: "83501"
 city: Lewiston
-street: "21st Street"
-housenumber: 1024
-phone: "+1 208-743-1561"
-opening_hours: "Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00"
-website: "https://local.albertsons.com/id/lewiston/1024-21st-st.html"
+street: 21st Street
+housenumber: "1024"
+phone: +1 208-743-1561
+opening_hours: Mo-Fr 05:00-24:00; Sa-Su 05:00-24:00
+website: https://local.albertsons.com/id/lewiston/1024-21st-st.html

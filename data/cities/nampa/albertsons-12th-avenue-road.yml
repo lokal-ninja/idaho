@@ -1,11 +1,11 @@
 id: 786511272
-type: way
+type: node
 latitude: 43.54567
 longitude: -116.57083
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 2400
-phone: "+1 208-465-6597"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/id/nampa/2400-12th-ave-rd.html"
+street: 12th Avenue Road
+housenumber: "2400"
+phone: +1 208-465-6597
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/id/nampa/2400-12th-ave-rd.html

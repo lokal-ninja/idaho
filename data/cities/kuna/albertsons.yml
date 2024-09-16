@@ -4,8 +4,8 @@ latitude: 43.48958
 longitude: -116.40535
 postcode: "83634"
 city: Kuna
-street: "East Avalon Street"
-housenumber: 700
-phone: "+1 208-922-9834"
-opening_hours: "Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su 07:00-21:00"
-website: "https://local.albertsons.com/id/kuna/700-e-avalon-st.html"
+street: East Avalon Street
+housenumber: "700"
+phone: +1 208-922-9834
+opening_hours: Mo-Fr 07:00-21:00; Sa 07:00-21:00; Su 07:00-21:00
+website: https://local.albertsons.com/id/kuna/700-e-avalon-st.html

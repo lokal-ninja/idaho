@@ -1,11 +1,11 @@
 id: 1202406140
-type: way
+type: node
 latitude: 43.56166
 longitude: -116.57268
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 720
+street: 12th Avenue Road
+housenumber: "720"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/id/nampa/oil-change-090139.html"
+website: https://store.vioc.com/id/nampa/oil-change-090139.html

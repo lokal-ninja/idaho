@@ -1,11 +1,11 @@
 id: 757724649
-type: way
+type: node
 latitude: 43.66757
 longitude: -116.27891
 postcode: "83714"
 city: Garden City
-street: "West State Street"
-housenumber: 7227
-phone: "+1 208-853-1908"
+street: West State Street
+housenumber: "7227"
+phone: +1 208-853-1908
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/id/garden-city/082009/"
+website: https://www.mattressfirm.com/en-us/stores/id/garden-city/082009/

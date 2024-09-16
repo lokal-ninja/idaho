@@ -1,11 +1,11 @@
 id: 1214433460
-type: way
+type: node
 latitude: 44.77737
 longitude: -116.90739
 postcode: "83610"
 city: Cambridge
-street: "Hwy 71"
-housenumber: 4220
+street: Hwy 71
+housenumber: "4220"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 299384417
-type: way
+type: node
 latitude: 43.49754
 longitude: -112.06408
 postcode: "83402"
 city: Idaho Falls
-street: "West Broadway Street"
-housenumber: 1604
+street: West Broadway Street
+housenumber: "1604"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1604+w+broadway+st-idaho+falls-id-83402/id=15973"
+website: https://www.walgreens.com/locator/walgreens-1604+w+broadway+st-idaho+falls-id-83402/id=15973

@@ -1,11 +1,11 @@
 id: 1040394768
-type: way
+type: node
 latitude: 43.49725
 longitude: -112.02684
 postcode: ""
 city: Idaho Falls
-street: "1st Street"
-housenumber: 377
+street: 1st Street
+housenumber: "377"
 phone: ""
 opening_hours: ""
 website: ""

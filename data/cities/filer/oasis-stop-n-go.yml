@@ -1,11 +1,11 @@
 id: 1171457470
-type: way
+type: node
 latitude: 42.56426
 longitude: -114.6046
 postcode: "83328"
 city: Filer
-street: "US-30"
-housenumber: 120
-phone: "+1-208-326-4390"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://oasisstopngo.com"
+street: US-30
+housenumber: "120"
+phone: +1-208-326-4390
+opening_hours: Mo-Su 07:00-23:00
+website: https://oasisstopngo.com

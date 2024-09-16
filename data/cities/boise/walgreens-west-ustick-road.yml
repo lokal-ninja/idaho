@@ -1,11 +1,11 @@
 id: 840267544
-type: way
+type: node
 latitude: 43.63466
 longitude: -116.31344
 postcode: "83704"
 city: Boise
-street: "West Ustick Road"
-housenumber: 10580
+street: West Ustick Road
+housenumber: "10580"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-10580+w+ustick+rd-boise-id-83704/id=5184"
+website: https://www.walgreens.com/locator/walgreens-10580+w+ustick+rd-boise-id-83704/id=5184

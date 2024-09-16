@@ -1,11 +1,11 @@
 id: 964676934
-type: way
+type: node
 latitude: 47.81117
 longitude: -116.89945
 postcode: ""
 city: Rathdrum
-street: "West Highway 53"
-housenumber: 14875
+street: West Highway 53
+housenumber: "14875"
 phone: ""
 opening_hours: ""
 website: ""

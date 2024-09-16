@@ -1,11 +1,11 @@
 id: 761902401
-type: way
+type: node
 latitude: 43.48791
 longitude: -116.41014
 postcode: "83634"
 city: Kuna
-street: "East Avalon Street"
-housenumber: 349
+street: East Avalon Street
+housenumber: "349"
 phone: ""
 opening_hours: ""
 website: ""

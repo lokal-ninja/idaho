@@ -1,11 +1,11 @@
 id: 247728873
-type: way
+type: node
 latitude: 43.60958
 longitude: -116.27895
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 350
-phone: "+1-208-639-5000"
+street: North Milwaukee Street
+housenumber: "350"
+phone: +1-208-639-5000
 opening_hours: ""
-website: "https://www.boisetownesquare.com/"
+website: https://www.boisetownesquare.com/

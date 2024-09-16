@@ -1,11 +1,11 @@
 id: 1083027870
-type: way
+type: node
 latitude: 42.65424
 longitude: -111.6051
 postcode: "83276"
 city: Soda Springs
-street: "West 2nd South Street"
-housenumber: 39
+street: West 2nd South Street
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

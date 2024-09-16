@@ -1,11 +1,11 @@
 id: 32356885
-type: way
+type: node
 latitude: 43.49636
 longitude: -112.0841
 postcode: "83402"
 city: Idaho Falls
-street: "West Broadway Street"
-housenumber: 2627
-phone: "208 524 6446"
-opening_hours: "by appointment only"
+street: West Broadway Street
+housenumber: "2627"
+phone: 208 524 6446
+opening_hours: '"by appointment only"'
 website: ""

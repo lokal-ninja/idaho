@@ -1,11 +1,11 @@
 id: 1307141904
-type: way
+type: node
 latitude: 42.56197
 longitude: -114.43833
 postcode: "83301"
 city: Twin Falls
-street: "Addison Avenue East"
-housenumber: 2258
+street: Addison Avenue East
+housenumber: "2258"
 phone: ""
 opening_hours: ""
 website: ""

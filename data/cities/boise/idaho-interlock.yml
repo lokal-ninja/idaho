@@ -1,11 +1,11 @@
 id: 1084328397
-type: way
+type: node
 latitude: 43.6088
 longitude: -116.24297
 postcode: "83706"
 city: Boise
-street: "North Orchard Street"
-housenumber: 426
+street: North Orchard Street
+housenumber: "426"
 phone: ""
 opening_hours: ""
-website: "https://boiseidahointerlock.com/"
+website: https://boiseidahointerlock.com/

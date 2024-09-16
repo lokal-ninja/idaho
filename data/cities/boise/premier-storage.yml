@@ -1,11 +1,11 @@
 id: 903219712
-type: way
+type: node
 latitude: 43.65492
 longitude: -116.35657
 postcode: "83713"
 city: Boise
-street: "North Eagle Road"
-housenumber: 5593
+street: North Eagle Road
+housenumber: "5593"
 phone: ""
-opening_hours: "Mo-Su 09:00-18:00"
-website: "https://www.premierstorageofidaho.com/"
+opening_hours: Mo-Su 09:00-18:00
+website: https://www.premierstorageofidaho.com/

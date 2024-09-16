@@ -1,11 +1,11 @@
 id: 992093680
-type: way
+type: node
 latitude: 43.84081
 longitude: -111.77754
 postcode: "83440"
 city: Rexburg
-street: "North 2nd East"
-housenumber: 710
+street: North 2nd East
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

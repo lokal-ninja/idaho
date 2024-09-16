@@ -1,11 +1,11 @@
 id: 761902366
-type: way
+type: node
 latitude: 43.48788
 longitude: -116.40046
 postcode: "83634"
 city: Kuna
-street: "East Kuna Road"
-housenumber: 1031
+street: East Kuna Road
+housenumber: "1031"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1211687363
-type: way
+type: node
 latitude: 43.46549
 longitude: -111.98137
 postcode: "83406"
 city: Idaho Falls
-street: "South 25th East"
-housenumber: 3549
-phone: "+1 986-497-6347"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/id/idahofalls/pet-supplies-idahofalls-id-1298.html"
+street: South 25th East
+housenumber: "3549"
+phone: +1 986-497-6347
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/id/idahofalls/pet-supplies-idahofalls-id-1298.html

@@ -1,11 +1,11 @@
 id: 1135774319
-type: way
+type: node
 latitude: 47.75129
 longitude: -116.79059
 postcode: "83835"
 city: Hayden
-street: "West Honeysuckle Avenue"
-housenumber: 260
+street: West Honeysuckle Avenue
+housenumber: "260"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-260+w+honeysuckle+ave-hayden-id-83835/id=10314"
+website: https://www.walgreens.com/locator/walgreens-260+w+honeysuckle+ave-hayden-id-83835/id=10314

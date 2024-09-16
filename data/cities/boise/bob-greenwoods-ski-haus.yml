@@ -1,11 +1,11 @@
 id: 460570094
-type: way
+type: node
 latitude: 43.64135
 longitude: -116.2077
 postcode: "83702"
 city: Boise
-street: "North Bogus Basin Road"
-housenumber: 2400
+street: North Bogus Basin Road
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

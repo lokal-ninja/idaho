@@ -1,11 +1,11 @@
 id: 764058146
-type: way
+type: node
 latitude: 43.63197
 longitude: -116.22478
 postcode: "83702"
 city: Boise
-street: "West State Street"
-housenumber: 2901
+street: West State Street
+housenumber: "2901"
 phone: ""
 opening_hours: ""
 website: ""

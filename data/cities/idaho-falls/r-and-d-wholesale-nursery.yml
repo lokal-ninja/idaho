@@ -1,11 +1,11 @@
 id: 241165306
-type: way
+type: node
 latitude: 43.44297
 longitude: -112.08098
 postcode: "83402"
 city: Idaho Falls
-street: "West Heritage Circle"
-housenumber: 2312
-phone: "208 360 7212"
+street: West Heritage Circle
+housenumber: "2312"
+phone: 208 360 7212
 opening_hours: ""
 website: ""

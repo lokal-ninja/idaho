@@ -1,11 +1,11 @@
 id: 1099480159
-type: way
+type: node
 latitude: 47.68285
 longitude: -116.78149
 postcode: "83814"
 city: Coeur D'Alene
-street: "North 4th Street"
-housenumber: 1001
-phone: "+1 208-664-6019"
-opening_hours: "Mo-Fr 07:00-23:00; Sa-Su 07:00-23:00"
-website: "https://local.safeway.com/safeway/id/coeur-d-alene/1001-n-4th-st.html"
+street: North 4th Street
+housenumber: "1001"
+phone: +1 208-664-6019
+opening_hours: Mo-Fr 07:00-23:00; Sa-Su 07:00-23:00
+website: https://local.safeway.com/safeway/id/coeur-d-alene/1001-n-4th-st.html

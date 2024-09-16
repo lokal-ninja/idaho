@@ -1,11 +1,11 @@
 id: 680193247
-type: way
+type: node
 latitude: 43.61085
 longitude: -116.33782
 postcode: "83713"
 city: Boise
-street: "West Executive Drive"
-housenumber: 12443
+street: West Executive Drive
+housenumber: "12443"
 phone: ""
 opening_hours: ""
 website: ""

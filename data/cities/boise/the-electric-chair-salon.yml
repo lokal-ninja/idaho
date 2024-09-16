@@ -1,11 +1,11 @@
 id: 1193887264
-type: way
+type: node
 latitude: 43.61615
 longitude: -116.20256
 postcode: "83702"
 city: Boise
-street: "West Idaho Street"
-housenumber: 783
-phone: "+1-208-331-2588"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: West Idaho Street
+housenumber: "783"
+phone: +1-208-331-2588
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

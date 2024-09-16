@@ -1,11 +1,11 @@
 id: 462624065
-type: way
+type: node
 latitude: 43.63651
 longitude: -116.35818
 postcode: "83646"
 city: Meridian
-street: "North Eagle Road"
-housenumber: 3415
-phone: "+1 208-884-2026"
-opening_hours: "Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/id/meridian/685/"
+street: North Eagle Road
+housenumber: "3415"
+phone: +1 208-884-2026
+opening_hours: Mo-Fr 09:30-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/id/meridian/685/

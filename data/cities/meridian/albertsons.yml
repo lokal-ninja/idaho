@@ -1,11 +1,11 @@
 id: 160442292
-type: way
+type: node
 latitude: 43.62037
 longitude: -116.39323
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 20
-phone: "+1 208-888-4792"
-opening_hours: "Mo-Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00"
-website: "https://local.albertsons.com/id/meridian/20-e-fairview-ave.html"
+street: East Fairview Avenue
+housenumber: "20"
+phone: +1 208-888-4792
+opening_hours: Mo-Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00
+website: https://local.albertsons.com/id/meridian/20-e-fairview-ave.html

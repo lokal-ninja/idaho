@@ -1,11 +1,11 @@
 id: 957999386
-type: way
+type: node
 latitude: 43.60873
 longitude: -116.27965
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 370
+street: North Milwaukee Street
+housenumber: "370"
 phone: ""
 opening_hours: ""
-website: "https://www.macys.com/stores/id/boise/boise-towne-square_393.html"
+website: https://www.macys.com/stores/id/boise/boise-towne-square_393.html

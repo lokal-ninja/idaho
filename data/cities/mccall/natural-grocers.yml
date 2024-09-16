@@ -1,11 +1,11 @@
 id: 319609634
-type: way
+type: node
 latitude: 44.90067
 longitude: -116.09734
 postcode: "83638"
 city: McCall
-street: "North 3rd Street"
-housenumber: 209
-phone: "+1-208-630-6017"
+street: North 3rd Street
+housenumber: "209"
+phone: +1-208-630-6017
 opening_hours: ""
-website: "https://www.naturalgrocers.com/"
+website: https://www.naturalgrocers.com/

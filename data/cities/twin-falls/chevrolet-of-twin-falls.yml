@@ -1,11 +1,11 @@
 id: 170680130
-type: way
+type: node
 latitude: 42.59095
 longitude: -114.45938
 postcode: "83301"
 city: Twin Falls
-street: "Blue Lakes Boulevard North"
-housenumber: 1654
+street: Blue Lakes Boulevard North
+housenumber: "1654"
 phone: ""
 opening_hours: ""
-website: "https://www.twinfallschevrolet.com/"
+website: https://www.twinfallschevrolet.com/

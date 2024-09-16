@@ -1,11 +1,11 @@
 id: 462655627
-type: way
+type: node
 latitude: 43.62035
 longitude: -116.37543
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 1570
+street: East Fairview Avenue
+housenumber: "1570"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1570+e+fairview+ave-meridian-id-83642/id=6200"
+website: https://www.walgreens.com/locator/walgreens-1570+e+fairview+ave-meridian-id-83642/id=6200

@@ -1,11 +1,11 @@
 id: 980418594
-type: way
+type: node
 latitude: 43.64892
 longitude: -116.39538
 postcode: "83646"
 city: Meridian
-street: "North Elsinore Avenue"
-housenumber: 4850
+street: North Elsinore Avenue
+housenumber: "4850"
 phone: ""
 opening_hours: ""
 website: ""

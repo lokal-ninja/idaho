@@ -1,11 +1,11 @@
 id: 228018798
-type: way
+type: node
 latitude: 42.8907
 longitude: -112.44979
 postcode: "83201"
 city: Pocatello
-street: "Yellowstone Avenue"
-housenumber: 800
-phone: "+1 208-239-4000"
-opening_hours: "Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.fredmeyer.com/stores/grocery/id/pocatello/pocatello/701/00260"
+street: Yellowstone Avenue
+housenumber: "800"
+phone: +1 208-239-4000
+opening_hours: Mo-Fr 08:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.fredmeyer.com/stores/grocery/id/pocatello/pocatello/701/00260

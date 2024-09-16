@@ -1,11 +1,11 @@
 id: 893474761
-type: way
+type: node
 latitude: 43.6197
 longitude: -116.37838
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 1210
+street: East Fairview Avenue
+housenumber: "1210"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/id/meridian/oil-change-090136.html"
+website: https://store.vioc.com/id/meridian/oil-change-090136.html

@@ -1,11 +1,11 @@
 id: 239366877
-type: way
+type: node
 latitude: 43.49638
 longitude: -112.06951
 postcode: "83402"
 city: Idaho Falls
-street: "West Broadway Street"
-housenumber: 1955
-phone: "208 524 1475"
+street: West Broadway Street
+housenumber: "1955"
+phone: 208 524 1475
 opening_hours: ""
-website: "https://locations.oreillyauto.com/id/idahofalls/autoparts-3083.html"
+website: https://locations.oreillyauto.com/id/idahofalls/autoparts-3083.html

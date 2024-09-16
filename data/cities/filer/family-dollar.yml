@@ -1,11 +1,11 @@
 id: 1172335509
-type: way
+type: node
 latitude: 42.56355
 longitude: -114.61144
 postcode: "83328"
 city: Filer
-street: "US-30"
-housenumber: 505
-phone: "+1-208-536-7074"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
+street: US-30
+housenumber: "505"
+phone: +1-208-536-7074
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
 website: ""

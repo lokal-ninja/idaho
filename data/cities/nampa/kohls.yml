@@ -1,11 +1,11 @@
 id: 492904013
-type: way
+type: node
 latitude: 43.61278
 longitude: -116.58926
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16566
-phone: "+1 208-442-8091"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/id/nampa-1095.shtml"
+street: North Marketplace Boulevard
+housenumber: "16566"
+phone: +1 208-442-8091
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/id/nampa-1095.shtml

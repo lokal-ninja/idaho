@@ -1,11 +1,11 @@
 id: 367351733
-type: way
+type: node
 latitude: 43.13467
 longitude: -115.69734
 postcode: "83647"
 city: Mountain Home
-street: "North Main Street"
-housenumber: 528
-phone: "+1 208-587-5460"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/id/mountain-home/528-n-main-st.html"
+street: North Main Street
+housenumber: "528"
+phone: +1 208-587-5460
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/id/mountain-home/528-n-main-st.html

@@ -4,8 +4,8 @@ latitude: 42.21636
 longitude: -114.59365
 postcode: "83302"
 city: Rogerson
-street: "2300 East"
-housenumber: 1506
-phone: "+1-208-655-4277"
-opening_hours: "Mo-Su 09:00-21:00"
+street: 2300 East
+housenumber: "1506"
+phone: +1-208-655-4277
+opening_hours: Mo-Su 09:00-21:00
 website: ""

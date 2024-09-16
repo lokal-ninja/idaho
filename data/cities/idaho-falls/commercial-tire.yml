@@ -1,11 +1,11 @@
 id: 239372941
-type: way
+type: node
 latitude: 43.49655
 longitude: -112.04733
 postcode: "83402"
 city: Idaho Falls
-street: "Denver Street"
-housenumber: 850
-phone: "208 552 2950"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://commercialtire.com/"
+street: Denver Street
+housenumber: "850"
+phone: 208 552 2950
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://commercialtire.com/

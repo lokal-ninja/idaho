@@ -1,11 +1,11 @@
 id: 665434952
-type: way
+type: node
 latitude: 43.61417
 longitude: -116.21841
 postcode: "83702"
 city: Boise
-street: "South 13th Street"
-housenumber: 801
+street: South 13th Street
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

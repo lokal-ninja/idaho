@@ -1,11 +1,11 @@
 id: 544923755
-type: way
+type: node
 latitude: 42.88889
 longitude: -112.45116
 postcode: "83201"
 city: Pocatello
-street: "Yellowstone Avenue"
-housenumber: 780
+street: Yellowstone Avenue
+housenumber: "780"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 00:00-24:00"
-website: "https://www.autozone.com/locations/id/pocatello/780-yellowstone-ave.html"
+opening_hours: Mo-Sa 08:00-21:00; Su 00:00-24:00
+website: https://www.autozone.com/locations/id/pocatello/780-yellowstone-ave.html

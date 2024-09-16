@@ -4,8 +4,8 @@ latitude: 42.59741
 longitude: -114.45749
 postcode: "83301"
 city: Twin Falls
-street: "Fillmore Street"
-housenumber: 1951
-phone: "+1 208-733-1622"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/twin-falls-id-1044"
+street: Fillmore Street
+housenumber: "1951"
+phone: +1 208-733-1622
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/twin-falls-id-1044

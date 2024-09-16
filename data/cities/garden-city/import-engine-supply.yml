@@ -1,11 +1,11 @@
 id: 698461111
-type: way
+type: node
 latitude: 43.62206
 longitude: -116.23694
 postcode: "83714"
 city: Garden City
-street: "East 32nd Street"
-housenumber: 108
+street: East 32nd Street
+housenumber: "108"
 phone: ""
 opening_hours: ""
-website: "https://www.crankkit.com/"
+website: https://www.crankkit.com/

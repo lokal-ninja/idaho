@@ -1,11 +1,11 @@
 id: 582956166
-type: way
+type: node
 latitude: 43.61215
 longitude: -116.59288
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16485
-phone: "+1 208-442-8173"
+street: North Marketplace Boulevard
+housenumber: "16485"
+phone: +1 208-442-8173
 opening_hours: ""
-website: "https://stores.bestbuy.com/id/nampa/16485-n-marketplace-blvd-1078.html"
+website: https://stores.bestbuy.com/id/nampa/16485-n-marketplace-blvd-1078.html

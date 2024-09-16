@@ -1,11 +1,11 @@
 id: 695655208
-type: way
+type: node
 latitude: 43.59064
 longitude: -116.28507
 postcode: "83709"
 city: Boise
-street: "West Overland Road"
-housenumber: 8256
+street: West Overland Road
+housenumber: "8256"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 672622662
-type: way
+type: node
 latitude: 43.6087
 longitude: -116.21217
 postcode: "83706"
 city: Boise
-street: "West Royal Boulevard"
-housenumber: 905
+street: West Royal Boulevard
+housenumber: "905"
 phone: ""
 opening_hours: ""
 website: ""

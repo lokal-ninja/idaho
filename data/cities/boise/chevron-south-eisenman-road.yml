@@ -1,11 +1,11 @@
 id: 909470747
-type: way
+type: node
 latitude: 43.54389
 longitude: -116.16432
 postcode: "83716"
 city: Boise
-street: "South Eisenman Road"
-housenumber: 6450
+street: South Eisenman Road
+housenumber: "6450"
 phone: ""
 opening_hours: ""
 website: ""

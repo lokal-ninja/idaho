@@ -1,11 +1,11 @@
 id: 361060698
-type: way
+type: node
 latitude: 43.60873
 longitude: -116.28228
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 510
+street: North Milwaukee Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
-website: "https://www.menswearhouse.com/"
+website: https://www.menswearhouse.com/

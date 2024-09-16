@@ -1,11 +1,11 @@
 id: 239700604
-type: way
+type: node
 latitude: 43.49398
 longitude: -112.04978
 postcode: "83402"
 city: Idaho Falls
-street: "Houston Street"
-housenumber: 848
-phone: "208 523 1464"
+street: Houston Street
+housenumber: "848"
+phone: 208 523 1464
 opening_hours: ""
 website: ""

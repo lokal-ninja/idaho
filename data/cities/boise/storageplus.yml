@@ -1,11 +1,11 @@
 id: 884165508
-type: way
+type: node
 latitude: 43.64233
 longitude: -116.35693
 postcode: "83713"
 city: Boise
-street: "North Eagle Road"
-housenumber: 4195
+street: North Eagle Road
+housenumber: "4195"
 phone: ""
 opening_hours: ""
-website: "https://storageplus.com/FAC/EGL_FAC.html"
+website: https://storageplus.com/FAC/EGL_FAC.html

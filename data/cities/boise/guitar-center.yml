@@ -1,11 +1,11 @@
 id: 590310076
-type: way
+type: node
 latitude: 43.61835
 longitude: -116.25334
 postcode: "83706"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 5761
-phone: "+1-208-685-0505"
-opening_hours: "Mo-Su 10:00-21:00"
-website: "https://guitarcenter.com"
+street: West Fairview Avenue
+housenumber: "5761"
+phone: +1-208-685-0505
+opening_hours: Mo-Su 10:00-21:00
+website: https://guitarcenter.com

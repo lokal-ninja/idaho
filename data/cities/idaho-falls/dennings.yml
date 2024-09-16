@@ -1,11 +1,11 @@
 id: 208623663
-type: way
+type: node
 latitude: 43.49056
 longitude: -112.03969
 postcode: "83402"
 city: Idaho Falls
-street: "West Broadway Street"
-housenumber: 251
+street: West Broadway Street
+housenumber: "251"
 phone: ""
 opening_hours: ""
-website: "https://www.denningsappliance.com/"
+website: https://www.denningsappliance.com/

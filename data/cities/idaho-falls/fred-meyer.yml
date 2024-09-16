@@ -1,11 +1,11 @@
 id: 959011302
-type: way
+type: node
 latitude: 43.51112
 longitude: -112.02107
 postcode: "83401"
 city: Idaho Falls
-street: "Northgate Mile"
-housenumber: 1555
-phone: "+1 208-535-2561"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/id/idaho-falls/idaho-falls/701/00156"
+street: Northgate Mile
+housenumber: "1555"
+phone: +1 208-535-2561
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/id/idaho-falls/idaho-falls/701/00156

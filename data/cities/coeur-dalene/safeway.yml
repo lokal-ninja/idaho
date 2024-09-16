@@ -1,11 +1,11 @@
 id: 131635707
-type: way
+type: node
 latitude: 47.70852
 longitude: -116.78835
 postcode: "83814"
 city: Coeur d'Alene
-street: "West Neider Avenue"
-housenumber: 121
-phone: "+1 208-765-4311"
+street: West Neider Avenue
+housenumber: "121"
+phone: +1 208-765-4311
 opening_hours: ""
-website: "https://local.safeway.com/safeway/id/coeur-d-alene/121-w-neider-ave.html"
+website: https://local.safeway.com/safeway/id/coeur-d-alene/121-w-neider-ave.html

@@ -1,11 +1,11 @@
 id: 664895668
-type: way
+type: node
 latitude: 43.58547
 longitude: -116.27749
 postcode: "83709"
 city: Boise
-street: "South Cole Road"
-housenumber: 2051
-phone: "+1 208-321-8700"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/boise-id-761.html"
+street: South Cole Road
+housenumber: "2051"
+phone: +1 208-321-8700
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/boise-id-761.html

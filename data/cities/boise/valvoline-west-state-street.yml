@@ -1,11 +1,11 @@
 id: 1112598508
-type: way
+type: node
 latitude: 43.64227
 longitude: -116.2382
 postcode: "83703"
 city: Boise
-street: "West State Street"
-housenumber: 3930
+street: West State Street
+housenumber: "3930"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/id/boise/oil-change-090130.html"
+website: https://store.vioc.com/id/boise/oil-change-090130.html

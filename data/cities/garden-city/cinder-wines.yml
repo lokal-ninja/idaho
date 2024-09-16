@@ -1,11 +1,11 @@
 id: 913236290
-type: way
+type: node
 latitude: 43.63392
 longitude: -116.25374
 postcode: "83714"
 city: Garden City
-street: "East 44th Street"
-housenumber: 107
+street: East 44th Street
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

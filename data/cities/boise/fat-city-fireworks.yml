@@ -1,11 +1,11 @@
 id: 694542688
-type: way
+type: node
 latitude: 43.33877
 longitude: -115.9573
 postcode: "83716"
 city: Boise
-street: "South Simco Road"
-housenumber: 1775
+street: South Simco Road
+housenumber: "1775"
 phone: ""
 opening_hours: ""
 website: ""

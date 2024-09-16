@@ -1,11 +1,11 @@
 id: 1272143918
-type: way
+type: node
 latitude: 43.617
 longitude: -116.29528
 postcode: "83704"
 city: Boise
-street: "North Maple Grove Road"
-housenumber: 1225
+street: North Maple Grove Road
+housenumber: "1225"
 phone: ""
 opening_hours: ""
-website: "https://www.petersonbmw.com/"
+website: https://www.petersonbmw.com/

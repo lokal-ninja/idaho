@@ -1,11 +1,11 @@
 id: 1095083671
-type: way
+type: node
 latitude: 47.71393
 longitude: -116.93642
-postcode: "83854-8669"
+postcode: 83854-8669
 city: Post Falls
-street: "North Idaho Street"
-housenumber: 650
-phone: "+1 208-773-9103"
+street: North Idaho Street
+housenumber: "650"
+phone: +1 208-773-9103
 opening_hours: ""
-website: "https://www.7-eleven.com/locations/id/post-falls/650-n.-idaho-st.-23781"
+website: https://www.7-eleven.com/locations/id/post-falls/650-n.-idaho-st.-23781

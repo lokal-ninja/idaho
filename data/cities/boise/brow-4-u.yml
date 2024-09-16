@@ -1,11 +1,11 @@
 id: 1225081560
-type: way
+type: node
 latitude: 43.60922
 longitude: -116.27674
 postcode: "83704"
 city: Boise
-street: "North Milwaukee Street"
-housenumber: 350
+street: North Milwaukee Street
+housenumber: "350"
 phone: ""
-opening_hours: "Su 11:00-19:00; Mo-Sa 10:00-21:00"
-website: "https://www.brow4u.com/"
+opening_hours: Su 11:00-19:00; Mo-Sa 10:00-21:00
+website: https://www.brow4u.com/

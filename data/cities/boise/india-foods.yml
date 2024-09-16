@@ -1,11 +1,11 @@
 id: 590310071
-type: way
+type: node
 latitude: 43.61959
 longitude: -116.25681
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 6020
+street: West Fairview Avenue
+housenumber: "6020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 264407818
-type: way
+type: node
 latitude: 46.73037
 longitude: -117.00065
 postcode: "83843"
 city: Moscow
-street: "East 5th Street"
-housenumber: 121
-phone: "+1-208-882-8537"
+street: East 5th Street
+housenumber: "121"
+phone: +1-208-882-8537
 opening_hours: ""
-website: "https://www.moscowfood.coop/"
+website: https://www.moscowfood.coop/

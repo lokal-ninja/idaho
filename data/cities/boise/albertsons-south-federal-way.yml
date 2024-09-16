@@ -1,11 +1,11 @@
 id: 403480093
-type: way
+type: node
 latitude: 43.54327
 longitude: -116.15358
 postcode: "83716"
 city: Boise
-street: "South Federal Way"
-housenumber: 6560
-phone: "+1 208-429-1084"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/id/boise/6560-s-federal-way.html"
+street: South Federal Way
+housenumber: "6560"
+phone: +1 208-429-1084
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/id/boise/6560-s-federal-way.html

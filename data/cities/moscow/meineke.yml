@@ -1,11 +1,11 @@
 id: 536136863
-type: way
+type: node
 latitude: 46.74436
 longitude: -117.00078
 postcode: "83843"
 city: Moscow
-street: "North Main Street"
-housenumber: 970
-phone: "+1-208-997-2003"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-17:00"
-website: "https://www.meineke.com/locations/id/moscow-2410/"
+street: North Main Street
+housenumber: "970"
+phone: +1-208-997-2003
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-17:00
+website: https://www.meineke.com/locations/id/moscow-2410/

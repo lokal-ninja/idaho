@@ -1,11 +1,11 @@
 id: 299740150
-type: way
+type: node
 latitude: 43.82806
 longitude: -111.78168
 postcode: "83440"
 city: Rexburg
-street: "East 1st North"
-housenumber: 76
+street: East 1st North
+housenumber: "76"
 phone: ""
 opening_hours: ""
 website: ""

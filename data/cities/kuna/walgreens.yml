@@ -1,11 +1,11 @@
 id: 761902372
-type: way
+type: node
 latitude: 43.48762
 longitude: -116.40296
 postcode: "83634"
 city: Kuna
-street: "East Avalon Street"
-housenumber: 869
+street: East Avalon Street
+housenumber: "869"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-869+e+avalon+st-kuna-id-83634/id=13614"
+website: https://www.walgreens.com/locator/walgreens-869+e+avalon+st-kuna-id-83634/id=13614

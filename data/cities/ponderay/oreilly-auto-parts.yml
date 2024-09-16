@@ -1,11 +1,11 @@
 id: 505862871
-type: way
+type: node
 latitude: 48.30691
 longitude: -116.54713
 postcode: "83852"
 city: Ponderay
-street: "US 95;US 2"
-housenumber: 476866
-phone: "+1-208-263-7057"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/id/ponderay/autoparts-3456.html"
+street: US 95;US 2
+housenumber: "476866"
+phone: +1-208-263-7057
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/id/ponderay/autoparts-3456.html

@@ -1,11 +1,11 @@
 id: 886581039
-type: way
+type: node
 latitude: 44.90927
 longitude: -116.09703
 postcode: "83638"
 city: McCall
-street: "North 3rd Street"
-housenumber: 809
-phone: "+1 208-634-7665"
-opening_hours: "Mo-Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://mayhardware.com/"
+street: North 3rd Street
+housenumber: "809"
+phone: +1 208-634-7665
+opening_hours: Mo-Sa 08:00-17:00; Su 10:00-16:00
+website: https://mayhardware.com/

@@ -1,11 +1,11 @@
 id: 771161861
-type: way
+type: node
 latitude: 43.59087
 longitude: -116.30897
 postcode: "83709"
 city: Boise
-street: "West Overland Road"
-housenumber: 10120
+street: West Overland Road
+housenumber: "10120"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/id/boise/autoparts-3831.html"
+website: https://locations.oreillyauto.com/id/boise/autoparts-3831.html

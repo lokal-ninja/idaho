@@ -1,11 +1,11 @@
 id: 1074372294
-type: way
+type: node
 latitude: 42.4748
 longitude: -114.16337
 postcode: "83344"
 city: Murtaugh
-street: "US-30"
-housenumber: 23703
+street: US-30
+housenumber: "23703"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 764319029
-type: way
+type: node
 latitude: 43.58612
 longitude: -116.35537
 postcode: "83642"
 city: Meridian
-street: "East Goldstone Drive"
-housenumber: 3010
+street: East Goldstone Drive
+housenumber: "3010"
 phone: ""
 opening_hours: ""
 website: ""

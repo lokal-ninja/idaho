@@ -1,11 +1,11 @@
 id: 560547463
-type: way
+type: node
 latitude: 42.53337
 longitude: -114.47791
 postcode: "83301"
 city: Twin Falls
-street: "Washington Street South"
-housenumber: 991
+street: Washington Street South
+housenumber: "991"
 phone: "+12087338987"
-opening_hours: "Mo-Sa 07:00-21:00, Su 09:00-20:00"
-website: "http://swensensmarkets.com/"
+opening_hours: Mo-Sa 07:00-21:00, Su 09:00-20:00
+website: http://swensensmarkets.com/

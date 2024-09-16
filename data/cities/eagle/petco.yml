@@ -1,11 +1,11 @@
 id: 902850362
-type: way
+type: node
 latitude: 43.68609
 longitude: -116.3156
 postcode: "83616"
 city: Eagle
-street: "East State Street"
-housenumber: 3006
-phone: "+1 208-513-2012"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/id/eagle/pet-supplies-eagle-id-1285.html"
+street: East State Street
+housenumber: "3006"
+phone: +1 208-513-2012
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/id/eagle/pet-supplies-eagle-id-1285.html

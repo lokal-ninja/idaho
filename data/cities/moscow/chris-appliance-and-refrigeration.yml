@@ -1,11 +1,11 @@
 id: 537535956
-type: way
+type: node
 latitude: 46.73724
 longitude: -117.00166
 postcode: "83843"
 city: Moscow
-street: "North Main Street"
-housenumber: 337
-phone: "+1-208-882-4622"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.chrisapplianceandrefrigeration.com/"
+street: North Main Street
+housenumber: "337"
+phone: +1-208-882-4622
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.chrisapplianceandrefrigeration.com/

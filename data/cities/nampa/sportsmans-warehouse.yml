@@ -1,11 +1,11 @@
 id: 328476870
-type: way
+type: node
 latitude: 43.61365
 longitude: -116.59694
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16865
-phone: "+1 208 468 7600"
-opening_hours: "Su 10:00-18:00, Mo-Sa 09:00-21:00"
-website: "https://sportsmanswarehouse.com/"
+street: North Marketplace Boulevard
+housenumber: "16865"
+phone: +1 208 468 7600
+opening_hours: Su 10:00-18:00, Mo-Sa 09:00-21:00
+website: https://sportsmanswarehouse.com/

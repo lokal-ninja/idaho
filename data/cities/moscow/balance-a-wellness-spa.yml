@@ -4,8 +4,8 @@ latitude: 46.73182
 longitude: -117.001
 postcode: "83843"
 city: Moscow
-street: "East 4th Street"
-housenumber: 112
-phone: "+1-509-595-4225"
-opening_hours: "on appointment"
-website: "http://balancewellnessspa.com/"
+street: East 4th Street
+housenumber: "112"
+phone: +1-509-595-4225
+opening_hours: '"on appointment"'
+website: http://balancewellnessspa.com/

@@ -1,11 +1,11 @@
 id: 462655647
-type: way
+type: node
 latitude: 43.59159
 longitude: -116.41281
 postcode: "83642"
 city: Meridian
-street: "West Overland Road"
-housenumber: 1580
+street: West Overland Road
+housenumber: "1580"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 544921373
-type: way
+type: node
 latitude: 42.89204
 longitude: -112.44232
 postcode: "83201"
 city: Pocatello
-street: "East Alameda Road"
-housenumber: 860
+street: East Alameda Road
+housenumber: "860"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

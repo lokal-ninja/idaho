@@ -1,11 +1,11 @@
 id: 722779261
-type: way
+type: node
 latitude: 43.59173
 longitude: -116.19395
 postcode: "83706"
 city: Boise
-street: "South Broadway Avenue"
-housenumber: 1713
+street: South Broadway Avenue
+housenumber: "1713"
 phone: ""
 opening_hours: ""
 website: ""

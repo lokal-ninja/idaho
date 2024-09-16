@@ -1,11 +1,11 @@
 id: 523455255
-type: way
+type: node
 latitude: 46.73387
 longitude: -117.01247
 postcode: "83843"
 city: Moscow
-street: "West Pullman Road"
-housenumber: 908
-phone: "+1-208-882-2123"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.howardhughesappliance.com/"
+street: West Pullman Road
+housenumber: "908"
+phone: +1-208-882-2123
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.howardhughesappliance.com/

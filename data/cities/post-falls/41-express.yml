@@ -1,11 +1,11 @@
 id: 1020918400
-type: way
+type: node
 latitude: 47.73106
 longitude: -116.89506
 postcode: ""
 city: Post Falls
-street: "North Highway 41"
-housenumber: 2503
+street: North Highway 41
+housenumber: "2503"
 phone: ""
 opening_hours: ""
 website: ""

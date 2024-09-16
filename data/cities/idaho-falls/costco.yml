@@ -1,11 +1,11 @@
 id: 998307459
-type: way
+type: node
 latitude: 43.51338
 longitude: -111.9843
 postcode: "83401"
 city: Idaho Falls
-street: "East Lincoln Road"
-housenumber: 2495
-phone: "+1 986-497-3149"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/idaho-falls-id-1379.html"
+street: East Lincoln Road
+housenumber: "2495"
+phone: +1 986-497-3149
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/idaho-falls-id-1379.html

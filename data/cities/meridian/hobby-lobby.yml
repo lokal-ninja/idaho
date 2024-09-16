@@ -1,11 +1,11 @@
 id: 462624066
-type: way
+type: node
 latitude: 43.63749
 longitude: -116.35824
 postcode: "83646"
 city: Meridian
-street: "North Eagle Road"
-housenumber: 3547
+street: North Eagle Road
+housenumber: "3547"
 phone: ""
 opening_hours: ""
 website: ""

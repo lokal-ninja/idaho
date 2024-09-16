@@ -1,11 +1,11 @@
 id: 1242380518
-type: way
+type: node
 latitude: 43.60184
 longitude: -116.4347
 postcode: "83642"
 city: Meridian
-street: "South Ten Mile Road"
-housenumber: 315
+street: South Ten Mile Road
+housenumber: "315"
 phone: ""
 opening_hours: ""
 website: ""

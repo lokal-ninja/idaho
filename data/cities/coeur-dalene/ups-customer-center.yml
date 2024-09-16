@@ -1,11 +1,11 @@
 id: 559516114
-type: way
+type: node
 latitude: 47.70434
 longitude: -116.80879
 postcode: "83815"
 city: Coeur d'Alene
-street: "West Golf Course Road"
-housenumber: 1704
+street: West Golf Course Road
+housenumber: "1704"
 phone: ""
 opening_hours: ""
 website: ""

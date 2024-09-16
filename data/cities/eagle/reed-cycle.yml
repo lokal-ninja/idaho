@@ -1,11 +1,11 @@
 id: 893482517
-type: way
+type: node
 latitude: 43.69529
 longitude: -116.35099
 postcode: "83616"
 city: Eagle
-street: "East State Street"
-housenumber: 238
+street: East State Street
+housenumber: "238"
 phone: ""
 opening_hours: ""
 website: ""

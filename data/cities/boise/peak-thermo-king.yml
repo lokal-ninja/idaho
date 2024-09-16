@@ -1,11 +1,11 @@
 id: 1028273810
-type: way
+type: node
 latitude: 43.52635
 longitude: -116.15039
 postcode: "83716"
 city: Boise
-street: "South Federal Way"
-housenumber: 8303
+street: South Federal Way
+housenumber: "8303"
 phone: ""
 opening_hours: ""
 website: ""

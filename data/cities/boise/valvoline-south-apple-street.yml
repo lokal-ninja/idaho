@@ -1,11 +1,11 @@
 id: 764077801
-type: way
+type: node
 latitude: 43.58222
 longitude: -116.17364
 postcode: "83706"
 city: Boise
-street: "South Apple Street"
-housenumber: 2315
+street: South Apple Street
+housenumber: "2315"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/id/boise/oil-change-090090.html"
+website: https://store.vioc.com/id/boise/oil-change-090090.html

@@ -1,11 +1,11 @@
 id: 762711265
-type: way
+type: node
 latitude: 43.57626
 longitude: -116.55774
 postcode: "83651"
 city: Nampa
-street: "2nd Street South"
-housenumber: 1424
-phone: "+1-208-466-9491"
+street: 2nd Street South
+housenumber: "1424"
+phone: +1-208-466-9491
 opening_hours: ""
 website: ""

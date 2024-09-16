@@ -1,11 +1,11 @@
 id: 764448463
-type: way
+type: node
 latitude: 43.63364
 longitude: -116.26162
 postcode: "83704"
 city: Boise
-street: "West Ustick Road"
-housenumber: 6403
+street: West Ustick Road
+housenumber: "6403"
 phone: ""
 opening_hours: ""
-website: "https://www.mountainviewservicecar.com/"
+website: https://www.mountainviewservicecar.com/

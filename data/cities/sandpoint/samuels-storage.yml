@@ -1,11 +1,11 @@
 id: 1099478003
-type: way
+type: node
 latitude: 48.4294
 longitude: -116.49054
 postcode: "83864"
 city: Sandpoint
-street: "Samuels Road"
-housenumber: 55
-phone: "+1 208 263 8685"
+street: Samuels Road
+housenumber: "55"
+phone: +1 208 263 8685
 opening_hours: ""
-website: "https://www.samuelsstorage.com/"
+website: https://www.samuelsstorage.com/

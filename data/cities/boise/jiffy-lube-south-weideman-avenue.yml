@@ -1,11 +1,11 @@
 id: 771161781
-type: way
+type: node
 latitude: 43.59121
 longitude: -116.30962
 postcode: "83709"
 city: Boise
-street: "South Weideman Avenue"
-housenumber: 1484
+street: South Weideman Avenue
+housenumber: "1484"
 phone: ""
 opening_hours: ""
 website: ""

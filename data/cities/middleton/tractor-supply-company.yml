@@ -1,11 +1,11 @@
 id: 1025083073
-type: way
+type: node
 latitude: 43.70747
 longitude: -116.64576
 postcode: "83644"
 city: Middleton
-street: "West Main Street"
-housenumber: 1500
-phone: "+1-208-585-9800"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/tsc/store_Middleton-ID-83644_2331"
+street: West Main Street
+housenumber: "1500"
+phone: +1-208-585-9800
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/tsc/store_Middleton-ID-83644_2331

@@ -1,11 +1,11 @@
 id: 892845054
-type: way
+type: node
 latitude: 43.61401
 longitude: -116.24248
 postcode: "83706"
 city: Boise
-street: "West Gage Street"
-housenumber: 4910
+street: West Gage Street
+housenumber: "4910"
 phone: ""
 opening_hours: ""
-website: "https://telfordviolins.com/"
+website: https://telfordviolins.com/

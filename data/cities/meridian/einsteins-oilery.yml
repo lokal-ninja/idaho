@@ -1,11 +1,11 @@
 id: 1031120440
-type: way
+type: node
 latitude: 43.60448
 longitude: -116.43151
 postcode: "83642"
 city: Meridian
-street: "South Outpost Lane"
-housenumber: 55
+street: South Outpost Lane
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

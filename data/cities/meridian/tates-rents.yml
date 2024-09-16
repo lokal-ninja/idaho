@@ -1,11 +1,11 @@
 id: 897695676
-type: way
+type: node
 latitude: 43.60285
 longitude: -116.39213
 postcode: "83642"
 city: Meridian
-street: "South Main Street"
-housenumber: 203
+street: South Main Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

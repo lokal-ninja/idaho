@@ -1,11 +1,11 @@
 id: 1037447693
-type: way
+type: node
 latitude: 43.56682
 longitude: -116.57324
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 223
+street: 12th Avenue Road
+housenumber: "223"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 893477012
-type: way
+type: node
 latitude: 43.72047
 longitude: -116.32123
 postcode: "83714"
 city: Boise
-street: "North Horseshoe Bend Road"
-housenumber: 12795
+street: North Horseshoe Bend Road
+housenumber: "12795"
 phone: "+12089392340"
-opening_hours: "Mo-Tu 06:00-22:00; We-Su 6:00-23:00"
-website: "https://www.chevron.com/"
+opening_hours: Mo-Tu 06:00-22:00; We-Su 6:00-23:00
+website: https://www.chevron.com/

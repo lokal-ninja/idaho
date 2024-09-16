@@ -1,11 +1,11 @@
 id: 672087393
-type: way
+type: node
 latitude: 42.90656
 longitude: -112.4616
 postcode: "83202"
 city: Pocatello
-street: "West Quinn Road"
-housenumber: 700
+street: West Quinn Road
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

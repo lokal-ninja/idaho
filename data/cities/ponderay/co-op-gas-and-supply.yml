@@ -1,11 +1,11 @@
 id: 819565968
-type: way
+type: node
 latitude: 48.29731
 longitude: -116.54778
 postcode: "83852"
 city: Ponderay
-street: "Tibbetts Drive"
-housenumber: 125
-phone: "+1-208-263-6820"
-opening_hours: "Mo-Sa 07:00-18:00; Su 09:00-17:30"
-website: "https://www.coopgasandsupply.com/"
+street: Tibbetts Drive
+housenumber: "125"
+phone: +1-208-263-6820
+opening_hours: Mo-Sa 07:00-18:00; Su 09:00-17:30
+website: https://www.coopgasandsupply.com/

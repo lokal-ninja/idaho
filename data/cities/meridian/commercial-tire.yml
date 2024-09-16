@@ -1,11 +1,11 @@
 id: 311317842
-type: way
+type: node
 latitude: 43.60074
 longitude: -116.39393
 postcode: "83642"
 city: Meridian
-street: "West Pennwood Street"
-housenumber: 100
-phone: "+1 208-288-0981"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://commercialtire.com/"
+street: West Pennwood Street
+housenumber: "100"
+phone: +1 208-288-0981
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://commercialtire.com/

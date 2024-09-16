@@ -1,11 +1,11 @@
 id: 819625936
-type: way
+type: node
 latitude: 48.30427
 longitude: -116.54309
 postcode: "83852"
 city: Ponderay
-street: "Triangle Drive"
-housenumber: 1202
-phone: "+1-208-265-9999"
+street: Triangle Drive
+housenumber: "1202"
+phone: +1-208-265-9999
 opening_hours: ""
-website: "https://www.northwestautobody.com/"
+website: https://www.northwestautobody.com/

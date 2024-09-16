@@ -1,11 +1,11 @@
 id: 1030714971
-type: way
+type: node
 latitude: 43.61808
 longitude: -116.39272
 postcode: "83642"
 city: Meridian
-street: "North Meridian Road"
-housenumber: 1524
+street: North Meridian Road
+housenumber: "1524"
 phone: ""
 opening_hours: ""
 website: ""

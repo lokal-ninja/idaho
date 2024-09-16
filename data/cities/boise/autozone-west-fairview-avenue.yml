@@ -1,11 +1,11 @@
 id: 880360702
-type: way
+type: node
 latitude: 43.61904
 longitude: -116.30301
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 9707
+street: West Fairview Avenue
+housenumber: "9707"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/id/boise/9707-w-fairview-ave.html"
+website: https://www.autozone.com/locations/id/boise/9707-w-fairview-ave.html

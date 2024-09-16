@@ -1,11 +1,11 @@
 id: 785445300
-type: way
+type: node
 latitude: 42.90148
 longitude: -112.45234
 postcode: "83201"
 city: Pocatello
-street: "Yellowstone Avenue"
-housenumber: 1437
-phone: "+1-888-472-7595"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 9:00-18:00"
-website: "https://www.philmeadorsubaru.com/"
+street: Yellowstone Avenue
+housenumber: "1437"
+phone: +1-888-472-7595
+opening_hours: Mo-Fr 08:30-19:00; Sa 9:00-18:00
+website: https://www.philmeadorsubaru.com/

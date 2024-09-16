@@ -1,11 +1,11 @@
 id: 449146335
-type: way
+type: node
 latitude: 47.70966
 longitude: -116.78333
-postcode: "83815-3723"
+postcode: 83815-3723
 city: Coeur D' Alene
-street: "East Neider Avenue"
-housenumber: 355
-phone: "+1 208-676-7351"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/coeur-d-alene-id-773.html"
+street: East Neider Avenue
+housenumber: "355"
+phone: +1 208-676-7351
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/coeur-d-alene-id-773.html

@@ -1,11 +1,11 @@
 id: 666577488
-type: way
+type: node
 latitude: 43.61244
 longitude: -116.24326
 postcode: "83706"
 city: Boise
-street: "West Emerald Street"
-housenumber: 4920
+street: West Emerald Street
+housenumber: "4920"
 phone: ""
 opening_hours: ""
 website: ""

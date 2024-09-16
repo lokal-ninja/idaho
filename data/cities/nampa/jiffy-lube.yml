@@ -1,11 +1,11 @@
 id: 1214710607
-type: way
+type: node
 latitude: 43.56064
 longitude: -116.57267
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 824
+street: 12th Avenue Road
+housenumber: "824"
 phone: "+12084654431"
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

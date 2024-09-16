@@ -1,11 +1,11 @@
 id: 764319317
-type: way
+type: node
 latitude: 43.58961
 longitude: -116.37286
 postcode: "83642"
 city: Meridian
-street: "East Overland Road"
-housenumber: 1745
+street: East Overland Road
+housenumber: "1745"
 phone: ""
 opening_hours: ""
 website: ""

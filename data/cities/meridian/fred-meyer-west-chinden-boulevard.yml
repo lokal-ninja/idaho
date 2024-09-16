@@ -1,11 +1,11 @@
 id: 160442576
-type: way
+type: node
 latitude: 43.66629
 longitude: -116.41223
 postcode: "83646"
 city: Meridian
-street: "West Chinden Boulevard"
-housenumber: 1400
-phone: "+1 208-893-6000"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/grocery/id/meridian/eagle-island/701/00685"
+street: West Chinden Boulevard
+housenumber: "1400"
+phone: +1 208-893-6000
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/grocery/id/meridian/eagle-island/701/00685

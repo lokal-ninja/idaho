@@ -1,11 +1,11 @@
 id: 1270746826
-type: way
+type: node
 latitude: 43.64814
 longitude: -116.41082
 postcode: "83646"
 city: Meridian
-street: "West McMillan Road"
-housenumber: 1385
-phone: "+1-208-869-9779"
-opening_hours: "Mo,We,Fr 09:00-17:00; Tu,Th 09:00-19:00; Sa 10:00-16:00"
-website: "https://skinandtox.com/"
+street: West McMillan Road
+housenumber: "1385"
+phone: +1-208-869-9779
+opening_hours: Mo,We,Fr 09:00-17:00; Tu,Th 09:00-19:00; Sa 10:00-16:00
+website: https://skinandtox.com/

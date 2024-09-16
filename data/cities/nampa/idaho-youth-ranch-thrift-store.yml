@@ -1,11 +1,11 @@
 id: 954708577
-type: way
+type: node
 latitude: 43.60552
 longitude: -116.50406
 postcode: "83644"
 city: Nampa
-street: "East Franklin Road"
-housenumber: 5520
-phone: "+1-208-442-5216"
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-17:00"
-website: "https://www.iyrthriftstores.org/nampa-franklin"
+street: East Franklin Road
+housenumber: "5520"
+phone: +1-208-442-5216
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-17:00
+website: https://www.iyrthriftstores.org/nampa-franklin

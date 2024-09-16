@@ -1,11 +1,11 @@
 id: 1030737957
-type: way
+type: node
 latitude: 43.61094
 longitude: -116.20686
 postcode: "83702"
 city: Boise
-street: "South Capitol Boulevard"
-housenumber: 671
+street: South Capitol Boulevard
+housenumber: "671"
 phone: ""
 opening_hours: ""
 website: ""

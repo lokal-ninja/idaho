@@ -4,8 +4,8 @@ latitude: 48.73192
 longitude: -116.28738
 postcode: "83805"
 city: Bonners Ferry
-street: "US-2"
-housenumber: 64891
-phone: "+1-208-267-1175"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.dotscountrykitchen.com/"
+street: US-2
+housenumber: "64891"
+phone: +1-208-267-1175
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.dotscountrykitchen.com/

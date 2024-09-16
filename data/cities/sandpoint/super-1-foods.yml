@@ -1,11 +1,11 @@
 id: 75344254
-type: way
+type: node
 latitude: 48.28212
 longitude: -116.55681
 postcode: "83864"
 city: Sandpoint
-street: "Larch Street"
-housenumber: 624
+street: Larch Street
+housenumber: "624"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.super1foods.net/"
+opening_hours: 24/7
+website: https://www.super1foods.net/

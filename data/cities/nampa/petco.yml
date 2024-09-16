@@ -1,11 +1,11 @@
 id: 492904020
-type: way
+type: node
 latitude: 43.61148
 longitude: -116.58856
 postcode: "83687"
 city: Nampa
-street: "No Market Place Boulevard"
-housenumber: 16434
-phone: "+1 208-467-3249"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/id/nampa/pet-supplies-nampa-id-1229.html"
+street: No Market Place Boulevard
+housenumber: "16434"
+phone: +1 208-467-3249
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/id/nampa/pet-supplies-nampa-id-1229.html

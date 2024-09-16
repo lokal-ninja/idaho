@@ -1,11 +1,11 @@
 id: 698461187
-type: way
+type: node
 latitude: 43.6198
 longitude: -116.23624
 postcode: "83714"
 city: Garden City
-street: "West Chinden Boulevard"
-housenumber: 3001
+street: West Chinden Boulevard
+housenumber: "3001"
 phone: ""
 opening_hours: ""
-website: "https://www.autotrustboise.com/"
+website: https://www.autotrustboise.com/

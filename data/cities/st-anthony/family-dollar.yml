@@ -1,11 +1,11 @@
 id: 479979082
-type: way
+type: node
 latitude: 43.96853
 longitude: -111.68367
 postcode: "83445"
 city: St. Anthony
-street: "West 2nd North"
-housenumber: 100
+street: West 2nd North
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
+opening_hours: Mo-Su 08:00-22:00
 website: ""

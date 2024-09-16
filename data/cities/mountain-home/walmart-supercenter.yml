@@ -1,11 +1,11 @@
 id: 367165663
-type: way
+type: node
 latitude: 43.13723
 longitude: -115.66852
 postcode: "83647"
 city: Mountain Home
-street: "American Legion Boulevard"
-housenumber: 2745
-phone: "+1 208-587-0601"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2782/mountain-home-id/whats-new"
+street: American Legion Boulevard
+housenumber: "2745"
+phone: +1 208-587-0601
+opening_hours: 24/7
+website: https://www.walmart.com/store/2782/mountain-home-id/whats-new

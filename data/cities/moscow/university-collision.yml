@@ -1,11 +1,11 @@
 id: 537496214
-type: way
+type: node
 latitude: 46.7154
 longitude: -116.9965
 postcode: "83843"
 city: Moscow
-street: "East Palouse River Drive"
-housenumber: 435
-phone: "+1-208-882-8535"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.universitycollisionrepair.com/"
+street: East Palouse River Drive
+housenumber: "435"
+phone: +1-208-882-8535
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.universitycollisionrepair.com/

@@ -1,11 +1,11 @@
 id: 964733699
-type: way
+type: node
 latitude: 47.948
 longitude: -116.70495
 postcode: ""
 city: Athol
-street: "East Highway 54"
-housenumber: 5929
+street: East Highway 54
+housenumber: "5929"
 phone: ""
 opening_hours: ""
 website: ""

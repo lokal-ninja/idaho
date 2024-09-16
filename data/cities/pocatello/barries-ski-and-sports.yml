@@ -1,11 +1,11 @@
 id: 990784032
-type: way
+type: node
 latitude: 42.88672
 longitude: -112.45117
 postcode: "83201"
 city: Pocatello
-street: "Yellowstone Avenue"
-housenumber: 624
+street: Yellowstone Avenue
+housenumber: "624"
 phone: ""
 opening_hours: ""
 website: ""

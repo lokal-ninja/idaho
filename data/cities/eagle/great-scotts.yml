@@ -1,11 +1,11 @@
 id: 867200597
-type: way
+type: node
 latitude: 43.6929
 longitude: -116.3186
 postcode: "83616"
 city: Eagle
-street: "East Hill Road"
-housenumber: 2805
+street: East Hill Road
+housenumber: "2805"
 phone: ""
 opening_hours: ""
 website: ""

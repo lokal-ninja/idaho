@@ -2,10 +2,10 @@ id: 2399755230
 type: node
 latitude: 43.56471
 longitude: -116.57401
-postcode: "83686-9999"
+postcode: 83686-9999
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 421
-phone: "+1 208-461-6077"
+street: 12th Avenue Road
+housenumber: "421"
+phone: +1 208-461-6077
 opening_hours: ""
-website: "https://www.truevalue.com/nampatruevalue"
+website: https://www.truevalue.com/nampatruevalue

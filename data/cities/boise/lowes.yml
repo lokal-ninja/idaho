@@ -1,11 +1,11 @@
 id: 577850906
-type: way
+type: node
 latitude: 43.59312
 longitude: -116.28307
 postcode: "83709"
 city: Boise
-street: "West Overland Road"
-housenumber: 7990
-phone: "+1 208-376-1001"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/id-boise/0688"
+street: West Overland Road
+housenumber: "7990"
+phone: +1 208-376-1001
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/id-boise/0688

@@ -1,11 +1,11 @@
 id: 160442209
-type: way
+type: node
 latitude: 43.59667
 longitude: -116.39016
 postcode: "83642"
 city: Meridian
-street: "South Progress Avenue"
-housenumber: 1050
+street: South Progress Avenue
+housenumber: "1050"
 phone: ""
 opening_hours: ""
 website: ""

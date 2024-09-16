@@ -1,11 +1,11 @@
 id: 1033976555
-type: way
+type: node
 latitude: 43.57397
 longitude: -116.13724
 postcode: "83716"
 city: Boise
-street: "South Wise Way"
-housenumber: 3000
+street: South Wise Way
+housenumber: "3000"
 phone: ""
 opening_hours: ""
 website: ""

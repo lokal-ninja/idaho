@@ -1,11 +1,11 @@
 id: 884022114
-type: way
+type: node
 latitude: 46.23984
 longitude: -116.58277
 postcode: "83523"
 city: Craigmont
-street: "US Highway 95"
-housenumber: 1823
+street: US Highway 95
+housenumber: "1823"
 phone: ""
 opening_hours: ""
 website: ""

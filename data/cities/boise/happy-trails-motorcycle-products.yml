@@ -1,11 +1,11 @@
 id: 690709399
-type: way
+type: node
 latitude: 43.58341
 longitude: -116.27631
 postcode: "83709"
 city: Boise
-street: "West Lemhi Street"
-housenumber: 7577
-phone: "+1 800 4448770"
-opening_hours: "Mo-Fr 10:00-17:00; PH,Sa,Su off"
-website: "https://www.happy-trail.com"
+street: West Lemhi Street
+housenumber: "7577"
+phone: +1 800 4448770
+opening_hours: Mo-Fr 10:00-17:00; PH,Sa,Su off
+website: https://www.happy-trail.com

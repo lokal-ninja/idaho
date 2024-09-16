@@ -1,11 +1,11 @@
 id: 698878378
-type: way
+type: node
 latitude: 48.26915
 longitude: -116.56709
 postcode: "83864"
 city: Sandpoint
-street: "Michigan Street"
-housenumber: 1305
-phone: "+1-208-263-6931"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Michigan Street
+housenumber: "1305"
+phone: +1-208-263-6931
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

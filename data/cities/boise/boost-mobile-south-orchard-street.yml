@@ -1,11 +1,11 @@
 id: 867630457
-type: way
+type: node
 latitude: 43.59084
 longitude: -116.24342
 postcode: "83705"
 city: Boise
-street: "South Orchard Street"
-housenumber: 1500
+street: South Orchard Street
+housenumber: "1500"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 884938360
-type: way
+type: node
 latitude: 43.51376
 longitude: -114.30377
 postcode: "83333"
 city: Hailey
-street: "South 4th Avenue"
-housenumber: 960
-phone: "(208) 788-0959"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-18:00"
-website: "https://locations.oreillyauto.com/id/hailey/autoparts-4635.html"
+street: South 4th Avenue
+housenumber: "960"
+phone: (208) 788-0959
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-18:00
+website: https://locations.oreillyauto.com/id/hailey/autoparts-4635.html

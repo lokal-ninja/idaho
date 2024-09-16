@@ -1,11 +1,11 @@
 id: 893466603
-type: way
+type: node
 latitude: 43.61968
 longitude: -116.43266
 postcode: "83642"
 city: Meridian
-street: "West Cherry Lane"
-housenumber: 3150
+street: West Cherry Lane
+housenumber: "3150"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3150+w+cherry+ln-meridian-id-83642/id=10197"
+website: https://www.walgreens.com/locator/walgreens-3150+w+cherry+ln-meridian-id-83642/id=10197

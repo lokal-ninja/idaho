@@ -1,11 +1,11 @@
 id: 664339133
-type: way
+type: node
 latitude: 43.62223
 longitude: -116.21881
 postcode: "83702"
 city: Boise
-street: "West Main Street"
-housenumber: 2304
+street: West Main Street
+housenumber: "2304"
 phone: ""
 opening_hours: ""
 website: ""

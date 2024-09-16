@@ -1,11 +1,11 @@
 id: 1037892547
-type: way
+type: node
 latitude: 43.69371
 longitude: -116.50206
 postcode: "83669"
 city: Star
-street: "North Highbrook Way"
-housenumber: 210
-phone: "+1-208-272-9440"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://local.albertsons.com/id/star/210-n-highbrook-way.html"
+street: North Highbrook Way
+housenumber: "210"
+phone: +1-208-272-9440
+opening_hours: Mo-Su 06:00-22:00
+website: https://local.albertsons.com/id/star/210-n-highbrook-way.html

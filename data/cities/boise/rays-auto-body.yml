@@ -1,11 +1,11 @@
 id: 570829426
-type: way
+type: node
 latitude: 43.65898
 longitude: -116.26279
 postcode: "83703"
 city: Boise
-street: "West State Street"
-housenumber: 5914
-phone: "+1 208 853 8803"
+street: West State Street
+housenumber: "5914"
+phone: +1 208 853 8803
 opening_hours: ""
 website: ""

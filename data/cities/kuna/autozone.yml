@@ -1,11 +1,11 @@
 id: 893819447
-type: way
+type: node
 latitude: 43.48891
 longitude: -116.40863
 postcode: "83634"
 city: Kuna
-street: "East Avalon Street"
-housenumber: 480
+street: East Avalon Street
+housenumber: "480"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/id/kuna/480-e-avalon-st.html"
+website: https://www.autozone.com/locations/id/kuna/480-e-avalon-st.html

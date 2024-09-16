@@ -1,11 +1,11 @@
 id: 683262484
-type: way
+type: node
 latitude: 42.5609
 longitude: -113.79001
 postcode: "83318"
 city: Burley
-street: "North Overland Avenue"
-housenumber: 385
-phone: "+1 208-677-4709"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1900/burley-id/whats-new"
+street: North Overland Avenue
+housenumber: "385"
+phone: +1 208-677-4709
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1900/burley-id/whats-new

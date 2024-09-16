@@ -1,11 +1,11 @@
 id: 447940066
-type: way
+type: node
 latitude: 46.4316
 longitude: -117.00653
 postcode: "83501"
 city: Lewiston
-street: "Old Spiral Highway"
-housenumber: 1643
-phone: "+1-208-746-7087"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.kenworthsalesco.com/locations/idaho/lewiston-id/"
+street: Old Spiral Highway
+housenumber: "1643"
+phone: +1-208-746-7087
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.kenworthsalesco.com/locations/idaho/lewiston-id/

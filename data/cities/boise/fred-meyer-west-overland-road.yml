@@ -1,11 +1,11 @@
 id: 744084435
-type: way
+type: node
 latitude: 43.58883
 longitude: -116.3152
 postcode: "83709"
 city: Boise
-street: "West Overland Road"
-housenumber: 10751
-phone: "+1 208-373-5200"
-opening_hours: "Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00"
-website: "https://www.fredmeyer.com/stores/grocery/id/boise/boise/701/00439"
+street: West Overland Road
+housenumber: "10751"
+phone: +1 208-373-5200
+opening_hours: Mo-Fr 09:00-20:00;Sa 09:00-18:00;Su 10:00-17:00
+website: https://www.fredmeyer.com/stores/grocery/id/boise/boise/701/00439

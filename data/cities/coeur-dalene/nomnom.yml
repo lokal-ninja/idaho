@@ -1,11 +1,11 @@
 id: 653288680
-type: way
+type: node
 latitude: 47.70115
 longitude: -116.76551
 postcode: "83814"
 city: Coeur d'Alene
-street: "East Best Avenue"
-housenumber: 1427
+street: East Best Avenue
+housenumber: "1427"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 118984952
-type: way
+type: node
 latitude: 47.73239
 longitude: -116.79168
 postcode: "83815"
 city: Coeur d’Alene
-street: "West Hanley Avenue"
-housenumber: 200
-phone: "+1 208-762-2113"
+street: West Hanley Avenue
+housenumber: "200"
+phone: +1 208-762-2113
 opening_hours: ""
-website: "https://silverlake.center/"
+website: https://silverlake.center/

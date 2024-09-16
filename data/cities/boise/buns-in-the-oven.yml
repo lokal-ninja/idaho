@@ -1,11 +1,11 @@
 id: 682509216
-type: way
+type: node
 latitude: 43.61319
 longitude: -116.2066
 postcode: "83702"
 city: Boise
-street: "South 8th Street"
-housenumber: 413
+street: South 8th Street
+housenumber: "413"
 phone: ""
 opening_hours: ""
 website: ""

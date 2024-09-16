@@ -1,11 +1,11 @@
 id: 338072245
-type: way
+type: node
 latitude: 46.72878
 longitude: -117.00248
 postcode: "83843"
 city: Moscow
-street: "West 7th Street"
-housenumber: 123
-phone: "+1-208-882-3553"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-website: "https://www.pointstire.com/bruneel14"
+street: West 7th Street
+housenumber: "123"
+phone: +1-208-882-3553
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-16:00
+website: https://www.pointstire.com/bruneel14

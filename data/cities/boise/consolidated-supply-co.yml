@@ -1,11 +1,11 @@
 id: 680645452
-type: way
+type: node
 latitude: 43.6119
 longitude: -116.31515
 postcode: "83713"
 city: Boise
-street: "North Five Mile Road"
-housenumber: 777
+street: North Five Mile Road
+housenumber: "777"
 phone: ""
 opening_hours: ""
 website: ""

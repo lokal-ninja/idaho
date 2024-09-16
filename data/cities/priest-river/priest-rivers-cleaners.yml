@@ -1,11 +1,11 @@
 id: 1188780999
-type: way
+type: node
 latitude: 48.18322
 longitude: -116.91608
 postcode: "83856"
 city: Priest River
-street: "9th Street"
-housenumber: 415
+street: 9th Street
+housenumber: "415"
 phone: ""
 opening_hours: ""
 website: ""

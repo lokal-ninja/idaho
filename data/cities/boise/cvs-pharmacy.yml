@@ -1,11 +1,11 @@
 id: 1034354390
-type: way
+type: node
 latitude: 43.62016
 longitude: -116.27512
 postcode: "83704"
 city: Boise
-street: "West Fairview Avenue"
-housenumber: 7402
+street: West Fairview Avenue
+housenumber: "7402"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/boise-id-pharmacies/7402-west-fairview-ave-boise-id-83704/storeid=11169"
+website: https://www.cvs.com/store-locator/boise-id-pharmacies/7402-west-fairview-ave-boise-id-83704/storeid=11169

@@ -1,11 +1,11 @@
 id: 683401092
-type: way
+type: node
 latitude: 43.64955
 longitude: -116.43586
 postcode: "83646"
 city: Meridian
-street: "North Ten Mile Road"
-housenumber: 5001
-phone: "+1 208-982-3045"
-opening_hours: "Mo-Su 05:00-24:00"
-website: "https://www.walmart.com/store/5841/meridian-id/whats-new"
+street: North Ten Mile Road
+housenumber: "5001"
+phone: +1 208-982-3045
+opening_hours: Mo-Su 05:00-24:00
+website: https://www.walmart.com/store/5841/meridian-id/whats-new

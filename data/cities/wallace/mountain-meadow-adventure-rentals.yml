@@ -1,11 +1,11 @@
 id: 903475331
-type: way
+type: node
 latitude: 47.47303
 longitude: -115.9251
 postcode: "83873"
 city: Wallace
-street: "5th Street"
-housenumber: 301
+street: 5th Street
+housenumber: "301"
 phone: ""
 opening_hours: ""
-website: "https://www.mountainmeadowrentals.com/"
+website: https://www.mountainmeadowrentals.com/

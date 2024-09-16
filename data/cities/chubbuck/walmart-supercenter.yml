@@ -1,11 +1,11 @@
 id: 133632688
-type: way
+type: node
 latitude: 42.9091
 longitude: -112.46281
 postcode: "83202"
 city: Chubbuck
-street: "Yellowstone Avenue"
-housenumber: 4240
-phone: "+1 208-237-5090"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1995/chubbuck-id/whats-new"
+street: Yellowstone Avenue
+housenumber: "4240"
+phone: +1 208-237-5090
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1995/chubbuck-id/whats-new

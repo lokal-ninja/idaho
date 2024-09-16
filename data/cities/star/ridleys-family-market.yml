@@ -1,11 +1,11 @@
 id: 961211575
-type: way
+type: node
 latitude: 43.69003
 longitude: -116.4748
 postcode: "83669"
 city: Star
-street: "South Plummer Way"
-housenumber: 145
+street: South Plummer Way
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

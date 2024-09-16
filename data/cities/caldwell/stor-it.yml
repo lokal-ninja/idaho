@@ -1,11 +1,11 @@
 id: 993757407
-type: way
+type: node
 latitude: 43.62359
 longitude: -116.62735
 postcode: "83607"
 city: Caldwell
-street: "East Cleveland Boulevard"
-housenumber: 6617
-phone: "+1-208-453-8881"
+street: East Cleveland Boulevard
+housenumber: "6617"
+phone: +1-208-453-8881
 opening_hours: ""
 website: ""

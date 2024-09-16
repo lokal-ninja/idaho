@@ -1,11 +1,11 @@
 id: 492904023
-type: way
+type: node
 latitude: 43.61083
 longitude: -116.58921
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16390
-phone: "+1-208-216-0667"
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-20:00"
-website: "https://stores.ashleyfurniture.com/store/us/idaho/nampa/9000738894/"
+street: North Marketplace Boulevard
+housenumber: "16390"
+phone: +1-208-216-0667
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-20:00
+website: https://stores.ashleyfurniture.com/store/us/idaho/nampa/9000738894/

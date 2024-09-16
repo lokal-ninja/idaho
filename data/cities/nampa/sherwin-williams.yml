@@ -1,11 +1,11 @@
 id: 1207617792
-type: way
+type: node
 latitude: 43.53742
 longitude: -116.57235
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 3294
+street: 12th Avenue Road
+housenumber: "3294"
 phone: "+12084675200"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 08:00-17:00, Su 10:00-16:00"
-website: "https://sherwin-williams.com"
+opening_hours: Mo-Fr 07:00-18:00, Sa 08:00-17:00, Su 10:00-16:00
+website: https://sherwin-williams.com

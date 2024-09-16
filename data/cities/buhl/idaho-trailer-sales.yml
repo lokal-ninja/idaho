@@ -1,11 +1,11 @@
 id: 1165421270
-type: way
+type: node
 latitude: 42.59614
 longitude: -114.75726
 postcode: "83316"
 city: Buhl
-street: "Burke Street"
-housenumber: 1050
-phone: "(208) 543-5351"
+street: Burke Street
+housenumber: "1050"
+phone: (208) 543-5351
 opening_hours: ""
-website: "https://www.idahotrailersales.com/"
+website: https://www.idahotrailersales.com/

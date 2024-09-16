@@ -1,11 +1,11 @@
 id: 675850650
-type: way
+type: node
 latitude: 43.68962
 longitude: -116.35528
 postcode: "83616"
 city: Eagle
-street: "South Eagle Road"
-housenumber: 503
+street: South Eagle Road
+housenumber: "503"
 phone: ""
 opening_hours: ""
 website: ""

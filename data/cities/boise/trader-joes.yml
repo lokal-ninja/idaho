@@ -1,11 +1,11 @@
 id: 306783526
-type: way
+type: node
 latitude: 43.61324
 longitude: -116.20385
 postcode: "83702"
 city: Boise
-street: "South Capitol Boulevard"
-housenumber: 300
-phone: "+1 208-336-7282"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://locations.traderjoes.com/id/boise/360/"
+street: South Capitol Boulevard
+housenumber: "300"
+phone: +1 208-336-7282
+opening_hours: Mo-Su 08:00-21:00
+website: https://locations.traderjoes.com/id/boise/360/

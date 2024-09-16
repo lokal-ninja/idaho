@@ -1,11 +1,11 @@
 id: 1314082392
-type: way
+type: node
 latitude: 43.67273
 longitude: -111.91901
 postcode: "83442"
 city: Rigby
-street: "North 1st West"
-housenumber: 125
+street: North 1st West
+housenumber: "125"
 phone: "+19862226000"
 opening_hours: ""
 website: ""

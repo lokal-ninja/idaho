@@ -1,11 +1,11 @@
 id: 162511533
-type: way
+type: node
 latitude: 43.49333
 longitude: -112.03864
 postcode: "83402"
 city: Idaho Falls
-street: "Shoup Avenue"
-housenumber: 520
+street: Shoup Avenue
+housenumber: "520"
 phone: ""
-opening_hours: "Mo-Th 10:00-17:00; Fr open By Appointment; Sa-Su off"
+opening_hours: Mo-Th 10:00-17:00; Fr open "By Appointment"; Sa-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 762710637
-type: way
+type: node
 latitude: 43.58217
 longitude: -116.55837
 postcode: "83651"
 city: Nampa
-street: "11th Avenue North"
-housenumber: 127
-phone: "+1 208-466-9241"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00"
-website: "https://commercialtire.com/"
+street: 11th Avenue North
+housenumber: "127"
+phone: +1 208-466-9241
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00
+website: https://commercialtire.com/

@@ -1,11 +1,11 @@
 id: 955068751
-type: way
+type: node
 latitude: 43.57497
 longitude: -116.27338
 postcode: "83709"
 city: Boise
-street: "West Victory Road"
-housenumber: 7353
+street: West Victory Road
+housenumber: "7353"
 phone: ""
 opening_hours: ""
 website: ""

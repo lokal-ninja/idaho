@@ -1,11 +1,11 @@
 id: 967610244
-type: way
+type: node
 latitude: 47.81143
 longitude: -116.88913
 postcode: ""
 city: Rathdrum
-street: "North Highway 41"
-housenumber: 15370
+street: North Highway 41
+housenumber: "15370"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 903475330
-type: way
+type: node
 latitude: 47.47315
 longitude: -115.92489
 postcode: "83873"
 city: Wallace
-street: "Pine Street"
-housenumber: 510
+street: Pine Street
+housenumber: "510"
 phone: ""
 opening_hours: ""
 website: ""

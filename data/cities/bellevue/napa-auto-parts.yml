@@ -4,8 +4,8 @@ latitude: 43.46666
 longitude: -114.26153
 postcode: "83313"
 city: Bellevue
-street: "N Main Street"
-housenumber: 218
-phone: "+1-208-788-5721"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 09:00-14:00, Su closed"
-website: "https://www.napaonline.com/id/bellevue"
+street: N Main Street
+housenumber: "218"
+phone: +1-208-788-5721
+opening_hours: Mo-Fr 08:00-18:00, Sa 09:00-14:00, Su closed
+website: https://www.napaonline.com/id/bellevue

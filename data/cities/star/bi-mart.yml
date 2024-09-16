@@ -1,11 +1,11 @@
 id: 901013405
-type: way
+type: node
 latitude: 43.69099
 longitude: -116.49565
 postcode: "83669"
 city: Star
-street: "West State Street"
-housenumber: 11347
+street: West State Street
+housenumber: "11347"
 phone: ""
 opening_hours: ""
 website: ""

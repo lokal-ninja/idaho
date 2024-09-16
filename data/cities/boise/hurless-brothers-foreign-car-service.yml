@@ -4,8 +4,8 @@ latitude: 43.61919
 longitude: -116.21004
 postcode: "83702"
 city: Boise
-street: "West Main Street"
-housenumber: 1320
-phone: "+1-208-385-0200"
+street: West Main Street
+housenumber: "1320"
+phone: +1-208-385-0200
 opening_hours: ""
-website: "https://hurlessbros.com/"
+website: https://hurlessbros.com/

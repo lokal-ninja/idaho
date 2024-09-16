@@ -1,11 +1,11 @@
 id: 1160106380
-type: way
+type: node
 latitude: 44.73212
 longitude: -116.07872
 postcode: "83615"
 city: Donnelly
-street: "North Main Street"
-housenumber: 165
-phone: "+1 208-970-0848"
+street: North Main Street
+housenumber: "165"
+phone: +1 208-970-0848
 opening_hours: ""
-website: "https://truevaluecompany.com"
+website: https://truevaluecompany.com

@@ -1,11 +1,11 @@
 id: 1257585371
-type: way
+type: node
 latitude: 47.71136
 longitude: -116.93666
 postcode: "83854"
 city: Post Falls
-street: "East 4th Avenue"
-housenumber: 851
+street: East 4th Avenue
+housenumber: "851"
 phone: ""
 opening_hours: ""
 website: ""

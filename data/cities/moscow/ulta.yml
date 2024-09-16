@@ -4,8 +4,8 @@ latitude: 46.73434
 longitude: -117.02657
 postcode: "83843"
 city: Moscow
-street: "West Pullman Road"
-housenumber: 1730
-phone: "+1 208-882-1578"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/moscow-id-1235"
+street: West Pullman Road
+housenumber: "1730"
+phone: +1 208-882-1578
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/moscow-id-1235

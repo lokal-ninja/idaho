@@ -1,11 +1,11 @@
 id: 239372558
-type: way
+type: node
 latitude: 43.49583
 longitude: -112.04966
 postcode: "83402"
 city: Idaho Falls
-street: "West Broadway Street"
-housenumber: 980
-phone: "208 413 9578"
+street: West Broadway Street
+housenumber: "980"
+phone: 208 413 9578
 opening_hours: ""
-website: "https://www.lithiafordidahofalls.com/"
+website: https://www.lithiafordidahofalls.com/

@@ -1,11 +1,11 @@
 id: 764073064
-type: way
+type: node
 latitude: 43.57965
 longitude: -116.1729
 postcode: "83706"
 city: Boise
-street: "South Apple Street"
-housenumber: 2534
-phone: "+1 208-331-8473"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://commercialtire.com/"
+street: South Apple Street
+housenumber: "2534"
+phone: +1 208-331-8473
+opening_hours: Mo-Fr 07:30-18:00
+website: https://commercialtire.com/

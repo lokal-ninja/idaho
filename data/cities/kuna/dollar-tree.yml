@@ -1,11 +1,11 @@
 id: 1003784599
-type: way
+type: node
 latitude: 43.49703
 longitude: -116.39537
 postcode: "83634"
 city: Kuna
-street: "North Meridian Road"
-housenumber: 975
+street: North Meridian Road
+housenumber: "975"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.dollartree.com/locations/id/kuna/7044/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.dollartree.com/locations/id/kuna/7044/

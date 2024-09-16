@@ -1,11 +1,11 @@
 id: 270961086
-type: way
+type: node
 latitude: 47.54529
 longitude: -116.18745
 postcode: "83868"
 city: Smelterville
-street: "Commerce Drive"
-housenumber: 583
-phone: "+1 208-783-0426"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4249/smelterville-id/whats-new"
+street: Commerce Drive
+housenumber: "583"
+phone: +1 208-783-0426
+opening_hours: 24/7
+website: https://www.walmart.com/store/4249/smelterville-id/whats-new

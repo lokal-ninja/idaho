@@ -1,11 +1,11 @@
 id: 1230139687
-type: way
+type: node
 latitude: 43.63327
 longitude: -116.22578
 postcode: "83703"
 city: Boise
-street: "West State Street"
-housenumber: 3101
+street: West State Street
+housenumber: "3101"
 phone: ""
 opening_hours: ""
-website: "https://www.blackcatboise.com/"
+website: https://www.blackcatboise.com/

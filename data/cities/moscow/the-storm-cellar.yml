@@ -4,8 +4,8 @@ latitude: 46.73088
 longitude: -117.00117
 postcode: "83843"
 city: Moscow
-street: "South Main Street"
-housenumber: 504
-phone: "+1-208-874-4345"
-opening_hours: "Tu-Sa 10:00-18:00"
-website: "https://www.moscowstormcellar.com/"
+street: South Main Street
+housenumber: "504"
+phone: +1-208-874-4345
+opening_hours: Tu-Sa 10:00-18:00
+website: https://www.moscowstormcellar.com/

@@ -4,8 +4,8 @@ latitude: 47.47148
 longitude: -115.92523
 postcode: "83873"
 city: Wallace
-street: "Bank Street"
-housenumber: 504
+street: Bank Street
+housenumber: "504"
 phone: ""
-opening_hours: "Mo-Su 09:00-17:00"
-website: "https://www.facebook.com/northidahotrading"
+opening_hours: Mo-Su 09:00-17:00
+website: https://www.facebook.com/northidahotrading

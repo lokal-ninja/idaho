@@ -1,11 +1,11 @@
 id: 326242310
-type: way
+type: node
 latitude: 44.07036
 longitude: -116.93458
 postcode: "83661"
 city: Payette
-street: "South Main Street"
-housenumber: 405
-phone: "+1 208-642-9075"
-opening_hours: "Mo-Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00"
-website: "https://local.albertsons.com/id/payette/405-s-main-st.html"
+street: South Main Street
+housenumber: "405"
+phone: +1 208-642-9075
+opening_hours: Mo-Fr 07:00-23:00; Sa 07:00-23:00; Su 07:00-23:00
+website: https://local.albertsons.com/id/payette/405-s-main-st.html

@@ -1,11 +1,11 @@
 id: 310900276
-type: way
+type: node
 latitude: 43.61909
 longitude: -116.35296
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 3355
+street: East Fairview Avenue
+housenumber: "3355"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/id/meridian/5346/meridian-crossroads-gamestop"
+website: https://www.gamestop.com/store/us/id/meridian/5346/meridian-crossroads-gamestop

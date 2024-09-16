@@ -1,11 +1,11 @@
 id: 1019244888
-type: way
+type: node
 latitude: 47.71596
 longitude: -116.99256
 postcode: ""
 city: Post Falls
-street: "West Seltice Way"
-housenumber: 3319
-phone: "+1-208-457-3737"
-opening_hours: "Mo-Fr 08:00-16:30"
+street: West Seltice Way
+housenumber: "3319"
+phone: +1-208-457-3737
+opening_hours: Mo-Fr 08:00-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 582956195
-type: way
+type: node
 latitude: 43.61434
 longitude: -116.59785
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16905
-phone: "+1 208-546-3433"
-opening_hours: "Su 10:00-19:00; Mo-Sa 09:00-21:00"
-website: "https://stores.dickssportinggoods.com/id/nampa/1167/"
+street: North Marketplace Boulevard
+housenumber: "16905"
+phone: +1 208-546-3433
+opening_hours: Su 10:00-19:00; Mo-Sa 09:00-21:00
+website: https://stores.dickssportinggoods.com/id/nampa/1167/

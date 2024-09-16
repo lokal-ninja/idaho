@@ -1,11 +1,11 @@
 id: 289655330
-type: way
+type: node
 latitude: 43.83896
 longitude: -111.77764
 postcode: "83440"
 city: Rexburg
-street: "North 2nd East"
-housenumber: 594
+street: North 2nd East
+housenumber: "594"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/id/rexburg/594-n-2nd-e-st.html"
+website: https://www.autozone.com/locations/id/rexburg/594-n-2nd-e-st.html

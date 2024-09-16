@@ -4,8 +4,8 @@ latitude: 43.54656
 longitude: -116.57225
 postcode: "83686"
 city: Nampa
-street: "12th Avenue Road"
-housenumber: 2308
+street: 12th Avenue Road
+housenumber: "2308"
 phone: "+12084669475"
-opening_hours: "Mo-Th 09:00-20:00, Sa 09:00-18:00, Su 11:00-17:00"
-website: "https://sportclips.com"
+opening_hours: Mo-Th 09:00-20:00, Sa 09:00-18:00, Su 11:00-17:00
+website: https://sportclips.com

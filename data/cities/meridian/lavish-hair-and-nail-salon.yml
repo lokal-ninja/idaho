@@ -1,11 +1,11 @@
 id: 782235203
-type: way
+type: node
 latitude: 43.61398
 longitude: -116.39184
 postcode: "83642"
 city: Meridian
-street: "North Main Street"
-housenumber: 1103
+street: North Main Street
+housenumber: "1103"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 233788697
-type: way
+type: node
 latitude: 43.67941
 longitude: -114.36491
 postcode: "83340"
 city: Ketchum
-street: "2nd Street East"
-housenumber: 131
+street: 2nd Street East
+housenumber: "131"
 phone: ""
 opening_hours: ""
-website: "https://www.durance.com/"
+website: https://www.durance.com/

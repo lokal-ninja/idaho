@@ -1,11 +1,11 @@
 id: 1154904674
-type: way
+type: node
 latitude: 43.61238
 longitude: -116.61203
 postcode: "83652"
 city: Nampa
-street: "Caldwell Boulevard"
-housenumber: 2510
-phone: "+1-208-495-5758"
+street: Caldwell Boulevard
+housenumber: "2510"
+phone: +1-208-495-5758
 opening_hours: ""
-website: "https://www.dennisdilloncanyonhonda.com"
+website: https://www.dennisdilloncanyonhonda.com

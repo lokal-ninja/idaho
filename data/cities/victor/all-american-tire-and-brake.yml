@@ -4,8 +4,8 @@ latitude: 43.60296
 longitude: -111.11499
 postcode: "83455"
 city: Victor
-street: "West Center Street"
-housenumber: 111
-phone: "+1-208-787-8473"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:30"
+street: West Center Street
+housenumber: "111"
+phone: +1-208-787-8473
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:30
 website: ""

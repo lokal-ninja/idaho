@@ -1,11 +1,11 @@
 id: 582956167
-type: way
+type: node
 latitude: 43.61208
 longitude: -116.59218
 postcode: "83687"
 city: Nampa
-street: "North Marketplace Boulevard"
-housenumber: 16475
-phone: "+1 208-467-0982"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/nampa-id-460"
+street: North Marketplace Boulevard
+housenumber: "16475"
+phone: +1 208-467-0982
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/nampa-id-460

@@ -1,11 +1,11 @@
 id: 892846716
-type: way
+type: node
 latitude: 43.61617
 longitude: -116.24209
 postcode: "83706"
 city: Boise
-street: "West Irving Street"
-housenumber: 4800
+street: West Irving Street
+housenumber: "4800"
 phone: ""
 opening_hours: ""
-website: "https://www.oceanbeauty.com/locations/boise-idaho/"
+website: https://www.oceanbeauty.com/locations/boise-idaho/

@@ -1,11 +1,11 @@
 id: 675220984
-type: way
+type: node
 latitude: 43.60191
 longitude: -116.51313
 postcode: "83687"
 city: Nampa
-street: "East Gate Boulevard"
-housenumber: 5707
-phone: "+1 888 485 7917"
-opening_hours: "Mo-Fr 08:00 - 20:00; Sa 08:00 - 19:00"
-website: "https://corwinfordnampa.com/"
+street: East Gate Boulevard
+housenumber: "5707"
+phone: +1 888 485 7917
+opening_hours: Mo-Fr 08:00 - 20:00; Sa 08:00 - 19:00
+website: https://corwinfordnampa.com/

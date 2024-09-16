@@ -1,11 +1,11 @@
 id: 289575691
-type: way
+type: node
 latitude: 43.82626
 longitude: -111.78324
 postcode: "83440"
 city: Rexburg
-street: "East Main Street"
-housenumber: 19
+street: East Main Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

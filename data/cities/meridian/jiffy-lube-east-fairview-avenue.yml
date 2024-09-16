@@ -1,11 +1,11 @@
 id: 893474549
-type: way
+type: node
 latitude: 43.61956
 longitude: -116.38752
 postcode: "83642"
 city: Meridian
-street: "East Fairview Avenue"
-housenumber: 360
+street: East Fairview Avenue
+housenumber: "360"
 phone: ""
 opening_hours: ""
 website: ""

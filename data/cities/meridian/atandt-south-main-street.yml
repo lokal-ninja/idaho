@@ -1,11 +1,11 @@
 id: 935874477
-type: way
+type: node
 latitude: 43.59862
 longitude: -116.39323
 postcode: "83642"
 city: Meridian
-street: "South Main Street"
-housenumber: 663
+street: South Main Street
+housenumber: "663"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-20:00; Su 11:00-18:00
 website: ""

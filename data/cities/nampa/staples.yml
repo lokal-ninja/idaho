@@ -1,11 +1,11 @@
 id: 328510373
-type: way
+type: node
 latitude: 43.6069
 longitude: -116.60609
 postcode: "83651"
 city: Nampa
-street: "Caldwell Boulevard"
-housenumber: 1901
+street: Caldwell Boulevard
+housenumber: "1901"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00"
-website: "https://stores.staples.com/id/nampa/1901-caldwell-blvd"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 11:00-17:00
+website: https://stores.staples.com/id/nampa/1901-caldwell-blvd

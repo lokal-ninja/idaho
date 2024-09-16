@@ -1,11 +1,11 @@
 id: 687457046
-type: way
+type: node
 latitude: 44.24394
 longitude: -116.96648
 postcode: "83672"
 city: Weiser
-street: "East Commercial Street"
-housenumber: 265
+street: East Commercial Street
+housenumber: "265"
 phone: ""
 opening_hours: ""
 website: ""

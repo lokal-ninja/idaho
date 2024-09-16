@@ -1,11 +1,11 @@
 id: 462624059
-type: way
+type: node
 latitude: 43.69271
 longitude: -116.35245
 postcode: "83616"
 city: Eagle
-street: "South Eagle Road"
-housenumber: 250
-phone: "+1 208-939-9850"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/id/eagle/250-s-eagle-rd.html"
+street: South Eagle Road
+housenumber: "250"
+phone: +1 208-939-9850
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/id/eagle/250-s-eagle-rd.html

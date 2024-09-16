@@ -1,11 +1,11 @@
 id: 271347560
-type: way
+type: node
 latitude: 47.54087
 longitude: -116.12395
 postcode: "83837"
 city: Kellogg
-street: "West Cameron Avenue"
-housenumber: 207
-phone: "+1 208-784-6218"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: West Cameron Avenue
+housenumber: "207"
+phone: +1 208-784-6218
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

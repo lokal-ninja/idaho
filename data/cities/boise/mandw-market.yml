@@ -1,11 +1,11 @@
 id: 666218629
-type: way
+type: node
 latitude: 43.6026
 longitude: -116.17304
 postcode: "83712"
 city: Boise
-street: "East Warm Springs Avenue"
-housenumber: 1835
+street: East Warm Springs Avenue
+housenumber: "1835"
 phone: ""
 opening_hours: ""
 website: ""

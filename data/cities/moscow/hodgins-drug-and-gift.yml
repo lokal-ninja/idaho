@@ -1,11 +1,11 @@
 id: 439536516
-type: way
+type: node
 latitude: 46.73203
 longitude: -117.0016
 postcode: "83843"
 city: Moscow
-street: "South Main Street"
-housenumber: 309
+street: South Main Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

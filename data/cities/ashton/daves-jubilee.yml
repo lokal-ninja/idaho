@@ -1,11 +1,11 @@
 id: 546440223
-type: way
+type: node
 latitude: 44.07064
 longitude: -111.45624
 postcode: "83420"
 city: Ashton
-street: "US 20"
-housenumber: 108
+street: US 20
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

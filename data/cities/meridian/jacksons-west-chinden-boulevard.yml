@@ -1,11 +1,11 @@
 id: 1125068234
-type: way
+type: node
 latitude: 43.66256
 longitude: -116.40787
 postcode: "83646"
 city: Meridian
-street: "West Chinden Boulevard"
-housenumber: 1133
+street: West Chinden Boulevard
+housenumber: "1133"
 phone: ""
 opening_hours: ""
 website: ""

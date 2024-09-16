@@ -4,8 +4,8 @@ latitude: 42.8789
 longitude: -112.45775
 postcode: "83201"
 city: Pocatello
-street: "Garrett Way"
-housenumber: 1800
-phone: "+1-208-232-2208"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "https://idahosews.com/"
+street: Garrett Way
+housenumber: "1800"
+phone: +1-208-232-2208
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: https://idahosews.com/

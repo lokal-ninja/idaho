@@ -1,11 +1,11 @@
 id: 764049114
-type: way
+type: node
 latitude: 43.57379
 longitude: -116.16408
 postcode: "83706"
 city: Boise
-street: "East Boise Avenue"
-housenumber: 1575
+street: East Boise Avenue
+housenumber: "1575"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 698461115
-type: way
+type: node
 latitude: 43.62215
 longitude: -116.23787
 postcode: "83714"
 city: Garden City
-street: "West Chinden Boulevard"
-housenumber: 3242
+street: West Chinden Boulevard
+housenumber: "3242"
 phone: ""
 opening_hours: ""
-website: "https://www.zionartglass.com/"
+website: https://www.zionartglass.com/

@@ -1,11 +1,11 @@
 id: 663363430
-type: way
+type: node
 latitude: 43.62365
 longitude: -116.20851
 postcode: "83702"
 city: Boise
-street: "West Washington Street"
-housenumber: 1503
+street: West Washington Street
+housenumber: "1503"
 phone: ""
 opening_hours: ""
 website: ""

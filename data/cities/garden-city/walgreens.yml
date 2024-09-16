@@ -1,11 +1,11 @@
 id: 568828200
-type: way
+type: node
 latitude: 43.66656
 longitude: -116.28034
 postcode: "83714"
 city: Garden City
-street: "North Glenwood Street"
-housenumber: 6725
+street: North Glenwood Street
+housenumber: "6725"
 phone: ""
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-6725+n+glenwood+st-boise-id-83714/id=1972"
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-6725+n+glenwood+st-boise-id-83714/id=1972

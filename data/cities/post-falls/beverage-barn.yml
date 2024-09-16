@@ -1,11 +1,11 @@
 id: 1257606654
-type: way
+type: node
 latitude: 47.71036
 longitude: -116.92633
 postcode: "83854"
 city: Post Falls
-street: "North Bay Street"
-housenumber: 447
+street: North Bay Street
+housenumber: "447"
 phone: ""
 opening_hours: ""
 website: ""

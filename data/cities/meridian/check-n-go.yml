@@ -4,8 +4,8 @@ latitude: 43.60087
 longitude: -116.39318
 postcode: "83642"
 city: Meridian
-street: "South Meridian Road"
-housenumber: 450
+street: South Meridian Road
+housenumber: "450"
 phone: ""
-opening_hours: "Mo-Fr 10:30-18:00; Sa 10:00-14:00"
-website: "https://www.checkngo.com/"
+opening_hours: Mo-Fr 10:30-18:00; Sa 10:00-14:00
+website: https://www.checkngo.com/
