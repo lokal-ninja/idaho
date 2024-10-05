@@ -1,5 +1,5 @@
 ---
-title: "Builder's Firstsource"
+title: "Builders FirstSource"
 url: /rexburg/builders-firstsource/
-shop: hardware
+shop: trade
 ---

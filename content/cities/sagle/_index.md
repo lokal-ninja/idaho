@@ -1,6 +1,6 @@
 ---
 title: Sagle
 url: /sagle/
-latitude: 48.207
-longitude: -116.561
+latitude: 48.209
+longitude: -116.562
 ---
