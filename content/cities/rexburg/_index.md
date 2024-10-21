@@ -1,6 +1,6 @@
 ---
 title: Rexburg
 url: /rexburg/
-latitude: 43.826
-longitude: -111.782
+latitude: 43.837
+longitude: -111.778
 ---

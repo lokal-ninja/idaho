@@ -1,6 +1,6 @@
 ---
 title: Boise
 url: /boise/
-latitude: 43.592
-longitude: -116.313
+latitude: 43.617
+longitude: -116.207
 ---
