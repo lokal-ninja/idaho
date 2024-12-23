@@ -1,6 +1,6 @@
 ---
 title: Emmett
 url: /emmett/
-latitude: 43.862
-longitude: -116.491
+latitude: 43.861
+longitude: -116.492
 ---
