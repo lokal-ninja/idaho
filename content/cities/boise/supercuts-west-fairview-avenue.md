@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
-url: /boise/supercuts-west-state-street-2/
+url: /boise/supercuts-west-fairview-avenue/
 shop: hairdresser
 ---
