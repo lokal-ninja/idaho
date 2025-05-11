@@ -1,6 +1,6 @@
 ---
 title: Hayden
 url: /hayden/
-latitude: 47.746
+latitude: 47.758
 longitude: -116.789
 ---

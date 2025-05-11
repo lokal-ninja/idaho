@@ -1,6 +1,6 @@
 ---
 title: Priest River
 url: /priest-river/
-latitude: 48.183
-longitude: -116.916
+latitude: 48.182
+longitude: -116.923
 ---
