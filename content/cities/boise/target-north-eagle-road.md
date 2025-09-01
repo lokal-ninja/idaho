@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /boise/target-north-milwaukee-street/
+url: /boise/target-north-eagle-road/
 shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
-url: /boise/stinker-south-federal-way/
+url: /boise/stinker-north-13th-street/
 shop: convenience
 ---
