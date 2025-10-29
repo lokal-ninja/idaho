@@ -1,6 +1,6 @@
 ---
 title: Twin Falls
 url: /twin-falls/
-latitude: 42.577
-longitude: -114.459
+latitude: 42.591
+longitude: -114.463
 ---
