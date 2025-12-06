@@ -1,6 +1,6 @@
 ---
 title: Sandpoint
 url: /sandpoint/
-latitude: 48.309
-longitude: -116.513
+latitude: 48.276
+longitude: -116.547
 ---
