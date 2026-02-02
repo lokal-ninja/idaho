@@ -1,6 +1,6 @@
 ---
 title: Jerome
 url: /jerome/
-latitude: 42.692
-longitude: -114.518
+latitude: 42.705
+longitude: -114.521
 ---
