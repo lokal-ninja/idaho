@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
-url: /boise/valvoline-west-overland-road/
+url: /boise/valvoline-south-apple-street/
 shop: car repair
 ---
