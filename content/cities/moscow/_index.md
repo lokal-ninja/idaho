@@ -1,6 +1,6 @@
 ---
 title: Moscow
 url: /moscow/
-latitude: 46.731
-longitude: -117.002
+latitude: 46.734
+longitude: -117.025
 ---
