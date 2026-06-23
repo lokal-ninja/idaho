@@ -1,6 +1,6 @@
 ---
 title: Island Park
 url: /island-park/
-latitude: 44.522
-longitude: -111.328
+latitude: 44.453
+longitude: -111.361
 ---

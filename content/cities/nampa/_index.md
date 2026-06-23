@@ -1,6 +1,6 @@
 ---
 title: Nampa
 url: /nampa/
-latitude: 43.556
-longitude: -116.574
+latitude: 43.56
+longitude: -116.584
 ---
