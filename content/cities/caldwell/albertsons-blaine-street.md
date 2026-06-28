@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /boise/albertsons-west-overland-road-2/
+url: /caldwell/albertsons-blaine-street/
 shop: supermarket
 ---

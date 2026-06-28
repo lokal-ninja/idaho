@@ -1,5 +1,5 @@
 ---
 title: "Stinker"
-url: /boise/stinker-north-cole-road/
+url: /boise/stinker-south-cole-road/
 shop: convenience
 ---
