@@ -1,6 +1,6 @@
 ---
 title: Gooding
 url: /gooding/
-latitude: 42.939
-longitude: -114.713
+latitude: 42.927
+longitude: -114.712
 ---
